@@ -1,0 +1,42 @@
+2022-03-22 15:54:08.191 [main] INFO  App - ==== Printing Command Line Arguments ====
+2022-03-22 15:54:08.196 [main] INFO  App - args[0] is: hi
+2022-03-22 15:54:08.197 [main] INFO  App - args[1] is: my
+2022-03-22 15:54:08.197 [main] INFO  App - args[2] is: name
+2022-03-22 15:54:08.197 [main] INFO  App - args[3] is: is
+2022-03-22 15:54:08.197 [main] INFO  App - args[4] is: nick
+2022-03-22 15:54:08.197 [main] INFO  App - args[5] is: wright
+2022-03-22 15:54:51.300 [main] INFO  App - ==== Printing Command Line Arguments ====
+2022-03-22 15:54:51.303 [main] INFO  App - args[0] is: hi
+2022-03-22 15:54:51.303 [main] INFO  App - args[1] is: my
+2022-03-22 15:54:51.303 [main] INFO  App - args[2] is: name
+2022-03-22 15:54:51.304 [main] INFO  App - args[3] is: is
+2022-03-22 15:54:51.304 [main] INFO  App - args[4] is: nick
+2022-03-22 15:54:51.304 [main] INFO  App - args[5] is: wright
+2022-03-22 15:56:57.567 [main] INFO  App - ==== Printing Command Line Arguments ====
+2022-03-22 15:56:57.571 [main] INFO  App - args[0] is: hi
+2022-03-22 15:56:57.571 [main] INFO  App - args[1] is: my
+2022-03-22 15:56:57.571 [main] INFO  App - args[2] is: name
+2022-03-22 15:56:57.571 [main] INFO  App - args[3] is: is
+2022-03-22 15:56:57.571 [main] INFO  App - args[4] is: nick
+2022-03-22 15:56:57.571 [main] INFO  App - args[5] is: wright
+2022-03-22 15:57:28.868 [main] INFO  App - ==== Printing Command Line Arguments ====
+2022-03-22 15:57:28.872 [main] INFO  App - args[0] is: hi
+2022-03-22 15:57:28.872 [main] INFO  App - args[1] is: my
+2022-03-22 15:57:28.873 [main] INFO  App - args[2] is: name
+2022-03-22 15:57:28.873 [main] INFO  App - args[3] is: is
+2022-03-22 15:57:28.873 [main] INFO  App - args[4] is: nick
+2022-03-22 15:57:28.873 [main] INFO  App - args[5] is: wright
+2022-03-22 16:04:16.752 [main] INFO  App - ==== Printing Command Line Arguments ====
+2022-03-22 16:04:16.757 [main] INFO  App - args[0] is: hi
+2022-03-22 16:04:16.757 [main] INFO  App - args[1] is: my
+2022-03-22 16:04:16.757 [main] INFO  App - args[2] is: name
+2022-03-22 16:04:16.757 [main] INFO  App - args[3] is: is
+2022-03-22 16:04:16.757 [main] INFO  App - args[4] is: nick
+2022-03-22 16:04:16.757 [main] INFO  App - args[5] is: wright
+2022-03-22 17:35:31.831 [main] INFO  App - ==== Printing Command Line Arguments ====
+2022-03-22 17:35:31.839 [main] INFO  App - args[0] is: hi
+2022-03-22 17:35:31.839 [main] INFO  App - args[1] is: my
+2022-03-22 17:35:31.839 [main] INFO  App - args[2] is: name
+2022-03-22 17:35:31.839 [main] INFO  App - args[3] is: is
+2022-03-22 17:35:31.839 [main] INFO  App - args[4] is: nick
+2022-03-22 17:35:31.839 [main] INFO  App - args[5] is: wright

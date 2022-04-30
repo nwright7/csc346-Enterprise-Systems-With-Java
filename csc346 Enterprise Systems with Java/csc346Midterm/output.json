@@ -1,0 +1,24 @@
+{
+  "client": {
+    "number": 730,
+    "first": "James",
+    "last": "Butt",
+    "company": "Benton, John B Jr",
+    "address": "6649 N Blue Gum St",
+    "city": "New Orleans",
+    "county": "Orleans",
+    "state": "LA",
+    "postalCode": 70116,
+    "riskFactor": 1.30104582103399,
+    "phone1": "504-621-8927",
+    "phone2": "504-845-1427",
+    "email": "jbutt@gmail.com",
+    "web": "http://www.bentonjohnbjr.com"
+  },
+  "latitude": 29.9686,
+  "longitude": -90.0646,
+  "medianAge": 35.900001525878906,
+  "population": 389617,
+  "currName": "Euro",
+  "currRate": 0.91062669304163
+}

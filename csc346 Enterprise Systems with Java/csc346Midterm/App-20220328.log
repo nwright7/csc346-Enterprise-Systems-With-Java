@@ -1,0 +1,4002 @@
+2022-03-28 08:53:28.152 [main] INFO  App - ==== Printing Command Line Arguments ====
+2022-03-28 08:53:28.156 [main] INFO  App - args[0] is: query
+2022-03-28 08:53:28.156 [main] INFO  App - args[1] is: output.json
+2022-03-28 08:53:28.156 [main] INFO  App - args[2] is: clients.csv
+2022-03-28 08:53:28.157 [main] INFO  App - args[3] is: 730
+2022-03-28 08:53:28.157 [main] INFO  App - args[4] is: eur
+2022-03-28 08:53:28.157 [main] DEBUG App - In doQuery...
+2022-03-28 08:53:28.157 [main] DEBUG App - Step 3
+2022-03-28 08:53:28.245 [main] INFO  App - Records Printed: 19
+2022-03-28 08:53:28.258 [main] INFO  App - First Record: number=730, first='James', last='Butt', company='Benton, John B Jr', address='6649 N Blue Gum St', city='New Orleans', county='Orleans', state='LA', postalCode=70116, riskFactor=1.30104582103399, phone1='504-621-8927', phone2='504-845-1427', email='jbutt@gmail.com', web='http://www.bentonjohnbjr.com'
+2022-03-28 08:53:28.258 [main] DEBUG App - Step 4
+2022-03-28 08:53:28.290 [main] INFO  App - [
+  {
+    "number": 730,
+    "first": "James",
+    "last": "Butt",
+    "company": "Benton, John B Jr",
+    "address": "6649 N Blue Gum St",
+    "city": "New Orleans",
+    "county": "Orleans",
+    "state": "LA",
+    "postalCode": 70116,
+    "riskFactor": 1.30104582103399,
+    "phone1": "504-621-8927",
+    "phone2": "504-845-1427",
+    "email": "jbutt@gmail.com",
+    "web": "http://www.bentonjohnbjr.com"
+  },
+  {
+    "number": 220,
+    "first": "Josephine",
+    "last": "Darakjy",
+    "company": "Chanay, Jeffrey A Esq",
+    "address": "4 B Blue Ridge Blvd",
+    "city": "Brighton",
+    "county": "Livingston",
+    "state": "MI",
+    "postalCode": 48116,
+    "riskFactor": 2.1116117160137,
+    "phone1": "810-292-9388",
+    "phone2": "810-374-9840",
+    "email": "josephine_darakjy@darakjy.org",
+    "web": "http://www.chanayjeffreyaesq.com"
+  },
+  {
+    "number": 149,
+    "first": "Art",
+    "last": "Venere",
+    "company": "Chemel, James L Cpa",
+    "address": "8 W Cerritos Ave #54",
+    "city": "Bridgeport",
+    "county": "Gloucester",
+    "state": "NJ",
+    "postalCode": 8014,
+    "riskFactor": 2.3388044903613,
+    "phone1": "856-636-8749",
+    "phone2": "856-264-4130",
+    "email": "art@venere.org",
+    "web": "http://www.chemeljameslcpa.com"
+  },
+  {
+    "number": 98,
+    "first": "Lenna",
+    "last": "Paprocki",
+    "company": "Feltz Printing Service",
+    "address": "639 Main St",
+    "city": "Anchorage",
+    "county": "Anchorage",
+    "state": "AK",
+    "postalCode": 99501,
+    "riskFactor": 0.376662709558313,
+    "phone1": "907-385-4412",
+    "phone2": "907-921-2010",
+    "email": "lpaprocki@hotmail.com",
+    "web": "http://www.feltzprintingservice.com"
+  },
+  {
+    "number": 121,
+    "first": "Donette",
+    "last": "Foller",
+    "company": "Printing Dimensions",
+    "address": "34 Center St",
+    "city": "Hamilton",
+    "county": "Butler",
+    "state": "OH",
+    "postalCode": 45011,
+    "riskFactor": 4.82079960193436,
+    "phone1": "513-570-1893",
+    "phone2": "513-549-4561",
+    "email": "donette.foller@cox.net",
+    "web": "http://www.printingdimensions.com"
+  },
+  {
+    "number": 842,
+    "first": "Simona",
+    "last": "Morasca",
+    "company": "Chapman, Ross E Esq",
+    "address": "3 Mcauley Dr",
+    "city": "Ashland",
+    "county": "Ashland",
+    "state": "OH",
+    "postalCode": 44805,
+    "riskFactor": 4.69311653149876,
+    "phone1": "419-503-2484",
+    "phone2": "419-800-6759",
+    "email": "simona@morasca.com",
+    "web": "http://www.chapmanrosseesq.com"
+  },
+  {
+    "number": 917,
+    "first": "Mitsue",
+    "last": "Tollner",
+    "company": "Morlong Associates",
+    "address": "7 Eads St",
+    "city": "Chicago",
+    "county": "Cook",
+    "state": "IL",
+    "postalCode": 60632,
+    "riskFactor": 4.86015778395839,
+    "phone1": "773-573-6914",
+    "phone2": "773-924-8565",
+    "email": "mitsue_tollner@yahoo.com",
+    "web": "http://www.morlongassociates.com"
+  },
+  {
+    "number": 1002,
+    "first": "Leota",
+    "last": "Dilliard",
+    "company": "Commercial Press",
+    "address": "7 W Jackson Blvd",
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "state": "CA",
+    "postalCode": 95111,
+    "riskFactor": 2.70306608628568,
+    "phone1": "408-752-3500",
+    "phone2": "408-813-1105",
+    "email": "leota@hotmail.com",
+    "web": "http://www.commercialpress.com"
+  },
+  {
+    "number": 488,
+    "first": "Sage",
+    "last": "Wieser",
+    "company": "Truhlar And Truhlar Attys",
+    "address": "5 Boston Ave #88",
+    "city": "Sioux Falls",
+    "county": "Minnehaha",
+    "state": "SD",
+    "postalCode": 57105,
+    "riskFactor": 3.12710115729448,
+    "phone1": "605-414-2147",
+    "phone2": "605-794-4895",
+    "email": "sage_wieser@cox.net",
+    "web": "http://www.truhlarandtruhlarattys.com"
+  },
+  {
+    "number": 568,
+    "first": "Kris",
+    "last": "Marrier",
+    "company": "King, Christopher A Esq",
+    "address": "228 Runamuck Pl #2808",
+    "city": "Baltimore",
+    "county": "Baltimore City",
+    "state": "MD",
+    "postalCode": 21224,
+    "riskFactor": 3.70803069255018,
+    "phone1": "410-655-8723",
+    "phone2": "410-804-4694",
+    "email": "kris@gmail.com",
+    "web": "http://www.kingchristopheraesq.com"
+  },
+  {
+    "number": 917,
+    "first": "Minna",
+    "last": "Amigon",
+    "company": "Dorl, James J Esq",
+    "address": "2371 Jerrold Ave",
+    "city": "Kulpsville",
+    "county": "Montgomery",
+    "state": "PA",
+    "postalCode": 19443,
+    "riskFactor": 0.197801565687088,
+    "phone1": "215-874-1229",
+    "phone2": "215-422-8694",
+    "email": "minna_amigon@yahoo.com",
+    "web": "http://www.dorljamesjesq.com"
+  },
+  {
+    "number": 836,
+    "first": "Abel",
+    "last": "Maclead",
+    "company": "Rangoni Of Florence",
+    "address": "37275 St  Rt 17m M",
+    "city": "Middle Island",
+    "county": "Suffolk",
+    "state": "NY",
+    "postalCode": 11953,
+    "riskFactor": 0.954631942989808,
+    "phone1": "631-335-3414",
+    "phone2": "631-677-3675",
+    "email": "amaclead@gmail.com",
+    "web": "http://www.rangoniofflorence.com"
+  },
+  {
+    "number": 624,
+    "first": "Kiley",
+    "last": "Caldarera",
+    "company": "Feiner Bros",
+    "address": "25 E 75th St #69",
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "state": "CA",
+    "postalCode": 90034,
+    "riskFactor": 0.443325045071515,
+    "phone1": "310-498-5651",
+    "phone2": "310-254-3084",
+    "email": "kiley.caldarera@aol.com",
+    "web": "http://www.feinerbros.com"
+  },
+  {
+    "number": 771,
+    "first": "Graciela",
+    "last": "Ruta",
+    "company": "Buckley Miller \u0026 Wright",
+    "address": "98 Connecticut Ave Nw",
+    "city": "Chagrin Falls",
+    "county": "Geauga",
+    "state": "OH",
+    "postalCode": 44023,
+    "riskFactor": 3.10392848591882,
+    "phone1": "440-780-8425",
+    "phone2": "440-579-7763",
+    "email": "gruta@cox.net",
+    "web": "http://www.buckleymillerwright.com"
+  },
+  {
+    "number": 525,
+    "first": "Cammy",
+    "last": "Albares",
+    "company": "Rousseaux, Michael Esq",
+    "address": "56 E Morehead St",
+    "city": "Laredo",
+    "county": "Webb",
+    "state": "TX",
+    "postalCode": 78045,
+    "riskFactor": 4.54852077857535,
+    "phone1": "956-537-6195",
+    "phone2": "956-841-7216",
+    "email": "calbares@gmail.com",
+    "web": "http://www.rousseauxmichaelesq.com"
+  },
+  {
+    "number": 487,
+    "first": "Mattie",
+    "last": "Poquette",
+    "company": "Century Communications",
+    "address": "73 State Road 434 E",
+    "city": "Phoenix",
+    "county": "Maricopa",
+    "state": "AZ",
+    "postalCode": 85013,
+    "riskFactor": 4.01359512394234,
+    "phone1": "602-277-4385",
+    "phone2": "602-953-6360",
+    "email": "mattie@aol.com",
+    "web": "http://www.centurycommunications.com"
+  },
+  {
+    "number": 1101,
+    "first": "Meaghan",
+    "last": "Garufi",
+    "company": "Bolton, Wilbur Esq",
+    "address": "69734 E Carrillo St",
+    "city": "Mc Minnville",
+    "county": "Warren",
+    "state": "TN",
+    "postalCode": 37110,
+    "riskFactor": 2.33206249023171,
+    "phone1": "931-313-9635",
+    "phone2": "931-235-7959",
+    "email": "meaghan@hotmail.com",
+    "web": "http://www.boltonwilburesq.com"
+  },
+  {
+    "number": 831,
+    "first": "Gladys",
+    "last": "Rim",
+    "company": "T M Byxbee Company Pc",
+    "address": "322 New Horizon Blvd",
+    "city": "Milwaukee",
+    "county": "Milwaukee",
+    "state": "WI",
+    "postalCode": 53207,
+    "riskFactor": 2.15123713302263,
+    "phone1": "414-661-9598",
+    "phone2": "414-377-2880",
+    "email": "gladys.rim@rim.org",
+    "web": "http://www.tmbyxbeecompanypc.com"
+  },
+  {
+    "number": 111,
+    "first": "Yuki",
+    "last": "Whobrey",
+    "company": "Farmers Insurance Group",
+    "address": "1 State Route 27",
+    "city": "Taylor",
+    "county": "Wayne",
+    "state": "MI",
+    "postalCode": 48180,
+    "riskFactor": 0.926998868065159,
+    "phone1": "313-288-7937",
+    "phone2": "313-341-4470",
+    "email": "yuki_whobrey@aol.com",
+    "web": "http://www.farmersinsurancegroup.com"
+  }
+]
+2022-03-28 08:53:28.292 [main] INFO  App - The file has been successfully created! Filename: writeClients.json
+2022-03-28 08:53:28.292 [main] DEBUG App - Step 5
+2022-03-28 08:53:28.293 [main] INFO  App - Specified Client: number=730, first='James', last='Butt', company='Benton, John B Jr', address='6649 N Blue Gum St', city='New Orleans', county='Orleans', state='LA', postalCode=70116, riskFactor=1.30104582103399, phone1='504-621-8927', phone2='504-845-1427', email='jbutt@gmail.com', web='http://www.bentonjohnbjr.com'
+2022-03-28 08:53:28.293 [main] DEBUG App - Step 6
+2022-03-28 08:53:28.815 [main] INFO  App - Area Code: 70116 | Latitude: 29.9686 | Longitude: -90.0646
+2022-03-28 08:53:28.815 [main] DEBUG App - Step 7
+2022-03-28 08:53:28.818 [main] DEBUG App - In prepared7...
+2022-03-28 08:53:29.227 [main] INFO  App - At least one record was found
+2022-03-28 08:53:29.228 [main] INFO  App - Median Age: 35.900001525878906
+2022-03-28 08:53:29.229 [main] INFO  App - Population: 389617
+2022-03-28 08:53:29.238 [main] DEBUG App - End of prepared7
+2022-03-28 08:53:29.238 [main] DEBUG App - Step 8 (Bonus)
+2022-03-28 08:53:29.493 [main] DEBUG App - Step 9
+2022-03-28 08:53:29.494 [main] DEBUG App - End of program
+2022-03-28 09:02:58.067 [main] INFO  App - ==== Printing Command Line Arguments ====
+2022-03-28 09:02:58.072 [main] INFO  App - args[0] is: query
+2022-03-28 09:02:58.072 [main] INFO  App - args[1] is: output.json
+2022-03-28 09:02:58.073 [main] INFO  App - args[2] is: clients.csv
+2022-03-28 09:02:58.073 [main] INFO  App - args[3] is: 730
+2022-03-28 09:02:58.073 [main] INFO  App - args[4] is: eur
+2022-03-28 09:02:58.073 [main] DEBUG App - In doQuery...
+2022-03-28 09:02:58.073 [main] DEBUG App - Step 3
+2022-03-28 09:02:58.181 [main] INFO  App - Records Printed: 19
+2022-03-28 09:02:58.194 [main] INFO  App - First Record: number=730, first='James', last='Butt', company='Benton, John B Jr', address='6649 N Blue Gum St', city='New Orleans', county='Orleans', state='LA', postalCode=70116, riskFactor=1.30104582103399, phone1='504-621-8927', phone2='504-845-1427', email='jbutt@gmail.com', web='http://www.bentonjohnbjr.com'
+2022-03-28 09:02:58.194 [main] DEBUG App - Step 4
+2022-03-28 09:02:58.229 [main] INFO  App - [
+  {
+    "number": 730,
+    "first": "James",
+    "last": "Butt",
+    "company": "Benton, John B Jr",
+    "address": "6649 N Blue Gum St",
+    "city": "New Orleans",
+    "county": "Orleans",
+    "state": "LA",
+    "postalCode": 70116,
+    "riskFactor": 1.30104582103399,
+    "phone1": "504-621-8927",
+    "phone2": "504-845-1427",
+    "email": "jbutt@gmail.com",
+    "web": "http://www.bentonjohnbjr.com"
+  },
+  {
+    "number": 220,
+    "first": "Josephine",
+    "last": "Darakjy",
+    "company": "Chanay, Jeffrey A Esq",
+    "address": "4 B Blue Ridge Blvd",
+    "city": "Brighton",
+    "county": "Livingston",
+    "state": "MI",
+    "postalCode": 48116,
+    "riskFactor": 2.1116117160137,
+    "phone1": "810-292-9388",
+    "phone2": "810-374-9840",
+    "email": "josephine_darakjy@darakjy.org",
+    "web": "http://www.chanayjeffreyaesq.com"
+  },
+  {
+    "number": 149,
+    "first": "Art",
+    "last": "Venere",
+    "company": "Chemel, James L Cpa",
+    "address": "8 W Cerritos Ave #54",
+    "city": "Bridgeport",
+    "county": "Gloucester",
+    "state": "NJ",
+    "postalCode": 8014,
+    "riskFactor": 2.3388044903613,
+    "phone1": "856-636-8749",
+    "phone2": "856-264-4130",
+    "email": "art@venere.org",
+    "web": "http://www.chemeljameslcpa.com"
+  },
+  {
+    "number": 98,
+    "first": "Lenna",
+    "last": "Paprocki",
+    "company": "Feltz Printing Service",
+    "address": "639 Main St",
+    "city": "Anchorage",
+    "county": "Anchorage",
+    "state": "AK",
+    "postalCode": 99501,
+    "riskFactor": 0.376662709558313,
+    "phone1": "907-385-4412",
+    "phone2": "907-921-2010",
+    "email": "lpaprocki@hotmail.com",
+    "web": "http://www.feltzprintingservice.com"
+  },
+  {
+    "number": 121,
+    "first": "Donette",
+    "last": "Foller",
+    "company": "Printing Dimensions",
+    "address": "34 Center St",
+    "city": "Hamilton",
+    "county": "Butler",
+    "state": "OH",
+    "postalCode": 45011,
+    "riskFactor": 4.82079960193436,
+    "phone1": "513-570-1893",
+    "phone2": "513-549-4561",
+    "email": "donette.foller@cox.net",
+    "web": "http://www.printingdimensions.com"
+  },
+  {
+    "number": 842,
+    "first": "Simona",
+    "last": "Morasca",
+    "company": "Chapman, Ross E Esq",
+    "address": "3 Mcauley Dr",
+    "city": "Ashland",
+    "county": "Ashland",
+    "state": "OH",
+    "postalCode": 44805,
+    "riskFactor": 4.69311653149876,
+    "phone1": "419-503-2484",
+    "phone2": "419-800-6759",
+    "email": "simona@morasca.com",
+    "web": "http://www.chapmanrosseesq.com"
+  },
+  {
+    "number": 917,
+    "first": "Mitsue",
+    "last": "Tollner",
+    "company": "Morlong Associates",
+    "address": "7 Eads St",
+    "city": "Chicago",
+    "county": "Cook",
+    "state": "IL",
+    "postalCode": 60632,
+    "riskFactor": 4.86015778395839,
+    "phone1": "773-573-6914",
+    "phone2": "773-924-8565",
+    "email": "mitsue_tollner@yahoo.com",
+    "web": "http://www.morlongassociates.com"
+  },
+  {
+    "number": 1002,
+    "first": "Leota",
+    "last": "Dilliard",
+    "company": "Commercial Press",
+    "address": "7 W Jackson Blvd",
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "state": "CA",
+    "postalCode": 95111,
+    "riskFactor": 2.70306608628568,
+    "phone1": "408-752-3500",
+    "phone2": "408-813-1105",
+    "email": "leota@hotmail.com",
+    "web": "http://www.commercialpress.com"
+  },
+  {
+    "number": 488,
+    "first": "Sage",
+    "last": "Wieser",
+    "company": "Truhlar And Truhlar Attys",
+    "address": "5 Boston Ave #88",
+    "city": "Sioux Falls",
+    "county": "Minnehaha",
+    "state": "SD",
+    "postalCode": 57105,
+    "riskFactor": 3.12710115729448,
+    "phone1": "605-414-2147",
+    "phone2": "605-794-4895",
+    "email": "sage_wieser@cox.net",
+    "web": "http://www.truhlarandtruhlarattys.com"
+  },
+  {
+    "number": 568,
+    "first": "Kris",
+    "last": "Marrier",
+    "company": "King, Christopher A Esq",
+    "address": "228 Runamuck Pl #2808",
+    "city": "Baltimore",
+    "county": "Baltimore City",
+    "state": "MD",
+    "postalCode": 21224,
+    "riskFactor": 3.70803069255018,
+    "phone1": "410-655-8723",
+    "phone2": "410-804-4694",
+    "email": "kris@gmail.com",
+    "web": "http://www.kingchristopheraesq.com"
+  },
+  {
+    "number": 917,
+    "first": "Minna",
+    "last": "Amigon",
+    "company": "Dorl, James J Esq",
+    "address": "2371 Jerrold Ave",
+    "city": "Kulpsville",
+    "county": "Montgomery",
+    "state": "PA",
+    "postalCode": 19443,
+    "riskFactor": 0.197801565687088,
+    "phone1": "215-874-1229",
+    "phone2": "215-422-8694",
+    "email": "minna_amigon@yahoo.com",
+    "web": "http://www.dorljamesjesq.com"
+  },
+  {
+    "number": 836,
+    "first": "Abel",
+    "last": "Maclead",
+    "company": "Rangoni Of Florence",
+    "address": "37275 St  Rt 17m M",
+    "city": "Middle Island",
+    "county": "Suffolk",
+    "state": "NY",
+    "postalCode": 11953,
+    "riskFactor": 0.954631942989808,
+    "phone1": "631-335-3414",
+    "phone2": "631-677-3675",
+    "email": "amaclead@gmail.com",
+    "web": "http://www.rangoniofflorence.com"
+  },
+  {
+    "number": 624,
+    "first": "Kiley",
+    "last": "Caldarera",
+    "company": "Feiner Bros",
+    "address": "25 E 75th St #69",
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "state": "CA",
+    "postalCode": 90034,
+    "riskFactor": 0.443325045071515,
+    "phone1": "310-498-5651",
+    "phone2": "310-254-3084",
+    "email": "kiley.caldarera@aol.com",
+    "web": "http://www.feinerbros.com"
+  },
+  {
+    "number": 771,
+    "first": "Graciela",
+    "last": "Ruta",
+    "company": "Buckley Miller \u0026 Wright",
+    "address": "98 Connecticut Ave Nw",
+    "city": "Chagrin Falls",
+    "county": "Geauga",
+    "state": "OH",
+    "postalCode": 44023,
+    "riskFactor": 3.10392848591882,
+    "phone1": "440-780-8425",
+    "phone2": "440-579-7763",
+    "email": "gruta@cox.net",
+    "web": "http://www.buckleymillerwright.com"
+  },
+  {
+    "number": 525,
+    "first": "Cammy",
+    "last": "Albares",
+    "company": "Rousseaux, Michael Esq",
+    "address": "56 E Morehead St",
+    "city": "Laredo",
+    "county": "Webb",
+    "state": "TX",
+    "postalCode": 78045,
+    "riskFactor": 4.54852077857535,
+    "phone1": "956-537-6195",
+    "phone2": "956-841-7216",
+    "email": "calbares@gmail.com",
+    "web": "http://www.rousseauxmichaelesq.com"
+  },
+  {
+    "number": 487,
+    "first": "Mattie",
+    "last": "Poquette",
+    "company": "Century Communications",
+    "address": "73 State Road 434 E",
+    "city": "Phoenix",
+    "county": "Maricopa",
+    "state": "AZ",
+    "postalCode": 85013,
+    "riskFactor": 4.01359512394234,
+    "phone1": "602-277-4385",
+    "phone2": "602-953-6360",
+    "email": "mattie@aol.com",
+    "web": "http://www.centurycommunications.com"
+  },
+  {
+    "number": 1101,
+    "first": "Meaghan",
+    "last": "Garufi",
+    "company": "Bolton, Wilbur Esq",
+    "address": "69734 E Carrillo St",
+    "city": "Mc Minnville",
+    "county": "Warren",
+    "state": "TN",
+    "postalCode": 37110,
+    "riskFactor": 2.33206249023171,
+    "phone1": "931-313-9635",
+    "phone2": "931-235-7959",
+    "email": "meaghan@hotmail.com",
+    "web": "http://www.boltonwilburesq.com"
+  },
+  {
+    "number": 831,
+    "first": "Gladys",
+    "last": "Rim",
+    "company": "T M Byxbee Company Pc",
+    "address": "322 New Horizon Blvd",
+    "city": "Milwaukee",
+    "county": "Milwaukee",
+    "state": "WI",
+    "postalCode": 53207,
+    "riskFactor": 2.15123713302263,
+    "phone1": "414-661-9598",
+    "phone2": "414-377-2880",
+    "email": "gladys.rim@rim.org",
+    "web": "http://www.tmbyxbeecompanypc.com"
+  },
+  {
+    "number": 111,
+    "first": "Yuki",
+    "last": "Whobrey",
+    "company": "Farmers Insurance Group",
+    "address": "1 State Route 27",
+    "city": "Taylor",
+    "county": "Wayne",
+    "state": "MI",
+    "postalCode": 48180,
+    "riskFactor": 0.926998868065159,
+    "phone1": "313-288-7937",
+    "phone2": "313-341-4470",
+    "email": "yuki_whobrey@aol.com",
+    "web": "http://www.farmersinsurancegroup.com"
+  }
+]
+2022-03-28 09:02:58.232 [main] INFO  App - The file has been successfully created! Filename: writeClients.json
+2022-03-28 09:02:58.233 [main] DEBUG App - Step 5
+2022-03-28 09:02:58.233 [main] INFO  App - Specified Client: number=730, first='James', last='Butt', company='Benton, John B Jr', address='6649 N Blue Gum St', city='New Orleans', county='Orleans', state='LA', postalCode=70116, riskFactor=1.30104582103399, phone1='504-621-8927', phone2='504-845-1427', email='jbutt@gmail.com', web='http://www.bentonjohnbjr.com'
+2022-03-28 09:02:58.233 [main] DEBUG App - Step 6
+2022-03-28 09:02:58.813 [main] INFO  App - Area Code: 70116 | Latitude: 29.9686 | Longitude: -90.0646
+2022-03-28 09:02:58.813 [main] DEBUG App - Step 7
+2022-03-28 09:02:58.817 [main] DEBUG App - In prepared7...
+2022-03-28 09:02:59.097 [main] INFO  App - At least one record was found
+2022-03-28 09:02:59.098 [main] INFO  App - Median Age: 35.900001525878906
+2022-03-28 09:02:59.099 [main] INFO  App - Population: 389617
+2022-03-28 09:02:59.110 [main] DEBUG App - End of prepared7
+2022-03-28 09:02:59.110 [main] DEBUG App - Step 8 (Bonus)
+2022-03-28 09:02:59.266 [main] DEBUG App - End of program
+2022-03-28 09:05:00.052 [main] INFO  App - ==== Printing Command Line Arguments ====
+2022-03-28 09:05:00.056 [main] INFO  App - args[0] is: query
+2022-03-28 09:05:00.056 [main] INFO  App - args[1] is: output.json
+2022-03-28 09:05:00.056 [main] INFO  App - args[2] is: clients.csv
+2022-03-28 09:05:00.056 [main] INFO  App - args[3] is: 730
+2022-03-28 09:05:00.056 [main] INFO  App - args[4] is: eur
+2022-03-28 09:05:00.057 [main] DEBUG App - In doQuery...
+2022-03-28 09:05:00.057 [main] DEBUG App - Step 3
+2022-03-28 09:05:00.149 [main] INFO  App - Records Printed: 19
+2022-03-28 09:05:00.164 [main] INFO  App - First Record: number=730, first='James', last='Butt', company='Benton, John B Jr', address='6649 N Blue Gum St', city='New Orleans', county='Orleans', state='LA', postalCode=70116, riskFactor=1.30104582103399, phone1='504-621-8927', phone2='504-845-1427', email='jbutt@gmail.com', web='http://www.bentonjohnbjr.com'
+2022-03-28 09:05:00.164 [main] DEBUG App - Step 4
+2022-03-28 09:05:00.200 [main] INFO  App - [
+  {
+    "number": 730,
+    "first": "James",
+    "last": "Butt",
+    "company": "Benton, John B Jr",
+    "address": "6649 N Blue Gum St",
+    "city": "New Orleans",
+    "county": "Orleans",
+    "state": "LA",
+    "postalCode": 70116,
+    "riskFactor": 1.30104582103399,
+    "phone1": "504-621-8927",
+    "phone2": "504-845-1427",
+    "email": "jbutt@gmail.com",
+    "web": "http://www.bentonjohnbjr.com"
+  },
+  {
+    "number": 220,
+    "first": "Josephine",
+    "last": "Darakjy",
+    "company": "Chanay, Jeffrey A Esq",
+    "address": "4 B Blue Ridge Blvd",
+    "city": "Brighton",
+    "county": "Livingston",
+    "state": "MI",
+    "postalCode": 48116,
+    "riskFactor": 2.1116117160137,
+    "phone1": "810-292-9388",
+    "phone2": "810-374-9840",
+    "email": "josephine_darakjy@darakjy.org",
+    "web": "http://www.chanayjeffreyaesq.com"
+  },
+  {
+    "number": 149,
+    "first": "Art",
+    "last": "Venere",
+    "company": "Chemel, James L Cpa",
+    "address": "8 W Cerritos Ave #54",
+    "city": "Bridgeport",
+    "county": "Gloucester",
+    "state": "NJ",
+    "postalCode": 8014,
+    "riskFactor": 2.3388044903613,
+    "phone1": "856-636-8749",
+    "phone2": "856-264-4130",
+    "email": "art@venere.org",
+    "web": "http://www.chemeljameslcpa.com"
+  },
+  {
+    "number": 98,
+    "first": "Lenna",
+    "last": "Paprocki",
+    "company": "Feltz Printing Service",
+    "address": "639 Main St",
+    "city": "Anchorage",
+    "county": "Anchorage",
+    "state": "AK",
+    "postalCode": 99501,
+    "riskFactor": 0.376662709558313,
+    "phone1": "907-385-4412",
+    "phone2": "907-921-2010",
+    "email": "lpaprocki@hotmail.com",
+    "web": "http://www.feltzprintingservice.com"
+  },
+  {
+    "number": 121,
+    "first": "Donette",
+    "last": "Foller",
+    "company": "Printing Dimensions",
+    "address": "34 Center St",
+    "city": "Hamilton",
+    "county": "Butler",
+    "state": "OH",
+    "postalCode": 45011,
+    "riskFactor": 4.82079960193436,
+    "phone1": "513-570-1893",
+    "phone2": "513-549-4561",
+    "email": "donette.foller@cox.net",
+    "web": "http://www.printingdimensions.com"
+  },
+  {
+    "number": 842,
+    "first": "Simona",
+    "last": "Morasca",
+    "company": "Chapman, Ross E Esq",
+    "address": "3 Mcauley Dr",
+    "city": "Ashland",
+    "county": "Ashland",
+    "state": "OH",
+    "postalCode": 44805,
+    "riskFactor": 4.69311653149876,
+    "phone1": "419-503-2484",
+    "phone2": "419-800-6759",
+    "email": "simona@morasca.com",
+    "web": "http://www.chapmanrosseesq.com"
+  },
+  {
+    "number": 917,
+    "first": "Mitsue",
+    "last": "Tollner",
+    "company": "Morlong Associates",
+    "address": "7 Eads St",
+    "city": "Chicago",
+    "county": "Cook",
+    "state": "IL",
+    "postalCode": 60632,
+    "riskFactor": 4.86015778395839,
+    "phone1": "773-573-6914",
+    "phone2": "773-924-8565",
+    "email": "mitsue_tollner@yahoo.com",
+    "web": "http://www.morlongassociates.com"
+  },
+  {
+    "number": 1002,
+    "first": "Leota",
+    "last": "Dilliard",
+    "company": "Commercial Press",
+    "address": "7 W Jackson Blvd",
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "state": "CA",
+    "postalCode": 95111,
+    "riskFactor": 2.70306608628568,
+    "phone1": "408-752-3500",
+    "phone2": "408-813-1105",
+    "email": "leota@hotmail.com",
+    "web": "http://www.commercialpress.com"
+  },
+  {
+    "number": 488,
+    "first": "Sage",
+    "last": "Wieser",
+    "company": "Truhlar And Truhlar Attys",
+    "address": "5 Boston Ave #88",
+    "city": "Sioux Falls",
+    "county": "Minnehaha",
+    "state": "SD",
+    "postalCode": 57105,
+    "riskFactor": 3.12710115729448,
+    "phone1": "605-414-2147",
+    "phone2": "605-794-4895",
+    "email": "sage_wieser@cox.net",
+    "web": "http://www.truhlarandtruhlarattys.com"
+  },
+  {
+    "number": 568,
+    "first": "Kris",
+    "last": "Marrier",
+    "company": "King, Christopher A Esq",
+    "address": "228 Runamuck Pl #2808",
+    "city": "Baltimore",
+    "county": "Baltimore City",
+    "state": "MD",
+    "postalCode": 21224,
+    "riskFactor": 3.70803069255018,
+    "phone1": "410-655-8723",
+    "phone2": "410-804-4694",
+    "email": "kris@gmail.com",
+    "web": "http://www.kingchristopheraesq.com"
+  },
+  {
+    "number": 917,
+    "first": "Minna",
+    "last": "Amigon",
+    "company": "Dorl, James J Esq",
+    "address": "2371 Jerrold Ave",
+    "city": "Kulpsville",
+    "county": "Montgomery",
+    "state": "PA",
+    "postalCode": 19443,
+    "riskFactor": 0.197801565687088,
+    "phone1": "215-874-1229",
+    "phone2": "215-422-8694",
+    "email": "minna_amigon@yahoo.com",
+    "web": "http://www.dorljamesjesq.com"
+  },
+  {
+    "number": 836,
+    "first": "Abel",
+    "last": "Maclead",
+    "company": "Rangoni Of Florence",
+    "address": "37275 St  Rt 17m M",
+    "city": "Middle Island",
+    "county": "Suffolk",
+    "state": "NY",
+    "postalCode": 11953,
+    "riskFactor": 0.954631942989808,
+    "phone1": "631-335-3414",
+    "phone2": "631-677-3675",
+    "email": "amaclead@gmail.com",
+    "web": "http://www.rangoniofflorence.com"
+  },
+  {
+    "number": 624,
+    "first": "Kiley",
+    "last": "Caldarera",
+    "company": "Feiner Bros",
+    "address": "25 E 75th St #69",
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "state": "CA",
+    "postalCode": 90034,
+    "riskFactor": 0.443325045071515,
+    "phone1": "310-498-5651",
+    "phone2": "310-254-3084",
+    "email": "kiley.caldarera@aol.com",
+    "web": "http://www.feinerbros.com"
+  },
+  {
+    "number": 771,
+    "first": "Graciela",
+    "last": "Ruta",
+    "company": "Buckley Miller \u0026 Wright",
+    "address": "98 Connecticut Ave Nw",
+    "city": "Chagrin Falls",
+    "county": "Geauga",
+    "state": "OH",
+    "postalCode": 44023,
+    "riskFactor": 3.10392848591882,
+    "phone1": "440-780-8425",
+    "phone2": "440-579-7763",
+    "email": "gruta@cox.net",
+    "web": "http://www.buckleymillerwright.com"
+  },
+  {
+    "number": 525,
+    "first": "Cammy",
+    "last": "Albares",
+    "company": "Rousseaux, Michael Esq",
+    "address": "56 E Morehead St",
+    "city": "Laredo",
+    "county": "Webb",
+    "state": "TX",
+    "postalCode": 78045,
+    "riskFactor": 4.54852077857535,
+    "phone1": "956-537-6195",
+    "phone2": "956-841-7216",
+    "email": "calbares@gmail.com",
+    "web": "http://www.rousseauxmichaelesq.com"
+  },
+  {
+    "number": 487,
+    "first": "Mattie",
+    "last": "Poquette",
+    "company": "Century Communications",
+    "address": "73 State Road 434 E",
+    "city": "Phoenix",
+    "county": "Maricopa",
+    "state": "AZ",
+    "postalCode": 85013,
+    "riskFactor": 4.01359512394234,
+    "phone1": "602-277-4385",
+    "phone2": "602-953-6360",
+    "email": "mattie@aol.com",
+    "web": "http://www.centurycommunications.com"
+  },
+  {
+    "number": 1101,
+    "first": "Meaghan",
+    "last": "Garufi",
+    "company": "Bolton, Wilbur Esq",
+    "address": "69734 E Carrillo St",
+    "city": "Mc Minnville",
+    "county": "Warren",
+    "state": "TN",
+    "postalCode": 37110,
+    "riskFactor": 2.33206249023171,
+    "phone1": "931-313-9635",
+    "phone2": "931-235-7959",
+    "email": "meaghan@hotmail.com",
+    "web": "http://www.boltonwilburesq.com"
+  },
+  {
+    "number": 831,
+    "first": "Gladys",
+    "last": "Rim",
+    "company": "T M Byxbee Company Pc",
+    "address": "322 New Horizon Blvd",
+    "city": "Milwaukee",
+    "county": "Milwaukee",
+    "state": "WI",
+    "postalCode": 53207,
+    "riskFactor": 2.15123713302263,
+    "phone1": "414-661-9598",
+    "phone2": "414-377-2880",
+    "email": "gladys.rim@rim.org",
+    "web": "http://www.tmbyxbeecompanypc.com"
+  },
+  {
+    "number": 111,
+    "first": "Yuki",
+    "last": "Whobrey",
+    "company": "Farmers Insurance Group",
+    "address": "1 State Route 27",
+    "city": "Taylor",
+    "county": "Wayne",
+    "state": "MI",
+    "postalCode": 48180,
+    "riskFactor": 0.926998868065159,
+    "phone1": "313-288-7937",
+    "phone2": "313-341-4470",
+    "email": "yuki_whobrey@aol.com",
+    "web": "http://www.farmersinsurancegroup.com"
+  }
+]
+2022-03-28 09:05:00.205 [main] INFO  App - The file has been successfully created! Filename: writeClients.json
+2022-03-28 09:05:00.206 [main] DEBUG App - Step 5
+2022-03-28 09:05:00.206 [main] INFO  App - Specified Client: number=730, first='James', last='Butt', company='Benton, John B Jr', address='6649 N Blue Gum St', city='New Orleans', county='Orleans', state='LA', postalCode=70116, riskFactor=1.30104582103399, phone1='504-621-8927', phone2='504-845-1427', email='jbutt@gmail.com', web='http://www.bentonjohnbjr.com'
+2022-03-28 09:05:00.206 [main] DEBUG App - Step 6
+2022-03-28 09:05:00.752 [main] INFO  App - Area Code: 70116 | Latitude: 29.9686 | Longitude: -90.0646
+2022-03-28 09:05:00.752 [main] DEBUG App - Step 7
+2022-03-28 09:05:00.756 [main] DEBUG App - In prepared7...
+2022-03-28 09:05:01.037 [main] INFO  App - At least one record was found
+2022-03-28 09:05:01.038 [main] INFO  App - Median Age: 35.900001525878906
+2022-03-28 09:05:01.039 [main] INFO  App - Population: 389617
+2022-03-28 09:05:01.048 [main] DEBUG App - End of prepared7
+2022-03-28 09:05:01.048 [main] DEBUG App - Step 8 (Bonus)
+2022-03-28 09:05:01.294 [main] DEBUG App - End of program
+2022-03-28 09:05:36.178 [main] INFO  App - ==== Printing Command Line Arguments ====
+2022-03-28 09:05:36.182 [main] INFO  App - args[0] is: query
+2022-03-28 09:05:36.182 [main] INFO  App - args[1] is: output.json
+2022-03-28 09:05:36.183 [main] INFO  App - args[2] is: clients.csv
+2022-03-28 09:05:36.183 [main] INFO  App - args[3] is: 730
+2022-03-28 09:05:36.183 [main] INFO  App - args[4] is: eur
+2022-03-28 09:05:36.183 [main] DEBUG App - In doQuery...
+2022-03-28 09:05:36.183 [main] DEBUG App - Step 3
+2022-03-28 09:05:36.273 [main] INFO  App - Records Printed: 19
+2022-03-28 09:05:36.286 [main] INFO  App - First Record: number=730, first='James', last='Butt', company='Benton, John B Jr', address='6649 N Blue Gum St', city='New Orleans', county='Orleans', state='LA', postalCode=70116, riskFactor=1.30104582103399, phone1='504-621-8927', phone2='504-845-1427', email='jbutt@gmail.com', web='http://www.bentonjohnbjr.com'
+2022-03-28 09:05:36.286 [main] DEBUG App - Step 4
+2022-03-28 09:05:36.321 [main] INFO  App - [
+  {
+    "number": 730,
+    "first": "James",
+    "last": "Butt",
+    "company": "Benton, John B Jr",
+    "address": "6649 N Blue Gum St",
+    "city": "New Orleans",
+    "county": "Orleans",
+    "state": "LA",
+    "postalCode": 70116,
+    "riskFactor": 1.30104582103399,
+    "phone1": "504-621-8927",
+    "phone2": "504-845-1427",
+    "email": "jbutt@gmail.com",
+    "web": "http://www.bentonjohnbjr.com"
+  },
+  {
+    "number": 220,
+    "first": "Josephine",
+    "last": "Darakjy",
+    "company": "Chanay, Jeffrey A Esq",
+    "address": "4 B Blue Ridge Blvd",
+    "city": "Brighton",
+    "county": "Livingston",
+    "state": "MI",
+    "postalCode": 48116,
+    "riskFactor": 2.1116117160137,
+    "phone1": "810-292-9388",
+    "phone2": "810-374-9840",
+    "email": "josephine_darakjy@darakjy.org",
+    "web": "http://www.chanayjeffreyaesq.com"
+  },
+  {
+    "number": 149,
+    "first": "Art",
+    "last": "Venere",
+    "company": "Chemel, James L Cpa",
+    "address": "8 W Cerritos Ave #54",
+    "city": "Bridgeport",
+    "county": "Gloucester",
+    "state": "NJ",
+    "postalCode": 8014,
+    "riskFactor": 2.3388044903613,
+    "phone1": "856-636-8749",
+    "phone2": "856-264-4130",
+    "email": "art@venere.org",
+    "web": "http://www.chemeljameslcpa.com"
+  },
+  {
+    "number": 98,
+    "first": "Lenna",
+    "last": "Paprocki",
+    "company": "Feltz Printing Service",
+    "address": "639 Main St",
+    "city": "Anchorage",
+    "county": "Anchorage",
+    "state": "AK",
+    "postalCode": 99501,
+    "riskFactor": 0.376662709558313,
+    "phone1": "907-385-4412",
+    "phone2": "907-921-2010",
+    "email": "lpaprocki@hotmail.com",
+    "web": "http://www.feltzprintingservice.com"
+  },
+  {
+    "number": 121,
+    "first": "Donette",
+    "last": "Foller",
+    "company": "Printing Dimensions",
+    "address": "34 Center St",
+    "city": "Hamilton",
+    "county": "Butler",
+    "state": "OH",
+    "postalCode": 45011,
+    "riskFactor": 4.82079960193436,
+    "phone1": "513-570-1893",
+    "phone2": "513-549-4561",
+    "email": "donette.foller@cox.net",
+    "web": "http://www.printingdimensions.com"
+  },
+  {
+    "number": 842,
+    "first": "Simona",
+    "last": "Morasca",
+    "company": "Chapman, Ross E Esq",
+    "address": "3 Mcauley Dr",
+    "city": "Ashland",
+    "county": "Ashland",
+    "state": "OH",
+    "postalCode": 44805,
+    "riskFactor": 4.69311653149876,
+    "phone1": "419-503-2484",
+    "phone2": "419-800-6759",
+    "email": "simona@morasca.com",
+    "web": "http://www.chapmanrosseesq.com"
+  },
+  {
+    "number": 917,
+    "first": "Mitsue",
+    "last": "Tollner",
+    "company": "Morlong Associates",
+    "address": "7 Eads St",
+    "city": "Chicago",
+    "county": "Cook",
+    "state": "IL",
+    "postalCode": 60632,
+    "riskFactor": 4.86015778395839,
+    "phone1": "773-573-6914",
+    "phone2": "773-924-8565",
+    "email": "mitsue_tollner@yahoo.com",
+    "web": "http://www.morlongassociates.com"
+  },
+  {
+    "number": 1002,
+    "first": "Leota",
+    "last": "Dilliard",
+    "company": "Commercial Press",
+    "address": "7 W Jackson Blvd",
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "state": "CA",
+    "postalCode": 95111,
+    "riskFactor": 2.70306608628568,
+    "phone1": "408-752-3500",
+    "phone2": "408-813-1105",
+    "email": "leota@hotmail.com",
+    "web": "http://www.commercialpress.com"
+  },
+  {
+    "number": 488,
+    "first": "Sage",
+    "last": "Wieser",
+    "company": "Truhlar And Truhlar Attys",
+    "address": "5 Boston Ave #88",
+    "city": "Sioux Falls",
+    "county": "Minnehaha",
+    "state": "SD",
+    "postalCode": 57105,
+    "riskFactor": 3.12710115729448,
+    "phone1": "605-414-2147",
+    "phone2": "605-794-4895",
+    "email": "sage_wieser@cox.net",
+    "web": "http://www.truhlarandtruhlarattys.com"
+  },
+  {
+    "number": 568,
+    "first": "Kris",
+    "last": "Marrier",
+    "company": "King, Christopher A Esq",
+    "address": "228 Runamuck Pl #2808",
+    "city": "Baltimore",
+    "county": "Baltimore City",
+    "state": "MD",
+    "postalCode": 21224,
+    "riskFactor": 3.70803069255018,
+    "phone1": "410-655-8723",
+    "phone2": "410-804-4694",
+    "email": "kris@gmail.com",
+    "web": "http://www.kingchristopheraesq.com"
+  },
+  {
+    "number": 917,
+    "first": "Minna",
+    "last": "Amigon",
+    "company": "Dorl, James J Esq",
+    "address": "2371 Jerrold Ave",
+    "city": "Kulpsville",
+    "county": "Montgomery",
+    "state": "PA",
+    "postalCode": 19443,
+    "riskFactor": 0.197801565687088,
+    "phone1": "215-874-1229",
+    "phone2": "215-422-8694",
+    "email": "minna_amigon@yahoo.com",
+    "web": "http://www.dorljamesjesq.com"
+  },
+  {
+    "number": 836,
+    "first": "Abel",
+    "last": "Maclead",
+    "company": "Rangoni Of Florence",
+    "address": "37275 St  Rt 17m M",
+    "city": "Middle Island",
+    "county": "Suffolk",
+    "state": "NY",
+    "postalCode": 11953,
+    "riskFactor": 0.954631942989808,
+    "phone1": "631-335-3414",
+    "phone2": "631-677-3675",
+    "email": "amaclead@gmail.com",
+    "web": "http://www.rangoniofflorence.com"
+  },
+  {
+    "number": 624,
+    "first": "Kiley",
+    "last": "Caldarera",
+    "company": "Feiner Bros",
+    "address": "25 E 75th St #69",
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "state": "CA",
+    "postalCode": 90034,
+    "riskFactor": 0.443325045071515,
+    "phone1": "310-498-5651",
+    "phone2": "310-254-3084",
+    "email": "kiley.caldarera@aol.com",
+    "web": "http://www.feinerbros.com"
+  },
+  {
+    "number": 771,
+    "first": "Graciela",
+    "last": "Ruta",
+    "company": "Buckley Miller \u0026 Wright",
+    "address": "98 Connecticut Ave Nw",
+    "city": "Chagrin Falls",
+    "county": "Geauga",
+    "state": "OH",
+    "postalCode": 44023,
+    "riskFactor": 3.10392848591882,
+    "phone1": "440-780-8425",
+    "phone2": "440-579-7763",
+    "email": "gruta@cox.net",
+    "web": "http://www.buckleymillerwright.com"
+  },
+  {
+    "number": 525,
+    "first": "Cammy",
+    "last": "Albares",
+    "company": "Rousseaux, Michael Esq",
+    "address": "56 E Morehead St",
+    "city": "Laredo",
+    "county": "Webb",
+    "state": "TX",
+    "postalCode": 78045,
+    "riskFactor": 4.54852077857535,
+    "phone1": "956-537-6195",
+    "phone2": "956-841-7216",
+    "email": "calbares@gmail.com",
+    "web": "http://www.rousseauxmichaelesq.com"
+  },
+  {
+    "number": 487,
+    "first": "Mattie",
+    "last": "Poquette",
+    "company": "Century Communications",
+    "address": "73 State Road 434 E",
+    "city": "Phoenix",
+    "county": "Maricopa",
+    "state": "AZ",
+    "postalCode": 85013,
+    "riskFactor": 4.01359512394234,
+    "phone1": "602-277-4385",
+    "phone2": "602-953-6360",
+    "email": "mattie@aol.com",
+    "web": "http://www.centurycommunications.com"
+  },
+  {
+    "number": 1101,
+    "first": "Meaghan",
+    "last": "Garufi",
+    "company": "Bolton, Wilbur Esq",
+    "address": "69734 E Carrillo St",
+    "city": "Mc Minnville",
+    "county": "Warren",
+    "state": "TN",
+    "postalCode": 37110,
+    "riskFactor": 2.33206249023171,
+    "phone1": "931-313-9635",
+    "phone2": "931-235-7959",
+    "email": "meaghan@hotmail.com",
+    "web": "http://www.boltonwilburesq.com"
+  },
+  {
+    "number": 831,
+    "first": "Gladys",
+    "last": "Rim",
+    "company": "T M Byxbee Company Pc",
+    "address": "322 New Horizon Blvd",
+    "city": "Milwaukee",
+    "county": "Milwaukee",
+    "state": "WI",
+    "postalCode": 53207,
+    "riskFactor": 2.15123713302263,
+    "phone1": "414-661-9598",
+    "phone2": "414-377-2880",
+    "email": "gladys.rim@rim.org",
+    "web": "http://www.tmbyxbeecompanypc.com"
+  },
+  {
+    "number": 111,
+    "first": "Yuki",
+    "last": "Whobrey",
+    "company": "Farmers Insurance Group",
+    "address": "1 State Route 27",
+    "city": "Taylor",
+    "county": "Wayne",
+    "state": "MI",
+    "postalCode": 48180,
+    "riskFactor": 0.926998868065159,
+    "phone1": "313-288-7937",
+    "phone2": "313-341-4470",
+    "email": "yuki_whobrey@aol.com",
+    "web": "http://www.farmersinsurancegroup.com"
+  }
+]
+2022-03-28 09:05:36.324 [main] INFO  App - The file has been successfully created! Filename: writeClients.json
+2022-03-28 09:05:36.324 [main] DEBUG App - Step 5
+2022-03-28 09:05:36.324 [main] INFO  App - Specified Client: number=730, first='James', last='Butt', company='Benton, John B Jr', address='6649 N Blue Gum St', city='New Orleans', county='Orleans', state='LA', postalCode=70116, riskFactor=1.30104582103399, phone1='504-621-8927', phone2='504-845-1427', email='jbutt@gmail.com', web='http://www.bentonjohnbjr.com'
+2022-03-28 09:05:36.324 [main] DEBUG App - Step 6
+2022-03-28 09:05:36.866 [main] INFO  App - Area Code: 70116 | Latitude: 29.9686 | Longitude: -90.0646
+2022-03-28 09:05:36.867 [main] DEBUG App - Step 7
+2022-03-28 09:05:36.870 [main] DEBUG App - In prepared7...
+2022-03-28 09:05:37.154 [main] INFO  App - At least one record was found
+2022-03-28 09:05:37.156 [main] INFO  App - Median Age: 35.900001525878906
+2022-03-28 09:05:37.156 [main] INFO  App - Population: 389617
+2022-03-28 09:05:37.160 [main] DEBUG App - End of prepared7
+2022-03-28 09:05:37.160 [main] DEBUG App - Step 8 (Bonus)
+2022-03-28 09:05:50.955 [main] DEBUG App - Step 9
+2022-03-28 09:05:50.957 [main] DEBUG App - End of program
+2022-03-28 09:07:25.094 [main] INFO  App - ==== Printing Command Line Arguments ====
+2022-03-28 09:07:25.098 [main] INFO  App - args[0] is: query
+2022-03-28 09:07:25.099 [main] INFO  App - args[1] is: output.json
+2022-03-28 09:07:25.099 [main] INFO  App - args[2] is: clients.csv
+2022-03-28 09:07:25.099 [main] INFO  App - args[3] is: 730
+2022-03-28 09:07:25.099 [main] INFO  App - args[4] is: eur
+2022-03-28 09:07:25.099 [main] DEBUG App - In doQuery...
+2022-03-28 09:07:25.099 [main] DEBUG App - Step 3
+2022-03-28 09:07:25.209 [main] INFO  App - Records Printed: 19
+2022-03-28 09:07:25.227 [main] INFO  App - First Record: number=730, first='James', last='Butt', company='Benton, John B Jr', address='6649 N Blue Gum St', city='New Orleans', county='Orleans', state='LA', postalCode=70116, riskFactor=1.30104582103399, phone1='504-621-8927', phone2='504-845-1427', email='jbutt@gmail.com', web='http://www.bentonjohnbjr.com'
+2022-03-28 09:07:25.227 [main] DEBUG App - Step 4
+2022-03-28 09:07:25.265 [main] INFO  App - [
+  {
+    "number": 730,
+    "first": "James",
+    "last": "Butt",
+    "company": "Benton, John B Jr",
+    "address": "6649 N Blue Gum St",
+    "city": "New Orleans",
+    "county": "Orleans",
+    "state": "LA",
+    "postalCode": 70116,
+    "riskFactor": 1.30104582103399,
+    "phone1": "504-621-8927",
+    "phone2": "504-845-1427",
+    "email": "jbutt@gmail.com",
+    "web": "http://www.bentonjohnbjr.com"
+  },
+  {
+    "number": 220,
+    "first": "Josephine",
+    "last": "Darakjy",
+    "company": "Chanay, Jeffrey A Esq",
+    "address": "4 B Blue Ridge Blvd",
+    "city": "Brighton",
+    "county": "Livingston",
+    "state": "MI",
+    "postalCode": 48116,
+    "riskFactor": 2.1116117160137,
+    "phone1": "810-292-9388",
+    "phone2": "810-374-9840",
+    "email": "josephine_darakjy@darakjy.org",
+    "web": "http://www.chanayjeffreyaesq.com"
+  },
+  {
+    "number": 149,
+    "first": "Art",
+    "last": "Venere",
+    "company": "Chemel, James L Cpa",
+    "address": "8 W Cerritos Ave #54",
+    "city": "Bridgeport",
+    "county": "Gloucester",
+    "state": "NJ",
+    "postalCode": 8014,
+    "riskFactor": 2.3388044903613,
+    "phone1": "856-636-8749",
+    "phone2": "856-264-4130",
+    "email": "art@venere.org",
+    "web": "http://www.chemeljameslcpa.com"
+  },
+  {
+    "number": 98,
+    "first": "Lenna",
+    "last": "Paprocki",
+    "company": "Feltz Printing Service",
+    "address": "639 Main St",
+    "city": "Anchorage",
+    "county": "Anchorage",
+    "state": "AK",
+    "postalCode": 99501,
+    "riskFactor": 0.376662709558313,
+    "phone1": "907-385-4412",
+    "phone2": "907-921-2010",
+    "email": "lpaprocki@hotmail.com",
+    "web": "http://www.feltzprintingservice.com"
+  },
+  {
+    "number": 121,
+    "first": "Donette",
+    "last": "Foller",
+    "company": "Printing Dimensions",
+    "address": "34 Center St",
+    "city": "Hamilton",
+    "county": "Butler",
+    "state": "OH",
+    "postalCode": 45011,
+    "riskFactor": 4.82079960193436,
+    "phone1": "513-570-1893",
+    "phone2": "513-549-4561",
+    "email": "donette.foller@cox.net",
+    "web": "http://www.printingdimensions.com"
+  },
+  {
+    "number": 842,
+    "first": "Simona",
+    "last": "Morasca",
+    "company": "Chapman, Ross E Esq",
+    "address": "3 Mcauley Dr",
+    "city": "Ashland",
+    "county": "Ashland",
+    "state": "OH",
+    "postalCode": 44805,
+    "riskFactor": 4.69311653149876,
+    "phone1": "419-503-2484",
+    "phone2": "419-800-6759",
+    "email": "simona@morasca.com",
+    "web": "http://www.chapmanrosseesq.com"
+  },
+  {
+    "number": 917,
+    "first": "Mitsue",
+    "last": "Tollner",
+    "company": "Morlong Associates",
+    "address": "7 Eads St",
+    "city": "Chicago",
+    "county": "Cook",
+    "state": "IL",
+    "postalCode": 60632,
+    "riskFactor": 4.86015778395839,
+    "phone1": "773-573-6914",
+    "phone2": "773-924-8565",
+    "email": "mitsue_tollner@yahoo.com",
+    "web": "http://www.morlongassociates.com"
+  },
+  {
+    "number": 1002,
+    "first": "Leota",
+    "last": "Dilliard",
+    "company": "Commercial Press",
+    "address": "7 W Jackson Blvd",
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "state": "CA",
+    "postalCode": 95111,
+    "riskFactor": 2.70306608628568,
+    "phone1": "408-752-3500",
+    "phone2": "408-813-1105",
+    "email": "leota@hotmail.com",
+    "web": "http://www.commercialpress.com"
+  },
+  {
+    "number": 488,
+    "first": "Sage",
+    "last": "Wieser",
+    "company": "Truhlar And Truhlar Attys",
+    "address": "5 Boston Ave #88",
+    "city": "Sioux Falls",
+    "county": "Minnehaha",
+    "state": "SD",
+    "postalCode": 57105,
+    "riskFactor": 3.12710115729448,
+    "phone1": "605-414-2147",
+    "phone2": "605-794-4895",
+    "email": "sage_wieser@cox.net",
+    "web": "http://www.truhlarandtruhlarattys.com"
+  },
+  {
+    "number": 568,
+    "first": "Kris",
+    "last": "Marrier",
+    "company": "King, Christopher A Esq",
+    "address": "228 Runamuck Pl #2808",
+    "city": "Baltimore",
+    "county": "Baltimore City",
+    "state": "MD",
+    "postalCode": 21224,
+    "riskFactor": 3.70803069255018,
+    "phone1": "410-655-8723",
+    "phone2": "410-804-4694",
+    "email": "kris@gmail.com",
+    "web": "http://www.kingchristopheraesq.com"
+  },
+  {
+    "number": 917,
+    "first": "Minna",
+    "last": "Amigon",
+    "company": "Dorl, James J Esq",
+    "address": "2371 Jerrold Ave",
+    "city": "Kulpsville",
+    "county": "Montgomery",
+    "state": "PA",
+    "postalCode": 19443,
+    "riskFactor": 0.197801565687088,
+    "phone1": "215-874-1229",
+    "phone2": "215-422-8694",
+    "email": "minna_amigon@yahoo.com",
+    "web": "http://www.dorljamesjesq.com"
+  },
+  {
+    "number": 836,
+    "first": "Abel",
+    "last": "Maclead",
+    "company": "Rangoni Of Florence",
+    "address": "37275 St  Rt 17m M",
+    "city": "Middle Island",
+    "county": "Suffolk",
+    "state": "NY",
+    "postalCode": 11953,
+    "riskFactor": 0.954631942989808,
+    "phone1": "631-335-3414",
+    "phone2": "631-677-3675",
+    "email": "amaclead@gmail.com",
+    "web": "http://www.rangoniofflorence.com"
+  },
+  {
+    "number": 624,
+    "first": "Kiley",
+    "last": "Caldarera",
+    "company": "Feiner Bros",
+    "address": "25 E 75th St #69",
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "state": "CA",
+    "postalCode": 90034,
+    "riskFactor": 0.443325045071515,
+    "phone1": "310-498-5651",
+    "phone2": "310-254-3084",
+    "email": "kiley.caldarera@aol.com",
+    "web": "http://www.feinerbros.com"
+  },
+  {
+    "number": 771,
+    "first": "Graciela",
+    "last": "Ruta",
+    "company": "Buckley Miller \u0026 Wright",
+    "address": "98 Connecticut Ave Nw",
+    "city": "Chagrin Falls",
+    "county": "Geauga",
+    "state": "OH",
+    "postalCode": 44023,
+    "riskFactor": 3.10392848591882,
+    "phone1": "440-780-8425",
+    "phone2": "440-579-7763",
+    "email": "gruta@cox.net",
+    "web": "http://www.buckleymillerwright.com"
+  },
+  {
+    "number": 525,
+    "first": "Cammy",
+    "last": "Albares",
+    "company": "Rousseaux, Michael Esq",
+    "address": "56 E Morehead St",
+    "city": "Laredo",
+    "county": "Webb",
+    "state": "TX",
+    "postalCode": 78045,
+    "riskFactor": 4.54852077857535,
+    "phone1": "956-537-6195",
+    "phone2": "956-841-7216",
+    "email": "calbares@gmail.com",
+    "web": "http://www.rousseauxmichaelesq.com"
+  },
+  {
+    "number": 487,
+    "first": "Mattie",
+    "last": "Poquette",
+    "company": "Century Communications",
+    "address": "73 State Road 434 E",
+    "city": "Phoenix",
+    "county": "Maricopa",
+    "state": "AZ",
+    "postalCode": 85013,
+    "riskFactor": 4.01359512394234,
+    "phone1": "602-277-4385",
+    "phone2": "602-953-6360",
+    "email": "mattie@aol.com",
+    "web": "http://www.centurycommunications.com"
+  },
+  {
+    "number": 1101,
+    "first": "Meaghan",
+    "last": "Garufi",
+    "company": "Bolton, Wilbur Esq",
+    "address": "69734 E Carrillo St",
+    "city": "Mc Minnville",
+    "county": "Warren",
+    "state": "TN",
+    "postalCode": 37110,
+    "riskFactor": 2.33206249023171,
+    "phone1": "931-313-9635",
+    "phone2": "931-235-7959",
+    "email": "meaghan@hotmail.com",
+    "web": "http://www.boltonwilburesq.com"
+  },
+  {
+    "number": 831,
+    "first": "Gladys",
+    "last": "Rim",
+    "company": "T M Byxbee Company Pc",
+    "address": "322 New Horizon Blvd",
+    "city": "Milwaukee",
+    "county": "Milwaukee",
+    "state": "WI",
+    "postalCode": 53207,
+    "riskFactor": 2.15123713302263,
+    "phone1": "414-661-9598",
+    "phone2": "414-377-2880",
+    "email": "gladys.rim@rim.org",
+    "web": "http://www.tmbyxbeecompanypc.com"
+  },
+  {
+    "number": 111,
+    "first": "Yuki",
+    "last": "Whobrey",
+    "company": "Farmers Insurance Group",
+    "address": "1 State Route 27",
+    "city": "Taylor",
+    "county": "Wayne",
+    "state": "MI",
+    "postalCode": 48180,
+    "riskFactor": 0.926998868065159,
+    "phone1": "313-288-7937",
+    "phone2": "313-341-4470",
+    "email": "yuki_whobrey@aol.com",
+    "web": "http://www.farmersinsurancegroup.com"
+  }
+]
+2022-03-28 09:07:25.267 [main] INFO  App - The file has been successfully created! Filename: writeClients.json
+2022-03-28 09:07:25.267 [main] DEBUG App - Step 5
+2022-03-28 09:07:25.268 [main] INFO  App - Specified Client: number=730, first='James', last='Butt', company='Benton, John B Jr', address='6649 N Blue Gum St', city='New Orleans', county='Orleans', state='LA', postalCode=70116, riskFactor=1.30104582103399, phone1='504-621-8927', phone2='504-845-1427', email='jbutt@gmail.com', web='http://www.bentonjohnbjr.com'
+2022-03-28 09:07:25.268 [main] DEBUG App - Step 6
+2022-03-28 09:07:25.825 [main] INFO  App - Area Code: 70116 | Latitude: 29.9686 | Longitude: -90.0646
+2022-03-28 09:07:25.826 [main] DEBUG App - Step 7
+2022-03-28 09:07:25.829 [main] DEBUG App - In prepared7...
+2022-03-28 09:07:26.110 [main] INFO  App - At least one record was found
+2022-03-28 09:07:26.112 [main] INFO  App - Median Age: 35.900001525878906
+2022-03-28 09:07:26.112 [main] INFO  App - Population: 389617
+2022-03-28 09:07:26.125 [main] DEBUG App - End of prepared7
+2022-03-28 09:07:26.125 [main] DEBUG App - Step 8 (Bonus)
+2022-03-28 09:07:26.282 [main] DEBUG App - End of program
+2022-03-28 09:09:24.605 [main] INFO  App - ==== Printing Command Line Arguments ====
+2022-03-28 09:09:24.609 [main] INFO  App - args[0] is: query
+2022-03-28 09:09:24.609 [main] INFO  App - args[1] is: output.json
+2022-03-28 09:09:24.609 [main] INFO  App - args[2] is: clients.csv
+2022-03-28 09:09:24.609 [main] INFO  App - args[3] is: 730
+2022-03-28 09:09:24.609 [main] INFO  App - args[4] is: eur
+2022-03-28 09:09:24.609 [main] DEBUG App - In doQuery...
+2022-03-28 09:09:24.609 [main] DEBUG App - Step 3
+2022-03-28 09:09:24.703 [main] INFO  App - Records Printed: 19
+2022-03-28 09:09:24.719 [main] INFO  App - First Record: number=730, first='James', last='Butt', company='Benton, John B Jr', address='6649 N Blue Gum St', city='New Orleans', county='Orleans', state='LA', postalCode=70116, riskFactor=1.30104582103399, phone1='504-621-8927', phone2='504-845-1427', email='jbutt@gmail.com', web='http://www.bentonjohnbjr.com'
+2022-03-28 09:09:24.719 [main] DEBUG App - Step 4
+2022-03-28 09:09:24.752 [main] INFO  App - [
+  {
+    "number": 730,
+    "first": "James",
+    "last": "Butt",
+    "company": "Benton, John B Jr",
+    "address": "6649 N Blue Gum St",
+    "city": "New Orleans",
+    "county": "Orleans",
+    "state": "LA",
+    "postalCode": 70116,
+    "riskFactor": 1.30104582103399,
+    "phone1": "504-621-8927",
+    "phone2": "504-845-1427",
+    "email": "jbutt@gmail.com",
+    "web": "http://www.bentonjohnbjr.com"
+  },
+  {
+    "number": 220,
+    "first": "Josephine",
+    "last": "Darakjy",
+    "company": "Chanay, Jeffrey A Esq",
+    "address": "4 B Blue Ridge Blvd",
+    "city": "Brighton",
+    "county": "Livingston",
+    "state": "MI",
+    "postalCode": 48116,
+    "riskFactor": 2.1116117160137,
+    "phone1": "810-292-9388",
+    "phone2": "810-374-9840",
+    "email": "josephine_darakjy@darakjy.org",
+    "web": "http://www.chanayjeffreyaesq.com"
+  },
+  {
+    "number": 149,
+    "first": "Art",
+    "last": "Venere",
+    "company": "Chemel, James L Cpa",
+    "address": "8 W Cerritos Ave #54",
+    "city": "Bridgeport",
+    "county": "Gloucester",
+    "state": "NJ",
+    "postalCode": 8014,
+    "riskFactor": 2.3388044903613,
+    "phone1": "856-636-8749",
+    "phone2": "856-264-4130",
+    "email": "art@venere.org",
+    "web": "http://www.chemeljameslcpa.com"
+  },
+  {
+    "number": 98,
+    "first": "Lenna",
+    "last": "Paprocki",
+    "company": "Feltz Printing Service",
+    "address": "639 Main St",
+    "city": "Anchorage",
+    "county": "Anchorage",
+    "state": "AK",
+    "postalCode": 99501,
+    "riskFactor": 0.376662709558313,
+    "phone1": "907-385-4412",
+    "phone2": "907-921-2010",
+    "email": "lpaprocki@hotmail.com",
+    "web": "http://www.feltzprintingservice.com"
+  },
+  {
+    "number": 121,
+    "first": "Donette",
+    "last": "Foller",
+    "company": "Printing Dimensions",
+    "address": "34 Center St",
+    "city": "Hamilton",
+    "county": "Butler",
+    "state": "OH",
+    "postalCode": 45011,
+    "riskFactor": 4.82079960193436,
+    "phone1": "513-570-1893",
+    "phone2": "513-549-4561",
+    "email": "donette.foller@cox.net",
+    "web": "http://www.printingdimensions.com"
+  },
+  {
+    "number": 842,
+    "first": "Simona",
+    "last": "Morasca",
+    "company": "Chapman, Ross E Esq",
+    "address": "3 Mcauley Dr",
+    "city": "Ashland",
+    "county": "Ashland",
+    "state": "OH",
+    "postalCode": 44805,
+    "riskFactor": 4.69311653149876,
+    "phone1": "419-503-2484",
+    "phone2": "419-800-6759",
+    "email": "simona@morasca.com",
+    "web": "http://www.chapmanrosseesq.com"
+  },
+  {
+    "number": 917,
+    "first": "Mitsue",
+    "last": "Tollner",
+    "company": "Morlong Associates",
+    "address": "7 Eads St",
+    "city": "Chicago",
+    "county": "Cook",
+    "state": "IL",
+    "postalCode": 60632,
+    "riskFactor": 4.86015778395839,
+    "phone1": "773-573-6914",
+    "phone2": "773-924-8565",
+    "email": "mitsue_tollner@yahoo.com",
+    "web": "http://www.morlongassociates.com"
+  },
+  {
+    "number": 1002,
+    "first": "Leota",
+    "last": "Dilliard",
+    "company": "Commercial Press",
+    "address": "7 W Jackson Blvd",
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "state": "CA",
+    "postalCode": 95111,
+    "riskFactor": 2.70306608628568,
+    "phone1": "408-752-3500",
+    "phone2": "408-813-1105",
+    "email": "leota@hotmail.com",
+    "web": "http://www.commercialpress.com"
+  },
+  {
+    "number": 488,
+    "first": "Sage",
+    "last": "Wieser",
+    "company": "Truhlar And Truhlar Attys",
+    "address": "5 Boston Ave #88",
+    "city": "Sioux Falls",
+    "county": "Minnehaha",
+    "state": "SD",
+    "postalCode": 57105,
+    "riskFactor": 3.12710115729448,
+    "phone1": "605-414-2147",
+    "phone2": "605-794-4895",
+    "email": "sage_wieser@cox.net",
+    "web": "http://www.truhlarandtruhlarattys.com"
+  },
+  {
+    "number": 568,
+    "first": "Kris",
+    "last": "Marrier",
+    "company": "King, Christopher A Esq",
+    "address": "228 Runamuck Pl #2808",
+    "city": "Baltimore",
+    "county": "Baltimore City",
+    "state": "MD",
+    "postalCode": 21224,
+    "riskFactor": 3.70803069255018,
+    "phone1": "410-655-8723",
+    "phone2": "410-804-4694",
+    "email": "kris@gmail.com",
+    "web": "http://www.kingchristopheraesq.com"
+  },
+  {
+    "number": 917,
+    "first": "Minna",
+    "last": "Amigon",
+    "company": "Dorl, James J Esq",
+    "address": "2371 Jerrold Ave",
+    "city": "Kulpsville",
+    "county": "Montgomery",
+    "state": "PA",
+    "postalCode": 19443,
+    "riskFactor": 0.197801565687088,
+    "phone1": "215-874-1229",
+    "phone2": "215-422-8694",
+    "email": "minna_amigon@yahoo.com",
+    "web": "http://www.dorljamesjesq.com"
+  },
+  {
+    "number": 836,
+    "first": "Abel",
+    "last": "Maclead",
+    "company": "Rangoni Of Florence",
+    "address": "37275 St  Rt 17m M",
+    "city": "Middle Island",
+    "county": "Suffolk",
+    "state": "NY",
+    "postalCode": 11953,
+    "riskFactor": 0.954631942989808,
+    "phone1": "631-335-3414",
+    "phone2": "631-677-3675",
+    "email": "amaclead@gmail.com",
+    "web": "http://www.rangoniofflorence.com"
+  },
+  {
+    "number": 624,
+    "first": "Kiley",
+    "last": "Caldarera",
+    "company": "Feiner Bros",
+    "address": "25 E 75th St #69",
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "state": "CA",
+    "postalCode": 90034,
+    "riskFactor": 0.443325045071515,
+    "phone1": "310-498-5651",
+    "phone2": "310-254-3084",
+    "email": "kiley.caldarera@aol.com",
+    "web": "http://www.feinerbros.com"
+  },
+  {
+    "number": 771,
+    "first": "Graciela",
+    "last": "Ruta",
+    "company": "Buckley Miller \u0026 Wright",
+    "address": "98 Connecticut Ave Nw",
+    "city": "Chagrin Falls",
+    "county": "Geauga",
+    "state": "OH",
+    "postalCode": 44023,
+    "riskFactor": 3.10392848591882,
+    "phone1": "440-780-8425",
+    "phone2": "440-579-7763",
+    "email": "gruta@cox.net",
+    "web": "http://www.buckleymillerwright.com"
+  },
+  {
+    "number": 525,
+    "first": "Cammy",
+    "last": "Albares",
+    "company": "Rousseaux, Michael Esq",
+    "address": "56 E Morehead St",
+    "city": "Laredo",
+    "county": "Webb",
+    "state": "TX",
+    "postalCode": 78045,
+    "riskFactor": 4.54852077857535,
+    "phone1": "956-537-6195",
+    "phone2": "956-841-7216",
+    "email": "calbares@gmail.com",
+    "web": "http://www.rousseauxmichaelesq.com"
+  },
+  {
+    "number": 487,
+    "first": "Mattie",
+    "last": "Poquette",
+    "company": "Century Communications",
+    "address": "73 State Road 434 E",
+    "city": "Phoenix",
+    "county": "Maricopa",
+    "state": "AZ",
+    "postalCode": 85013,
+    "riskFactor": 4.01359512394234,
+    "phone1": "602-277-4385",
+    "phone2": "602-953-6360",
+    "email": "mattie@aol.com",
+    "web": "http://www.centurycommunications.com"
+  },
+  {
+    "number": 1101,
+    "first": "Meaghan",
+    "last": "Garufi",
+    "company": "Bolton, Wilbur Esq",
+    "address": "69734 E Carrillo St",
+    "city": "Mc Minnville",
+    "county": "Warren",
+    "state": "TN",
+    "postalCode": 37110,
+    "riskFactor": 2.33206249023171,
+    "phone1": "931-313-9635",
+    "phone2": "931-235-7959",
+    "email": "meaghan@hotmail.com",
+    "web": "http://www.boltonwilburesq.com"
+  },
+  {
+    "number": 831,
+    "first": "Gladys",
+    "last": "Rim",
+    "company": "T M Byxbee Company Pc",
+    "address": "322 New Horizon Blvd",
+    "city": "Milwaukee",
+    "county": "Milwaukee",
+    "state": "WI",
+    "postalCode": 53207,
+    "riskFactor": 2.15123713302263,
+    "phone1": "414-661-9598",
+    "phone2": "414-377-2880",
+    "email": "gladys.rim@rim.org",
+    "web": "http://www.tmbyxbeecompanypc.com"
+  },
+  {
+    "number": 111,
+    "first": "Yuki",
+    "last": "Whobrey",
+    "company": "Farmers Insurance Group",
+    "address": "1 State Route 27",
+    "city": "Taylor",
+    "county": "Wayne",
+    "state": "MI",
+    "postalCode": 48180,
+    "riskFactor": 0.926998868065159,
+    "phone1": "313-288-7937",
+    "phone2": "313-341-4470",
+    "email": "yuki_whobrey@aol.com",
+    "web": "http://www.farmersinsurancegroup.com"
+  }
+]
+2022-03-28 09:09:24.755 [main] INFO  App - The file has been successfully created! Filename: writeClients.json
+2022-03-28 09:09:24.755 [main] DEBUG App - Step 5
+2022-03-28 09:09:24.756 [main] INFO  App - Specified Client: number=730, first='James', last='Butt', company='Benton, John B Jr', address='6649 N Blue Gum St', city='New Orleans', county='Orleans', state='LA', postalCode=70116, riskFactor=1.30104582103399, phone1='504-621-8927', phone2='504-845-1427', email='jbutt@gmail.com', web='http://www.bentonjohnbjr.com'
+2022-03-28 09:09:24.756 [main] DEBUG App - Step 6
+2022-03-28 09:09:25.308 [main] INFO  App - Area Code: 70116 | Latitude: 29.9686 | Longitude: -90.0646
+2022-03-28 09:09:25.308 [main] DEBUG App - Step 7
+2022-03-28 09:09:25.310 [main] DEBUG App - In prepared7...
+2022-03-28 09:09:25.596 [main] INFO  App - At least one record was found
+2022-03-28 09:09:25.597 [main] INFO  App - Median Age: 35.900001525878906
+2022-03-28 09:09:25.598 [main] INFO  App - Population: 389617
+2022-03-28 09:09:25.610 [main] DEBUG App - End of prepared7
+2022-03-28 09:09:25.610 [main] DEBUG App - Step 8 (Bonus)
+2022-03-28 09:09:25.767 [main] DEBUG App - Step 9
+2022-03-28 09:09:25.768 [main] DEBUG App - End of program
+2022-03-28 09:10:52.445 [main] INFO  App - ==== Printing Command Line Arguments ====
+2022-03-28 09:10:52.449 [main] INFO  App - args[0] is: query
+2022-03-28 09:10:52.449 [main] INFO  App - args[1] is: output.json
+2022-03-28 09:10:52.449 [main] INFO  App - args[2] is: clients.csv
+2022-03-28 09:10:52.449 [main] INFO  App - args[3] is: 730
+2022-03-28 09:10:52.450 [main] INFO  App - args[4] is: eur
+2022-03-28 09:10:52.450 [main] DEBUG App - In doQuery...
+2022-03-28 09:10:52.450 [main] DEBUG App - Step 3
+2022-03-28 09:10:52.541 [main] INFO  App - Records Printed: 19
+2022-03-28 09:10:52.554 [main] INFO  App - First Record: number=730, first='James', last='Butt', company='Benton, John B Jr', address='6649 N Blue Gum St', city='New Orleans', county='Orleans', state='LA', postalCode=70116, riskFactor=1.30104582103399, phone1='504-621-8927', phone2='504-845-1427', email='jbutt@gmail.com', web='http://www.bentonjohnbjr.com'
+2022-03-28 09:10:52.554 [main] DEBUG App - Step 4
+2022-03-28 09:10:52.586 [main] INFO  App - [
+  {
+    "number": 730,
+    "first": "James",
+    "last": "Butt",
+    "company": "Benton, John B Jr",
+    "address": "6649 N Blue Gum St",
+    "city": "New Orleans",
+    "county": "Orleans",
+    "state": "LA",
+    "postalCode": 70116,
+    "riskFactor": 1.30104582103399,
+    "phone1": "504-621-8927",
+    "phone2": "504-845-1427",
+    "email": "jbutt@gmail.com",
+    "web": "http://www.bentonjohnbjr.com"
+  },
+  {
+    "number": 220,
+    "first": "Josephine",
+    "last": "Darakjy",
+    "company": "Chanay, Jeffrey A Esq",
+    "address": "4 B Blue Ridge Blvd",
+    "city": "Brighton",
+    "county": "Livingston",
+    "state": "MI",
+    "postalCode": 48116,
+    "riskFactor": 2.1116117160137,
+    "phone1": "810-292-9388",
+    "phone2": "810-374-9840",
+    "email": "josephine_darakjy@darakjy.org",
+    "web": "http://www.chanayjeffreyaesq.com"
+  },
+  {
+    "number": 149,
+    "first": "Art",
+    "last": "Venere",
+    "company": "Chemel, James L Cpa",
+    "address": "8 W Cerritos Ave #54",
+    "city": "Bridgeport",
+    "county": "Gloucester",
+    "state": "NJ",
+    "postalCode": 8014,
+    "riskFactor": 2.3388044903613,
+    "phone1": "856-636-8749",
+    "phone2": "856-264-4130",
+    "email": "art@venere.org",
+    "web": "http://www.chemeljameslcpa.com"
+  },
+  {
+    "number": 98,
+    "first": "Lenna",
+    "last": "Paprocki",
+    "company": "Feltz Printing Service",
+    "address": "639 Main St",
+    "city": "Anchorage",
+    "county": "Anchorage",
+    "state": "AK",
+    "postalCode": 99501,
+    "riskFactor": 0.376662709558313,
+    "phone1": "907-385-4412",
+    "phone2": "907-921-2010",
+    "email": "lpaprocki@hotmail.com",
+    "web": "http://www.feltzprintingservice.com"
+  },
+  {
+    "number": 121,
+    "first": "Donette",
+    "last": "Foller",
+    "company": "Printing Dimensions",
+    "address": "34 Center St",
+    "city": "Hamilton",
+    "county": "Butler",
+    "state": "OH",
+    "postalCode": 45011,
+    "riskFactor": 4.82079960193436,
+    "phone1": "513-570-1893",
+    "phone2": "513-549-4561",
+    "email": "donette.foller@cox.net",
+    "web": "http://www.printingdimensions.com"
+  },
+  {
+    "number": 842,
+    "first": "Simona",
+    "last": "Morasca",
+    "company": "Chapman, Ross E Esq",
+    "address": "3 Mcauley Dr",
+    "city": "Ashland",
+    "county": "Ashland",
+    "state": "OH",
+    "postalCode": 44805,
+    "riskFactor": 4.69311653149876,
+    "phone1": "419-503-2484",
+    "phone2": "419-800-6759",
+    "email": "simona@morasca.com",
+    "web": "http://www.chapmanrosseesq.com"
+  },
+  {
+    "number": 917,
+    "first": "Mitsue",
+    "last": "Tollner",
+    "company": "Morlong Associates",
+    "address": "7 Eads St",
+    "city": "Chicago",
+    "county": "Cook",
+    "state": "IL",
+    "postalCode": 60632,
+    "riskFactor": 4.86015778395839,
+    "phone1": "773-573-6914",
+    "phone2": "773-924-8565",
+    "email": "mitsue_tollner@yahoo.com",
+    "web": "http://www.morlongassociates.com"
+  },
+  {
+    "number": 1002,
+    "first": "Leota",
+    "last": "Dilliard",
+    "company": "Commercial Press",
+    "address": "7 W Jackson Blvd",
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "state": "CA",
+    "postalCode": 95111,
+    "riskFactor": 2.70306608628568,
+    "phone1": "408-752-3500",
+    "phone2": "408-813-1105",
+    "email": "leota@hotmail.com",
+    "web": "http://www.commercialpress.com"
+  },
+  {
+    "number": 488,
+    "first": "Sage",
+    "last": "Wieser",
+    "company": "Truhlar And Truhlar Attys",
+    "address": "5 Boston Ave #88",
+    "city": "Sioux Falls",
+    "county": "Minnehaha",
+    "state": "SD",
+    "postalCode": 57105,
+    "riskFactor": 3.12710115729448,
+    "phone1": "605-414-2147",
+    "phone2": "605-794-4895",
+    "email": "sage_wieser@cox.net",
+    "web": "http://www.truhlarandtruhlarattys.com"
+  },
+  {
+    "number": 568,
+    "first": "Kris",
+    "last": "Marrier",
+    "company": "King, Christopher A Esq",
+    "address": "228 Runamuck Pl #2808",
+    "city": "Baltimore",
+    "county": "Baltimore City",
+    "state": "MD",
+    "postalCode": 21224,
+    "riskFactor": 3.70803069255018,
+    "phone1": "410-655-8723",
+    "phone2": "410-804-4694",
+    "email": "kris@gmail.com",
+    "web": "http://www.kingchristopheraesq.com"
+  },
+  {
+    "number": 917,
+    "first": "Minna",
+    "last": "Amigon",
+    "company": "Dorl, James J Esq",
+    "address": "2371 Jerrold Ave",
+    "city": "Kulpsville",
+    "county": "Montgomery",
+    "state": "PA",
+    "postalCode": 19443,
+    "riskFactor": 0.197801565687088,
+    "phone1": "215-874-1229",
+    "phone2": "215-422-8694",
+    "email": "minna_amigon@yahoo.com",
+    "web": "http://www.dorljamesjesq.com"
+  },
+  {
+    "number": 836,
+    "first": "Abel",
+    "last": "Maclead",
+    "company": "Rangoni Of Florence",
+    "address": "37275 St  Rt 17m M",
+    "city": "Middle Island",
+    "county": "Suffolk",
+    "state": "NY",
+    "postalCode": 11953,
+    "riskFactor": 0.954631942989808,
+    "phone1": "631-335-3414",
+    "phone2": "631-677-3675",
+    "email": "amaclead@gmail.com",
+    "web": "http://www.rangoniofflorence.com"
+  },
+  {
+    "number": 624,
+    "first": "Kiley",
+    "last": "Caldarera",
+    "company": "Feiner Bros",
+    "address": "25 E 75th St #69",
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "state": "CA",
+    "postalCode": 90034,
+    "riskFactor": 0.443325045071515,
+    "phone1": "310-498-5651",
+    "phone2": "310-254-3084",
+    "email": "kiley.caldarera@aol.com",
+    "web": "http://www.feinerbros.com"
+  },
+  {
+    "number": 771,
+    "first": "Graciela",
+    "last": "Ruta",
+    "company": "Buckley Miller \u0026 Wright",
+    "address": "98 Connecticut Ave Nw",
+    "city": "Chagrin Falls",
+    "county": "Geauga",
+    "state": "OH",
+    "postalCode": 44023,
+    "riskFactor": 3.10392848591882,
+    "phone1": "440-780-8425",
+    "phone2": "440-579-7763",
+    "email": "gruta@cox.net",
+    "web": "http://www.buckleymillerwright.com"
+  },
+  {
+    "number": 525,
+    "first": "Cammy",
+    "last": "Albares",
+    "company": "Rousseaux, Michael Esq",
+    "address": "56 E Morehead St",
+    "city": "Laredo",
+    "county": "Webb",
+    "state": "TX",
+    "postalCode": 78045,
+    "riskFactor": 4.54852077857535,
+    "phone1": "956-537-6195",
+    "phone2": "956-841-7216",
+    "email": "calbares@gmail.com",
+    "web": "http://www.rousseauxmichaelesq.com"
+  },
+  {
+    "number": 487,
+    "first": "Mattie",
+    "last": "Poquette",
+    "company": "Century Communications",
+    "address": "73 State Road 434 E",
+    "city": "Phoenix",
+    "county": "Maricopa",
+    "state": "AZ",
+    "postalCode": 85013,
+    "riskFactor": 4.01359512394234,
+    "phone1": "602-277-4385",
+    "phone2": "602-953-6360",
+    "email": "mattie@aol.com",
+    "web": "http://www.centurycommunications.com"
+  },
+  {
+    "number": 1101,
+    "first": "Meaghan",
+    "last": "Garufi",
+    "company": "Bolton, Wilbur Esq",
+    "address": "69734 E Carrillo St",
+    "city": "Mc Minnville",
+    "county": "Warren",
+    "state": "TN",
+    "postalCode": 37110,
+    "riskFactor": 2.33206249023171,
+    "phone1": "931-313-9635",
+    "phone2": "931-235-7959",
+    "email": "meaghan@hotmail.com",
+    "web": "http://www.boltonwilburesq.com"
+  },
+  {
+    "number": 831,
+    "first": "Gladys",
+    "last": "Rim",
+    "company": "T M Byxbee Company Pc",
+    "address": "322 New Horizon Blvd",
+    "city": "Milwaukee",
+    "county": "Milwaukee",
+    "state": "WI",
+    "postalCode": 53207,
+    "riskFactor": 2.15123713302263,
+    "phone1": "414-661-9598",
+    "phone2": "414-377-2880",
+    "email": "gladys.rim@rim.org",
+    "web": "http://www.tmbyxbeecompanypc.com"
+  },
+  {
+    "number": 111,
+    "first": "Yuki",
+    "last": "Whobrey",
+    "company": "Farmers Insurance Group",
+    "address": "1 State Route 27",
+    "city": "Taylor",
+    "county": "Wayne",
+    "state": "MI",
+    "postalCode": 48180,
+    "riskFactor": 0.926998868065159,
+    "phone1": "313-288-7937",
+    "phone2": "313-341-4470",
+    "email": "yuki_whobrey@aol.com",
+    "web": "http://www.farmersinsurancegroup.com"
+  }
+]
+2022-03-28 09:10:52.589 [main] INFO  App - The file has been successfully created! Filename: writeClients.json
+2022-03-28 09:10:52.589 [main] DEBUG App - Step 5
+2022-03-28 09:10:52.590 [main] INFO  App - Specified Client: number=730, first='James', last='Butt', company='Benton, John B Jr', address='6649 N Blue Gum St', city='New Orleans', county='Orleans', state='LA', postalCode=70116, riskFactor=1.30104582103399, phone1='504-621-8927', phone2='504-845-1427', email='jbutt@gmail.com', web='http://www.bentonjohnbjr.com'
+2022-03-28 09:10:52.590 [main] DEBUG App - Step 6
+2022-03-28 09:10:53.120 [main] INFO  App - Area Code: 70116 | Latitude: 29.9686 | Longitude: -90.0646
+2022-03-28 09:10:53.121 [main] DEBUG App - Step 7
+2022-03-28 09:10:53.124 [main] DEBUG App - In prepared7...
+2022-03-28 09:10:53.406 [main] INFO  App - At least one record was found
+2022-03-28 09:10:53.407 [main] INFO  App - Median Age: 35.900001525878906
+2022-03-28 09:10:53.407 [main] INFO  App - Population: 389617
+2022-03-28 09:10:53.413 [main] DEBUG App - End of prepared7
+2022-03-28 09:10:53.413 [main] DEBUG App - Step 8 (Bonus)
+2022-03-28 09:10:53.569 [main] DEBUG App - Step 9
+2022-03-28 09:10:53.570 [main] DEBUG App - End of program
+2022-03-28 09:11:44.662 [main] INFO  App - ==== Printing Command Line Arguments ====
+2022-03-28 09:11:44.666 [main] INFO  App - args[0] is: report
+2022-03-28 09:11:44.666 [main] INFO  App - args[1] is: output.json
+2022-03-28 09:11:44.667 [main] DEBUG App - In doReport...
+2022-03-28 09:11:44.667 [main] DEBUG App - Creating Individual from Json...
+2022-03-28 09:11:44.697 [main] DEBUG App - Creating markdown file...
+2022-03-28 09:11:44.699 [main] DEBUG App - End of program
+2022-03-28 09:13:31.319 [main] INFO  App - ==== Printing Command Line Arguments ====
+2022-03-28 09:13:31.323 [main] INFO  App - args[0] is: report
+2022-03-28 09:13:31.323 [main] INFO  App - args[1] is: output.json
+2022-03-28 09:13:31.323 [main] DEBUG App - In doReport...
+2022-03-28 09:13:31.323 [main] DEBUG App - Creating Individual from Json...
+2022-03-28 09:13:31.355 [main] DEBUG App - Creating markdown file...
+2022-03-28 09:13:31.357 [main] DEBUG App - End of program
+2022-03-28 09:31:30.127 [main] INFO  App - ==== Printing Command Line Arguments ====
+2022-03-28 09:31:30.131 [main] INFO  App - args[0] is: report
+2022-03-28 09:31:30.131 [main] INFO  App - args[1] is: output.json
+2022-03-28 09:31:30.131 [main] DEBUG App - In doReport...
+2022-03-28 09:31:30.131 [main] DEBUG App - Creating Individual from Json...
+2022-03-28 09:31:30.163 [main] DEBUG App - Creating markdown file...
+2022-03-28 09:31:30.165 [main] DEBUG App - End of program
+2022-03-28 09:31:36.517 [main] INFO  App - ==== Printing Command Line Arguments ====
+2022-03-28 09:31:36.521 [main] INFO  App - args[0] is: report
+2022-03-28 09:31:36.521 [main] INFO  App - args[1] is: output.json
+2022-03-28 09:31:36.522 [main] DEBUG App - In doReport...
+2022-03-28 09:31:36.522 [main] DEBUG App - Creating Individual from Json...
+2022-03-28 09:31:36.554 [main] DEBUG App - Creating markdown file...
+2022-03-28 09:31:36.557 [main] DEBUG App - End of program
+2022-03-28 09:32:00.967 [main] INFO  App - ==== Printing Command Line Arguments ====
+2022-03-28 09:32:00.971 [main] INFO  App - args[0] is: query
+2022-03-28 09:32:00.971 [main] INFO  App - args[1] is: output.json
+2022-03-28 09:32:00.971 [main] INFO  App - args[2] is: clients.csv
+2022-03-28 09:32:00.971 [main] INFO  App - args[3] is: 730
+2022-03-28 09:32:00.971 [main] INFO  App - args[4] is: eur
+2022-03-28 09:32:00.971 [main] DEBUG App - In doQuery...
+2022-03-28 09:32:00.971 [main] DEBUG App - Step 3
+2022-03-28 09:32:01.062 [main] INFO  App - Records Printed: 19
+2022-03-28 09:32:01.075 [main] INFO  App - First Record: number=730, first='James', last='Butt', company='Benton, John B Jr', address='6649 N Blue Gum St', city='New Orleans', county='Orleans', state='LA', postalCode=70116, riskFactor=1.30104582103399, phone1='504-621-8927', phone2='504-845-1427', email='jbutt@gmail.com', web='http://www.bentonjohnbjr.com'
+2022-03-28 09:32:01.075 [main] DEBUG App - Step 4
+2022-03-28 09:32:01.106 [main] INFO  App - [
+  {
+    "number": 730,
+    "first": "James",
+    "last": "Butt",
+    "company": "Benton, John B Jr",
+    "address": "6649 N Blue Gum St",
+    "city": "New Orleans",
+    "county": "Orleans",
+    "state": "LA",
+    "postalCode": 70116,
+    "riskFactor": 1.30104582103399,
+    "phone1": "504-621-8927",
+    "phone2": "504-845-1427",
+    "email": "jbutt@gmail.com",
+    "web": "http://www.bentonjohnbjr.com"
+  },
+  {
+    "number": 220,
+    "first": "Josephine",
+    "last": "Darakjy",
+    "company": "Chanay, Jeffrey A Esq",
+    "address": "4 B Blue Ridge Blvd",
+    "city": "Brighton",
+    "county": "Livingston",
+    "state": "MI",
+    "postalCode": 48116,
+    "riskFactor": 2.1116117160137,
+    "phone1": "810-292-9388",
+    "phone2": "810-374-9840",
+    "email": "josephine_darakjy@darakjy.org",
+    "web": "http://www.chanayjeffreyaesq.com"
+  },
+  {
+    "number": 149,
+    "first": "Art",
+    "last": "Venere",
+    "company": "Chemel, James L Cpa",
+    "address": "8 W Cerritos Ave #54",
+    "city": "Bridgeport",
+    "county": "Gloucester",
+    "state": "NJ",
+    "postalCode": 8014,
+    "riskFactor": 2.3388044903613,
+    "phone1": "856-636-8749",
+    "phone2": "856-264-4130",
+    "email": "art@venere.org",
+    "web": "http://www.chemeljameslcpa.com"
+  },
+  {
+    "number": 98,
+    "first": "Lenna",
+    "last": "Paprocki",
+    "company": "Feltz Printing Service",
+    "address": "639 Main St",
+    "city": "Anchorage",
+    "county": "Anchorage",
+    "state": "AK",
+    "postalCode": 99501,
+    "riskFactor": 0.376662709558313,
+    "phone1": "907-385-4412",
+    "phone2": "907-921-2010",
+    "email": "lpaprocki@hotmail.com",
+    "web": "http://www.feltzprintingservice.com"
+  },
+  {
+    "number": 121,
+    "first": "Donette",
+    "last": "Foller",
+    "company": "Printing Dimensions",
+    "address": "34 Center St",
+    "city": "Hamilton",
+    "county": "Butler",
+    "state": "OH",
+    "postalCode": 45011,
+    "riskFactor": 4.82079960193436,
+    "phone1": "513-570-1893",
+    "phone2": "513-549-4561",
+    "email": "donette.foller@cox.net",
+    "web": "http://www.printingdimensions.com"
+  },
+  {
+    "number": 842,
+    "first": "Simona",
+    "last": "Morasca",
+    "company": "Chapman, Ross E Esq",
+    "address": "3 Mcauley Dr",
+    "city": "Ashland",
+    "county": "Ashland",
+    "state": "OH",
+    "postalCode": 44805,
+    "riskFactor": 4.69311653149876,
+    "phone1": "419-503-2484",
+    "phone2": "419-800-6759",
+    "email": "simona@morasca.com",
+    "web": "http://www.chapmanrosseesq.com"
+  },
+  {
+    "number": 917,
+    "first": "Mitsue",
+    "last": "Tollner",
+    "company": "Morlong Associates",
+    "address": "7 Eads St",
+    "city": "Chicago",
+    "county": "Cook",
+    "state": "IL",
+    "postalCode": 60632,
+    "riskFactor": 4.86015778395839,
+    "phone1": "773-573-6914",
+    "phone2": "773-924-8565",
+    "email": "mitsue_tollner@yahoo.com",
+    "web": "http://www.morlongassociates.com"
+  },
+  {
+    "number": 1002,
+    "first": "Leota",
+    "last": "Dilliard",
+    "company": "Commercial Press",
+    "address": "7 W Jackson Blvd",
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "state": "CA",
+    "postalCode": 95111,
+    "riskFactor": 2.70306608628568,
+    "phone1": "408-752-3500",
+    "phone2": "408-813-1105",
+    "email": "leota@hotmail.com",
+    "web": "http://www.commercialpress.com"
+  },
+  {
+    "number": 488,
+    "first": "Sage",
+    "last": "Wieser",
+    "company": "Truhlar And Truhlar Attys",
+    "address": "5 Boston Ave #88",
+    "city": "Sioux Falls",
+    "county": "Minnehaha",
+    "state": "SD",
+    "postalCode": 57105,
+    "riskFactor": 3.12710115729448,
+    "phone1": "605-414-2147",
+    "phone2": "605-794-4895",
+    "email": "sage_wieser@cox.net",
+    "web": "http://www.truhlarandtruhlarattys.com"
+  },
+  {
+    "number": 568,
+    "first": "Kris",
+    "last": "Marrier",
+    "company": "King, Christopher A Esq",
+    "address": "228 Runamuck Pl #2808",
+    "city": "Baltimore",
+    "county": "Baltimore City",
+    "state": "MD",
+    "postalCode": 21224,
+    "riskFactor": 3.70803069255018,
+    "phone1": "410-655-8723",
+    "phone2": "410-804-4694",
+    "email": "kris@gmail.com",
+    "web": "http://www.kingchristopheraesq.com"
+  },
+  {
+    "number": 917,
+    "first": "Minna",
+    "last": "Amigon",
+    "company": "Dorl, James J Esq",
+    "address": "2371 Jerrold Ave",
+    "city": "Kulpsville",
+    "county": "Montgomery",
+    "state": "PA",
+    "postalCode": 19443,
+    "riskFactor": 0.197801565687088,
+    "phone1": "215-874-1229",
+    "phone2": "215-422-8694",
+    "email": "minna_amigon@yahoo.com",
+    "web": "http://www.dorljamesjesq.com"
+  },
+  {
+    "number": 836,
+    "first": "Abel",
+    "last": "Maclead",
+    "company": "Rangoni Of Florence",
+    "address": "37275 St  Rt 17m M",
+    "city": "Middle Island",
+    "county": "Suffolk",
+    "state": "NY",
+    "postalCode": 11953,
+    "riskFactor": 0.954631942989808,
+    "phone1": "631-335-3414",
+    "phone2": "631-677-3675",
+    "email": "amaclead@gmail.com",
+    "web": "http://www.rangoniofflorence.com"
+  },
+  {
+    "number": 624,
+    "first": "Kiley",
+    "last": "Caldarera",
+    "company": "Feiner Bros",
+    "address": "25 E 75th St #69",
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "state": "CA",
+    "postalCode": 90034,
+    "riskFactor": 0.443325045071515,
+    "phone1": "310-498-5651",
+    "phone2": "310-254-3084",
+    "email": "kiley.caldarera@aol.com",
+    "web": "http://www.feinerbros.com"
+  },
+  {
+    "number": 771,
+    "first": "Graciela",
+    "last": "Ruta",
+    "company": "Buckley Miller \u0026 Wright",
+    "address": "98 Connecticut Ave Nw",
+    "city": "Chagrin Falls",
+    "county": "Geauga",
+    "state": "OH",
+    "postalCode": 44023,
+    "riskFactor": 3.10392848591882,
+    "phone1": "440-780-8425",
+    "phone2": "440-579-7763",
+    "email": "gruta@cox.net",
+    "web": "http://www.buckleymillerwright.com"
+  },
+  {
+    "number": 525,
+    "first": "Cammy",
+    "last": "Albares",
+    "company": "Rousseaux, Michael Esq",
+    "address": "56 E Morehead St",
+    "city": "Laredo",
+    "county": "Webb",
+    "state": "TX",
+    "postalCode": 78045,
+    "riskFactor": 4.54852077857535,
+    "phone1": "956-537-6195",
+    "phone2": "956-841-7216",
+    "email": "calbares@gmail.com",
+    "web": "http://www.rousseauxmichaelesq.com"
+  },
+  {
+    "number": 487,
+    "first": "Mattie",
+    "last": "Poquette",
+    "company": "Century Communications",
+    "address": "73 State Road 434 E",
+    "city": "Phoenix",
+    "county": "Maricopa",
+    "state": "AZ",
+    "postalCode": 85013,
+    "riskFactor": 4.01359512394234,
+    "phone1": "602-277-4385",
+    "phone2": "602-953-6360",
+    "email": "mattie@aol.com",
+    "web": "http://www.centurycommunications.com"
+  },
+  {
+    "number": 1101,
+    "first": "Meaghan",
+    "last": "Garufi",
+    "company": "Bolton, Wilbur Esq",
+    "address": "69734 E Carrillo St",
+    "city": "Mc Minnville",
+    "county": "Warren",
+    "state": "TN",
+    "postalCode": 37110,
+    "riskFactor": 2.33206249023171,
+    "phone1": "931-313-9635",
+    "phone2": "931-235-7959",
+    "email": "meaghan@hotmail.com",
+    "web": "http://www.boltonwilburesq.com"
+  },
+  {
+    "number": 831,
+    "first": "Gladys",
+    "last": "Rim",
+    "company": "T M Byxbee Company Pc",
+    "address": "322 New Horizon Blvd",
+    "city": "Milwaukee",
+    "county": "Milwaukee",
+    "state": "WI",
+    "postalCode": 53207,
+    "riskFactor": 2.15123713302263,
+    "phone1": "414-661-9598",
+    "phone2": "414-377-2880",
+    "email": "gladys.rim@rim.org",
+    "web": "http://www.tmbyxbeecompanypc.com"
+  },
+  {
+    "number": 111,
+    "first": "Yuki",
+    "last": "Whobrey",
+    "company": "Farmers Insurance Group",
+    "address": "1 State Route 27",
+    "city": "Taylor",
+    "county": "Wayne",
+    "state": "MI",
+    "postalCode": 48180,
+    "riskFactor": 0.926998868065159,
+    "phone1": "313-288-7937",
+    "phone2": "313-341-4470",
+    "email": "yuki_whobrey@aol.com",
+    "web": "http://www.farmersinsurancegroup.com"
+  }
+]
+2022-03-28 09:32:01.109 [main] INFO  App - The file has been successfully created! Filename: writeClients.json
+2022-03-28 09:32:01.110 [main] DEBUG App - Step 5
+2022-03-28 09:32:01.110 [main] INFO  App - Specified Client: number=730, first='James', last='Butt', company='Benton, John B Jr', address='6649 N Blue Gum St', city='New Orleans', county='Orleans', state='LA', postalCode=70116, riskFactor=1.30104582103399, phone1='504-621-8927', phone2='504-845-1427', email='jbutt@gmail.com', web='http://www.bentonjohnbjr.com'
+2022-03-28 09:32:01.110 [main] DEBUG App - Step 6
+2022-03-28 09:32:01.653 [main] INFO  App - Area Code: 70116 | Latitude: 29.9686 | Longitude: -90.0646
+2022-03-28 09:32:01.653 [main] DEBUG App - Step 7
+2022-03-28 09:32:01.657 [main] DEBUG App - In prepared7...
+2022-03-28 09:32:01.939 [main] INFO  App - At least one record was found
+2022-03-28 09:32:01.940 [main] INFO  App - Median Age: 35.900001525878906
+2022-03-28 09:32:01.940 [main] INFO  App - Population: 389617
+2022-03-28 09:32:01.947 [main] DEBUG App - End of prepared7
+2022-03-28 09:32:01.947 [main] DEBUG App - Step 8 (Bonus)
+2022-03-28 09:32:02.107 [main] DEBUG App - End of program
+2022-03-28 09:33:56.256 [main] INFO  App - ==== Printing Command Line Arguments ====
+2022-03-28 09:33:56.260 [main] INFO  App - args[0] is: query
+2022-03-28 09:33:56.260 [main] INFO  App - args[1] is: output.json
+2022-03-28 09:33:56.260 [main] INFO  App - args[2] is: clients.csv
+2022-03-28 09:33:56.260 [main] INFO  App - args[3] is: 730
+2022-03-28 09:33:56.260 [main] INFO  App - args[4] is: eur
+2022-03-28 09:33:56.261 [main] DEBUG App - In doQuery...
+2022-03-28 09:33:56.261 [main] DEBUG App - Step 3
+2022-03-28 09:33:56.356 [main] INFO  App - Records Printed: 19
+2022-03-28 09:33:56.369 [main] INFO  App - First Record: number=730, first='James', last='Butt', company='Benton, John B Jr', address='6649 N Blue Gum St', city='New Orleans', county='Orleans', state='LA', postalCode=70116, riskFactor=1.30104582103399, phone1='504-621-8927', phone2='504-845-1427', email='jbutt@gmail.com', web='http://www.bentonjohnbjr.com'
+2022-03-28 09:33:56.369 [main] DEBUG App - Step 4
+2022-03-28 09:33:56.401 [main] INFO  App - [
+  {
+    "number": 730,
+    "first": "James",
+    "last": "Butt",
+    "company": "Benton, John B Jr",
+    "address": "6649 N Blue Gum St",
+    "city": "New Orleans",
+    "county": "Orleans",
+    "state": "LA",
+    "postalCode": 70116,
+    "riskFactor": 1.30104582103399,
+    "phone1": "504-621-8927",
+    "phone2": "504-845-1427",
+    "email": "jbutt@gmail.com",
+    "web": "http://www.bentonjohnbjr.com"
+  },
+  {
+    "number": 220,
+    "first": "Josephine",
+    "last": "Darakjy",
+    "company": "Chanay, Jeffrey A Esq",
+    "address": "4 B Blue Ridge Blvd",
+    "city": "Brighton",
+    "county": "Livingston",
+    "state": "MI",
+    "postalCode": 48116,
+    "riskFactor": 2.1116117160137,
+    "phone1": "810-292-9388",
+    "phone2": "810-374-9840",
+    "email": "josephine_darakjy@darakjy.org",
+    "web": "http://www.chanayjeffreyaesq.com"
+  },
+  {
+    "number": 149,
+    "first": "Art",
+    "last": "Venere",
+    "company": "Chemel, James L Cpa",
+    "address": "8 W Cerritos Ave #54",
+    "city": "Bridgeport",
+    "county": "Gloucester",
+    "state": "NJ",
+    "postalCode": 8014,
+    "riskFactor": 2.3388044903613,
+    "phone1": "856-636-8749",
+    "phone2": "856-264-4130",
+    "email": "art@venere.org",
+    "web": "http://www.chemeljameslcpa.com"
+  },
+  {
+    "number": 98,
+    "first": "Lenna",
+    "last": "Paprocki",
+    "company": "Feltz Printing Service",
+    "address": "639 Main St",
+    "city": "Anchorage",
+    "county": "Anchorage",
+    "state": "AK",
+    "postalCode": 99501,
+    "riskFactor": 0.376662709558313,
+    "phone1": "907-385-4412",
+    "phone2": "907-921-2010",
+    "email": "lpaprocki@hotmail.com",
+    "web": "http://www.feltzprintingservice.com"
+  },
+  {
+    "number": 121,
+    "first": "Donette",
+    "last": "Foller",
+    "company": "Printing Dimensions",
+    "address": "34 Center St",
+    "city": "Hamilton",
+    "county": "Butler",
+    "state": "OH",
+    "postalCode": 45011,
+    "riskFactor": 4.82079960193436,
+    "phone1": "513-570-1893",
+    "phone2": "513-549-4561",
+    "email": "donette.foller@cox.net",
+    "web": "http://www.printingdimensions.com"
+  },
+  {
+    "number": 842,
+    "first": "Simona",
+    "last": "Morasca",
+    "company": "Chapman, Ross E Esq",
+    "address": "3 Mcauley Dr",
+    "city": "Ashland",
+    "county": "Ashland",
+    "state": "OH",
+    "postalCode": 44805,
+    "riskFactor": 4.69311653149876,
+    "phone1": "419-503-2484",
+    "phone2": "419-800-6759",
+    "email": "simona@morasca.com",
+    "web": "http://www.chapmanrosseesq.com"
+  },
+  {
+    "number": 917,
+    "first": "Mitsue",
+    "last": "Tollner",
+    "company": "Morlong Associates",
+    "address": "7 Eads St",
+    "city": "Chicago",
+    "county": "Cook",
+    "state": "IL",
+    "postalCode": 60632,
+    "riskFactor": 4.86015778395839,
+    "phone1": "773-573-6914",
+    "phone2": "773-924-8565",
+    "email": "mitsue_tollner@yahoo.com",
+    "web": "http://www.morlongassociates.com"
+  },
+  {
+    "number": 1002,
+    "first": "Leota",
+    "last": "Dilliard",
+    "company": "Commercial Press",
+    "address": "7 W Jackson Blvd",
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "state": "CA",
+    "postalCode": 95111,
+    "riskFactor": 2.70306608628568,
+    "phone1": "408-752-3500",
+    "phone2": "408-813-1105",
+    "email": "leota@hotmail.com",
+    "web": "http://www.commercialpress.com"
+  },
+  {
+    "number": 488,
+    "first": "Sage",
+    "last": "Wieser",
+    "company": "Truhlar And Truhlar Attys",
+    "address": "5 Boston Ave #88",
+    "city": "Sioux Falls",
+    "county": "Minnehaha",
+    "state": "SD",
+    "postalCode": 57105,
+    "riskFactor": 3.12710115729448,
+    "phone1": "605-414-2147",
+    "phone2": "605-794-4895",
+    "email": "sage_wieser@cox.net",
+    "web": "http://www.truhlarandtruhlarattys.com"
+  },
+  {
+    "number": 568,
+    "first": "Kris",
+    "last": "Marrier",
+    "company": "King, Christopher A Esq",
+    "address": "228 Runamuck Pl #2808",
+    "city": "Baltimore",
+    "county": "Baltimore City",
+    "state": "MD",
+    "postalCode": 21224,
+    "riskFactor": 3.70803069255018,
+    "phone1": "410-655-8723",
+    "phone2": "410-804-4694",
+    "email": "kris@gmail.com",
+    "web": "http://www.kingchristopheraesq.com"
+  },
+  {
+    "number": 917,
+    "first": "Minna",
+    "last": "Amigon",
+    "company": "Dorl, James J Esq",
+    "address": "2371 Jerrold Ave",
+    "city": "Kulpsville",
+    "county": "Montgomery",
+    "state": "PA",
+    "postalCode": 19443,
+    "riskFactor": 0.197801565687088,
+    "phone1": "215-874-1229",
+    "phone2": "215-422-8694",
+    "email": "minna_amigon@yahoo.com",
+    "web": "http://www.dorljamesjesq.com"
+  },
+  {
+    "number": 836,
+    "first": "Abel",
+    "last": "Maclead",
+    "company": "Rangoni Of Florence",
+    "address": "37275 St  Rt 17m M",
+    "city": "Middle Island",
+    "county": "Suffolk",
+    "state": "NY",
+    "postalCode": 11953,
+    "riskFactor": 0.954631942989808,
+    "phone1": "631-335-3414",
+    "phone2": "631-677-3675",
+    "email": "amaclead@gmail.com",
+    "web": "http://www.rangoniofflorence.com"
+  },
+  {
+    "number": 624,
+    "first": "Kiley",
+    "last": "Caldarera",
+    "company": "Feiner Bros",
+    "address": "25 E 75th St #69",
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "state": "CA",
+    "postalCode": 90034,
+    "riskFactor": 0.443325045071515,
+    "phone1": "310-498-5651",
+    "phone2": "310-254-3084",
+    "email": "kiley.caldarera@aol.com",
+    "web": "http://www.feinerbros.com"
+  },
+  {
+    "number": 771,
+    "first": "Graciela",
+    "last": "Ruta",
+    "company": "Buckley Miller \u0026 Wright",
+    "address": "98 Connecticut Ave Nw",
+    "city": "Chagrin Falls",
+    "county": "Geauga",
+    "state": "OH",
+    "postalCode": 44023,
+    "riskFactor": 3.10392848591882,
+    "phone1": "440-780-8425",
+    "phone2": "440-579-7763",
+    "email": "gruta@cox.net",
+    "web": "http://www.buckleymillerwright.com"
+  },
+  {
+    "number": 525,
+    "first": "Cammy",
+    "last": "Albares",
+    "company": "Rousseaux, Michael Esq",
+    "address": "56 E Morehead St",
+    "city": "Laredo",
+    "county": "Webb",
+    "state": "TX",
+    "postalCode": 78045,
+    "riskFactor": 4.54852077857535,
+    "phone1": "956-537-6195",
+    "phone2": "956-841-7216",
+    "email": "calbares@gmail.com",
+    "web": "http://www.rousseauxmichaelesq.com"
+  },
+  {
+    "number": 487,
+    "first": "Mattie",
+    "last": "Poquette",
+    "company": "Century Communications",
+    "address": "73 State Road 434 E",
+    "city": "Phoenix",
+    "county": "Maricopa",
+    "state": "AZ",
+    "postalCode": 85013,
+    "riskFactor": 4.01359512394234,
+    "phone1": "602-277-4385",
+    "phone2": "602-953-6360",
+    "email": "mattie@aol.com",
+    "web": "http://www.centurycommunications.com"
+  },
+  {
+    "number": 1101,
+    "first": "Meaghan",
+    "last": "Garufi",
+    "company": "Bolton, Wilbur Esq",
+    "address": "69734 E Carrillo St",
+    "city": "Mc Minnville",
+    "county": "Warren",
+    "state": "TN",
+    "postalCode": 37110,
+    "riskFactor": 2.33206249023171,
+    "phone1": "931-313-9635",
+    "phone2": "931-235-7959",
+    "email": "meaghan@hotmail.com",
+    "web": "http://www.boltonwilburesq.com"
+  },
+  {
+    "number": 831,
+    "first": "Gladys",
+    "last": "Rim",
+    "company": "T M Byxbee Company Pc",
+    "address": "322 New Horizon Blvd",
+    "city": "Milwaukee",
+    "county": "Milwaukee",
+    "state": "WI",
+    "postalCode": 53207,
+    "riskFactor": 2.15123713302263,
+    "phone1": "414-661-9598",
+    "phone2": "414-377-2880",
+    "email": "gladys.rim@rim.org",
+    "web": "http://www.tmbyxbeecompanypc.com"
+  },
+  {
+    "number": 111,
+    "first": "Yuki",
+    "last": "Whobrey",
+    "company": "Farmers Insurance Group",
+    "address": "1 State Route 27",
+    "city": "Taylor",
+    "county": "Wayne",
+    "state": "MI",
+    "postalCode": 48180,
+    "riskFactor": 0.926998868065159,
+    "phone1": "313-288-7937",
+    "phone2": "313-341-4470",
+    "email": "yuki_whobrey@aol.com",
+    "web": "http://www.farmersinsurancegroup.com"
+  }
+]
+2022-03-28 09:33:56.404 [main] INFO  App - The file has been successfully created! Filename: writeClients.json
+2022-03-28 09:33:56.405 [main] DEBUG App - Step 5
+2022-03-28 09:33:56.405 [main] INFO  App - Specified Client: number=730, first='James', last='Butt', company='Benton, John B Jr', address='6649 N Blue Gum St', city='New Orleans', county='Orleans', state='LA', postalCode=70116, riskFactor=1.30104582103399, phone1='504-621-8927', phone2='504-845-1427', email='jbutt@gmail.com', web='http://www.bentonjohnbjr.com'
+2022-03-28 09:33:56.405 [main] DEBUG App - Step 6
+2022-03-28 09:33:56.982 [main] INFO  App - Area Code: 70116 | Latitude: 29.9686 | Longitude: -90.0646
+2022-03-28 09:33:56.982 [main] DEBUG App - Step 7
+2022-03-28 09:33:56.986 [main] DEBUG App - In prepared7...
+2022-03-28 09:33:57.279 [main] INFO  App - At least one record was found
+2022-03-28 09:33:57.281 [main] INFO  App - Median Age: 35.900001525878906
+2022-03-28 09:33:57.281 [main] INFO  App - Population: 389617
+2022-03-28 09:33:57.294 [main] DEBUG App - End of prepared7
+2022-03-28 09:33:57.294 [main] DEBUG App - Step 8 (Bonus)
+2022-03-28 09:34:09.937 [main] DEBUG App - Step 9
+2022-03-28 09:34:09.939 [main] DEBUG App - End of program
+2022-03-28 09:35:54.493 [main] INFO  App - ==== Printing Command Line Arguments ====
+2022-03-28 09:35:54.497 [main] INFO  App - args[0] is: query
+2022-03-28 09:35:54.497 [main] INFO  App - args[1] is: output.json
+2022-03-28 09:35:54.497 [main] INFO  App - args[2] is: clients.csv
+2022-03-28 09:35:54.497 [main] INFO  App - args[3] is: 730
+2022-03-28 09:35:54.498 [main] INFO  App - args[4] is: eur
+2022-03-28 09:35:54.498 [main] DEBUG App - In doQuery...
+2022-03-28 09:35:54.498 [main] DEBUG App - Step 3
+2022-03-28 09:35:54.587 [main] INFO  App - Records Printed: 19
+2022-03-28 09:35:54.600 [main] INFO  App - First Record: number=730, first='James', last='Butt', company='Benton, John B Jr', address='6649 N Blue Gum St', city='New Orleans', county='Orleans', state='LA', postalCode=70116, riskFactor=1.30104582103399, phone1='504-621-8927', phone2='504-845-1427', email='jbutt@gmail.com', web='http://www.bentonjohnbjr.com'
+2022-03-28 09:35:54.601 [main] DEBUG App - Step 4
+2022-03-28 09:35:54.633 [main] INFO  App - [
+  {
+    "number": 730,
+    "first": "James",
+    "last": "Butt",
+    "company": "Benton, John B Jr",
+    "address": "6649 N Blue Gum St",
+    "city": "New Orleans",
+    "county": "Orleans",
+    "state": "LA",
+    "postalCode": 70116,
+    "riskFactor": 1.30104582103399,
+    "phone1": "504-621-8927",
+    "phone2": "504-845-1427",
+    "email": "jbutt@gmail.com",
+    "web": "http://www.bentonjohnbjr.com"
+  },
+  {
+    "number": 220,
+    "first": "Josephine",
+    "last": "Darakjy",
+    "company": "Chanay, Jeffrey A Esq",
+    "address": "4 B Blue Ridge Blvd",
+    "city": "Brighton",
+    "county": "Livingston",
+    "state": "MI",
+    "postalCode": 48116,
+    "riskFactor": 2.1116117160137,
+    "phone1": "810-292-9388",
+    "phone2": "810-374-9840",
+    "email": "josephine_darakjy@darakjy.org",
+    "web": "http://www.chanayjeffreyaesq.com"
+  },
+  {
+    "number": 149,
+    "first": "Art",
+    "last": "Venere",
+    "company": "Chemel, James L Cpa",
+    "address": "8 W Cerritos Ave #54",
+    "city": "Bridgeport",
+    "county": "Gloucester",
+    "state": "NJ",
+    "postalCode": 8014,
+    "riskFactor": 2.3388044903613,
+    "phone1": "856-636-8749",
+    "phone2": "856-264-4130",
+    "email": "art@venere.org",
+    "web": "http://www.chemeljameslcpa.com"
+  },
+  {
+    "number": 98,
+    "first": "Lenna",
+    "last": "Paprocki",
+    "company": "Feltz Printing Service",
+    "address": "639 Main St",
+    "city": "Anchorage",
+    "county": "Anchorage",
+    "state": "AK",
+    "postalCode": 99501,
+    "riskFactor": 0.376662709558313,
+    "phone1": "907-385-4412",
+    "phone2": "907-921-2010",
+    "email": "lpaprocki@hotmail.com",
+    "web": "http://www.feltzprintingservice.com"
+  },
+  {
+    "number": 121,
+    "first": "Donette",
+    "last": "Foller",
+    "company": "Printing Dimensions",
+    "address": "34 Center St",
+    "city": "Hamilton",
+    "county": "Butler",
+    "state": "OH",
+    "postalCode": 45011,
+    "riskFactor": 4.82079960193436,
+    "phone1": "513-570-1893",
+    "phone2": "513-549-4561",
+    "email": "donette.foller@cox.net",
+    "web": "http://www.printingdimensions.com"
+  },
+  {
+    "number": 842,
+    "first": "Simona",
+    "last": "Morasca",
+    "company": "Chapman, Ross E Esq",
+    "address": "3 Mcauley Dr",
+    "city": "Ashland",
+    "county": "Ashland",
+    "state": "OH",
+    "postalCode": 44805,
+    "riskFactor": 4.69311653149876,
+    "phone1": "419-503-2484",
+    "phone2": "419-800-6759",
+    "email": "simona@morasca.com",
+    "web": "http://www.chapmanrosseesq.com"
+  },
+  {
+    "number": 917,
+    "first": "Mitsue",
+    "last": "Tollner",
+    "company": "Morlong Associates",
+    "address": "7 Eads St",
+    "city": "Chicago",
+    "county": "Cook",
+    "state": "IL",
+    "postalCode": 60632,
+    "riskFactor": 4.86015778395839,
+    "phone1": "773-573-6914",
+    "phone2": "773-924-8565",
+    "email": "mitsue_tollner@yahoo.com",
+    "web": "http://www.morlongassociates.com"
+  },
+  {
+    "number": 1002,
+    "first": "Leota",
+    "last": "Dilliard",
+    "company": "Commercial Press",
+    "address": "7 W Jackson Blvd",
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "state": "CA",
+    "postalCode": 95111,
+    "riskFactor": 2.70306608628568,
+    "phone1": "408-752-3500",
+    "phone2": "408-813-1105",
+    "email": "leota@hotmail.com",
+    "web": "http://www.commercialpress.com"
+  },
+  {
+    "number": 488,
+    "first": "Sage",
+    "last": "Wieser",
+    "company": "Truhlar And Truhlar Attys",
+    "address": "5 Boston Ave #88",
+    "city": "Sioux Falls",
+    "county": "Minnehaha",
+    "state": "SD",
+    "postalCode": 57105,
+    "riskFactor": 3.12710115729448,
+    "phone1": "605-414-2147",
+    "phone2": "605-794-4895",
+    "email": "sage_wieser@cox.net",
+    "web": "http://www.truhlarandtruhlarattys.com"
+  },
+  {
+    "number": 568,
+    "first": "Kris",
+    "last": "Marrier",
+    "company": "King, Christopher A Esq",
+    "address": "228 Runamuck Pl #2808",
+    "city": "Baltimore",
+    "county": "Baltimore City",
+    "state": "MD",
+    "postalCode": 21224,
+    "riskFactor": 3.70803069255018,
+    "phone1": "410-655-8723",
+    "phone2": "410-804-4694",
+    "email": "kris@gmail.com",
+    "web": "http://www.kingchristopheraesq.com"
+  },
+  {
+    "number": 917,
+    "first": "Minna",
+    "last": "Amigon",
+    "company": "Dorl, James J Esq",
+    "address": "2371 Jerrold Ave",
+    "city": "Kulpsville",
+    "county": "Montgomery",
+    "state": "PA",
+    "postalCode": 19443,
+    "riskFactor": 0.197801565687088,
+    "phone1": "215-874-1229",
+    "phone2": "215-422-8694",
+    "email": "minna_amigon@yahoo.com",
+    "web": "http://www.dorljamesjesq.com"
+  },
+  {
+    "number": 836,
+    "first": "Abel",
+    "last": "Maclead",
+    "company": "Rangoni Of Florence",
+    "address": "37275 St  Rt 17m M",
+    "city": "Middle Island",
+    "county": "Suffolk",
+    "state": "NY",
+    "postalCode": 11953,
+    "riskFactor": 0.954631942989808,
+    "phone1": "631-335-3414",
+    "phone2": "631-677-3675",
+    "email": "amaclead@gmail.com",
+    "web": "http://www.rangoniofflorence.com"
+  },
+  {
+    "number": 624,
+    "first": "Kiley",
+    "last": "Caldarera",
+    "company": "Feiner Bros",
+    "address": "25 E 75th St #69",
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "state": "CA",
+    "postalCode": 90034,
+    "riskFactor": 0.443325045071515,
+    "phone1": "310-498-5651",
+    "phone2": "310-254-3084",
+    "email": "kiley.caldarera@aol.com",
+    "web": "http://www.feinerbros.com"
+  },
+  {
+    "number": 771,
+    "first": "Graciela",
+    "last": "Ruta",
+    "company": "Buckley Miller \u0026 Wright",
+    "address": "98 Connecticut Ave Nw",
+    "city": "Chagrin Falls",
+    "county": "Geauga",
+    "state": "OH",
+    "postalCode": 44023,
+    "riskFactor": 3.10392848591882,
+    "phone1": "440-780-8425",
+    "phone2": "440-579-7763",
+    "email": "gruta@cox.net",
+    "web": "http://www.buckleymillerwright.com"
+  },
+  {
+    "number": 525,
+    "first": "Cammy",
+    "last": "Albares",
+    "company": "Rousseaux, Michael Esq",
+    "address": "56 E Morehead St",
+    "city": "Laredo",
+    "county": "Webb",
+    "state": "TX",
+    "postalCode": 78045,
+    "riskFactor": 4.54852077857535,
+    "phone1": "956-537-6195",
+    "phone2": "956-841-7216",
+    "email": "calbares@gmail.com",
+    "web": "http://www.rousseauxmichaelesq.com"
+  },
+  {
+    "number": 487,
+    "first": "Mattie",
+    "last": "Poquette",
+    "company": "Century Communications",
+    "address": "73 State Road 434 E",
+    "city": "Phoenix",
+    "county": "Maricopa",
+    "state": "AZ",
+    "postalCode": 85013,
+    "riskFactor": 4.01359512394234,
+    "phone1": "602-277-4385",
+    "phone2": "602-953-6360",
+    "email": "mattie@aol.com",
+    "web": "http://www.centurycommunications.com"
+  },
+  {
+    "number": 1101,
+    "first": "Meaghan",
+    "last": "Garufi",
+    "company": "Bolton, Wilbur Esq",
+    "address": "69734 E Carrillo St",
+    "city": "Mc Minnville",
+    "county": "Warren",
+    "state": "TN",
+    "postalCode": 37110,
+    "riskFactor": 2.33206249023171,
+    "phone1": "931-313-9635",
+    "phone2": "931-235-7959",
+    "email": "meaghan@hotmail.com",
+    "web": "http://www.boltonwilburesq.com"
+  },
+  {
+    "number": 831,
+    "first": "Gladys",
+    "last": "Rim",
+    "company": "T M Byxbee Company Pc",
+    "address": "322 New Horizon Blvd",
+    "city": "Milwaukee",
+    "county": "Milwaukee",
+    "state": "WI",
+    "postalCode": 53207,
+    "riskFactor": 2.15123713302263,
+    "phone1": "414-661-9598",
+    "phone2": "414-377-2880",
+    "email": "gladys.rim@rim.org",
+    "web": "http://www.tmbyxbeecompanypc.com"
+  },
+  {
+    "number": 111,
+    "first": "Yuki",
+    "last": "Whobrey",
+    "company": "Farmers Insurance Group",
+    "address": "1 State Route 27",
+    "city": "Taylor",
+    "county": "Wayne",
+    "state": "MI",
+    "postalCode": 48180,
+    "riskFactor": 0.926998868065159,
+    "phone1": "313-288-7937",
+    "phone2": "313-341-4470",
+    "email": "yuki_whobrey@aol.com",
+    "web": "http://www.farmersinsurancegroup.com"
+  }
+]
+2022-03-28 09:35:54.636 [main] INFO  App - The file has been successfully created! Filename: writeClients.json
+2022-03-28 09:35:54.636 [main] DEBUG App - Step 5
+2022-03-28 09:35:54.637 [main] INFO  App - Specified Client: number=730, first='James', last='Butt', company='Benton, John B Jr', address='6649 N Blue Gum St', city='New Orleans', county='Orleans', state='LA', postalCode=70116, riskFactor=1.30104582103399, phone1='504-621-8927', phone2='504-845-1427', email='jbutt@gmail.com', web='http://www.bentonjohnbjr.com'
+2022-03-28 09:35:54.637 [main] DEBUG App - Step 6
+2022-03-28 09:35:55.187 [main] INFO  App - Area Code: 70116 | Latitude: 29.9686 | Longitude: -90.0646
+2022-03-28 09:35:55.187 [main] DEBUG App - Step 7
+2022-03-28 09:35:55.190 [main] DEBUG App - In prepared7...
+2022-03-28 09:35:55.473 [main] INFO  App - At least one record was found
+2022-03-28 09:35:55.474 [main] INFO  App - Median Age: 35.900001525878906
+2022-03-28 09:35:55.475 [main] INFO  App - Population: 389617
+2022-03-28 09:35:55.487 [main] DEBUG App - End of prepared7
+2022-03-28 09:35:55.487 [main] DEBUG App - Step 8 (Bonus)
+2022-03-28 09:36:03.562 [main] DEBUG App - Step 9
+2022-03-28 09:36:03.563 [main] DEBUG App - End of program
+2022-03-28 09:36:23.120 [main] INFO  App - ==== Printing Command Line Arguments ====
+2022-03-28 09:36:23.124 [main] INFO  App - args[0] is: query
+2022-03-28 09:36:23.124 [main] INFO  App - args[1] is: output.json
+2022-03-28 09:36:23.124 [main] INFO  App - args[2] is: clients.csv
+2022-03-28 09:36:23.124 [main] INFO  App - args[3] is: 730
+2022-03-28 09:36:23.124 [main] INFO  App - args[4] is: eur
+2022-03-28 09:36:23.124 [main] DEBUG App - In doQuery...
+2022-03-28 09:36:23.125 [main] DEBUG App - Step 3
+2022-03-28 09:36:23.214 [main] INFO  App - Records Printed: 19
+2022-03-28 09:36:23.227 [main] INFO  App - First Record: number=730, first='James', last='Butt', company='Benton, John B Jr', address='6649 N Blue Gum St', city='New Orleans', county='Orleans', state='LA', postalCode=70116, riskFactor=1.30104582103399, phone1='504-621-8927', phone2='504-845-1427', email='jbutt@gmail.com', web='http://www.bentonjohnbjr.com'
+2022-03-28 09:36:23.227 [main] DEBUG App - Step 4
+2022-03-28 09:36:23.264 [main] INFO  App - [
+  {
+    "number": 730,
+    "first": "James",
+    "last": "Butt",
+    "company": "Benton, John B Jr",
+    "address": "6649 N Blue Gum St",
+    "city": "New Orleans",
+    "county": "Orleans",
+    "state": "LA",
+    "postalCode": 70116,
+    "riskFactor": 1.30104582103399,
+    "phone1": "504-621-8927",
+    "phone2": "504-845-1427",
+    "email": "jbutt@gmail.com",
+    "web": "http://www.bentonjohnbjr.com"
+  },
+  {
+    "number": 220,
+    "first": "Josephine",
+    "last": "Darakjy",
+    "company": "Chanay, Jeffrey A Esq",
+    "address": "4 B Blue Ridge Blvd",
+    "city": "Brighton",
+    "county": "Livingston",
+    "state": "MI",
+    "postalCode": 48116,
+    "riskFactor": 2.1116117160137,
+    "phone1": "810-292-9388",
+    "phone2": "810-374-9840",
+    "email": "josephine_darakjy@darakjy.org",
+    "web": "http://www.chanayjeffreyaesq.com"
+  },
+  {
+    "number": 149,
+    "first": "Art",
+    "last": "Venere",
+    "company": "Chemel, James L Cpa",
+    "address": "8 W Cerritos Ave #54",
+    "city": "Bridgeport",
+    "county": "Gloucester",
+    "state": "NJ",
+    "postalCode": 8014,
+    "riskFactor": 2.3388044903613,
+    "phone1": "856-636-8749",
+    "phone2": "856-264-4130",
+    "email": "art@venere.org",
+    "web": "http://www.chemeljameslcpa.com"
+  },
+  {
+    "number": 98,
+    "first": "Lenna",
+    "last": "Paprocki",
+    "company": "Feltz Printing Service",
+    "address": "639 Main St",
+    "city": "Anchorage",
+    "county": "Anchorage",
+    "state": "AK",
+    "postalCode": 99501,
+    "riskFactor": 0.376662709558313,
+    "phone1": "907-385-4412",
+    "phone2": "907-921-2010",
+    "email": "lpaprocki@hotmail.com",
+    "web": "http://www.feltzprintingservice.com"
+  },
+  {
+    "number": 121,
+    "first": "Donette",
+    "last": "Foller",
+    "company": "Printing Dimensions",
+    "address": "34 Center St",
+    "city": "Hamilton",
+    "county": "Butler",
+    "state": "OH",
+    "postalCode": 45011,
+    "riskFactor": 4.82079960193436,
+    "phone1": "513-570-1893",
+    "phone2": "513-549-4561",
+    "email": "donette.foller@cox.net",
+    "web": "http://www.printingdimensions.com"
+  },
+  {
+    "number": 842,
+    "first": "Simona",
+    "last": "Morasca",
+    "company": "Chapman, Ross E Esq",
+    "address": "3 Mcauley Dr",
+    "city": "Ashland",
+    "county": "Ashland",
+    "state": "OH",
+    "postalCode": 44805,
+    "riskFactor": 4.69311653149876,
+    "phone1": "419-503-2484",
+    "phone2": "419-800-6759",
+    "email": "simona@morasca.com",
+    "web": "http://www.chapmanrosseesq.com"
+  },
+  {
+    "number": 917,
+    "first": "Mitsue",
+    "last": "Tollner",
+    "company": "Morlong Associates",
+    "address": "7 Eads St",
+    "city": "Chicago",
+    "county": "Cook",
+    "state": "IL",
+    "postalCode": 60632,
+    "riskFactor": 4.86015778395839,
+    "phone1": "773-573-6914",
+    "phone2": "773-924-8565",
+    "email": "mitsue_tollner@yahoo.com",
+    "web": "http://www.morlongassociates.com"
+  },
+  {
+    "number": 1002,
+    "first": "Leota",
+    "last": "Dilliard",
+    "company": "Commercial Press",
+    "address": "7 W Jackson Blvd",
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "state": "CA",
+    "postalCode": 95111,
+    "riskFactor": 2.70306608628568,
+    "phone1": "408-752-3500",
+    "phone2": "408-813-1105",
+    "email": "leota@hotmail.com",
+    "web": "http://www.commercialpress.com"
+  },
+  {
+    "number": 488,
+    "first": "Sage",
+    "last": "Wieser",
+    "company": "Truhlar And Truhlar Attys",
+    "address": "5 Boston Ave #88",
+    "city": "Sioux Falls",
+    "county": "Minnehaha",
+    "state": "SD",
+    "postalCode": 57105,
+    "riskFactor": 3.12710115729448,
+    "phone1": "605-414-2147",
+    "phone2": "605-794-4895",
+    "email": "sage_wieser@cox.net",
+    "web": "http://www.truhlarandtruhlarattys.com"
+  },
+  {
+    "number": 568,
+    "first": "Kris",
+    "last": "Marrier",
+    "company": "King, Christopher A Esq",
+    "address": "228 Runamuck Pl #2808",
+    "city": "Baltimore",
+    "county": "Baltimore City",
+    "state": "MD",
+    "postalCode": 21224,
+    "riskFactor": 3.70803069255018,
+    "phone1": "410-655-8723",
+    "phone2": "410-804-4694",
+    "email": "kris@gmail.com",
+    "web": "http://www.kingchristopheraesq.com"
+  },
+  {
+    "number": 917,
+    "first": "Minna",
+    "last": "Amigon",
+    "company": "Dorl, James J Esq",
+    "address": "2371 Jerrold Ave",
+    "city": "Kulpsville",
+    "county": "Montgomery",
+    "state": "PA",
+    "postalCode": 19443,
+    "riskFactor": 0.197801565687088,
+    "phone1": "215-874-1229",
+    "phone2": "215-422-8694",
+    "email": "minna_amigon@yahoo.com",
+    "web": "http://www.dorljamesjesq.com"
+  },
+  {
+    "number": 836,
+    "first": "Abel",
+    "last": "Maclead",
+    "company": "Rangoni Of Florence",
+    "address": "37275 St  Rt 17m M",
+    "city": "Middle Island",
+    "county": "Suffolk",
+    "state": "NY",
+    "postalCode": 11953,
+    "riskFactor": 0.954631942989808,
+    "phone1": "631-335-3414",
+    "phone2": "631-677-3675",
+    "email": "amaclead@gmail.com",
+    "web": "http://www.rangoniofflorence.com"
+  },
+  {
+    "number": 624,
+    "first": "Kiley",
+    "last": "Caldarera",
+    "company": "Feiner Bros",
+    "address": "25 E 75th St #69",
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "state": "CA",
+    "postalCode": 90034,
+    "riskFactor": 0.443325045071515,
+    "phone1": "310-498-5651",
+    "phone2": "310-254-3084",
+    "email": "kiley.caldarera@aol.com",
+    "web": "http://www.feinerbros.com"
+  },
+  {
+    "number": 771,
+    "first": "Graciela",
+    "last": "Ruta",
+    "company": "Buckley Miller \u0026 Wright",
+    "address": "98 Connecticut Ave Nw",
+    "city": "Chagrin Falls",
+    "county": "Geauga",
+    "state": "OH",
+    "postalCode": 44023,
+    "riskFactor": 3.10392848591882,
+    "phone1": "440-780-8425",
+    "phone2": "440-579-7763",
+    "email": "gruta@cox.net",
+    "web": "http://www.buckleymillerwright.com"
+  },
+  {
+    "number": 525,
+    "first": "Cammy",
+    "last": "Albares",
+    "company": "Rousseaux, Michael Esq",
+    "address": "56 E Morehead St",
+    "city": "Laredo",
+    "county": "Webb",
+    "state": "TX",
+    "postalCode": 78045,
+    "riskFactor": 4.54852077857535,
+    "phone1": "956-537-6195",
+    "phone2": "956-841-7216",
+    "email": "calbares@gmail.com",
+    "web": "http://www.rousseauxmichaelesq.com"
+  },
+  {
+    "number": 487,
+    "first": "Mattie",
+    "last": "Poquette",
+    "company": "Century Communications",
+    "address": "73 State Road 434 E",
+    "city": "Phoenix",
+    "county": "Maricopa",
+    "state": "AZ",
+    "postalCode": 85013,
+    "riskFactor": 4.01359512394234,
+    "phone1": "602-277-4385",
+    "phone2": "602-953-6360",
+    "email": "mattie@aol.com",
+    "web": "http://www.centurycommunications.com"
+  },
+  {
+    "number": 1101,
+    "first": "Meaghan",
+    "last": "Garufi",
+    "company": "Bolton, Wilbur Esq",
+    "address": "69734 E Carrillo St",
+    "city": "Mc Minnville",
+    "county": "Warren",
+    "state": "TN",
+    "postalCode": 37110,
+    "riskFactor": 2.33206249023171,
+    "phone1": "931-313-9635",
+    "phone2": "931-235-7959",
+    "email": "meaghan@hotmail.com",
+    "web": "http://www.boltonwilburesq.com"
+  },
+  {
+    "number": 831,
+    "first": "Gladys",
+    "last": "Rim",
+    "company": "T M Byxbee Company Pc",
+    "address": "322 New Horizon Blvd",
+    "city": "Milwaukee",
+    "county": "Milwaukee",
+    "state": "WI",
+    "postalCode": 53207,
+    "riskFactor": 2.15123713302263,
+    "phone1": "414-661-9598",
+    "phone2": "414-377-2880",
+    "email": "gladys.rim@rim.org",
+    "web": "http://www.tmbyxbeecompanypc.com"
+  },
+  {
+    "number": 111,
+    "first": "Yuki",
+    "last": "Whobrey",
+    "company": "Farmers Insurance Group",
+    "address": "1 State Route 27",
+    "city": "Taylor",
+    "county": "Wayne",
+    "state": "MI",
+    "postalCode": 48180,
+    "riskFactor": 0.926998868065159,
+    "phone1": "313-288-7937",
+    "phone2": "313-341-4470",
+    "email": "yuki_whobrey@aol.com",
+    "web": "http://www.farmersinsurancegroup.com"
+  }
+]
+2022-03-28 09:36:23.267 [main] INFO  App - The file has been successfully created! Filename: writeClients.json
+2022-03-28 09:36:23.267 [main] DEBUG App - Step 5
+2022-03-28 09:36:23.267 [main] INFO  App - Specified Client: number=730, first='James', last='Butt', company='Benton, John B Jr', address='6649 N Blue Gum St', city='New Orleans', county='Orleans', state='LA', postalCode=70116, riskFactor=1.30104582103399, phone1='504-621-8927', phone2='504-845-1427', email='jbutt@gmail.com', web='http://www.bentonjohnbjr.com'
+2022-03-28 09:36:23.267 [main] DEBUG App - Step 6
+2022-03-28 09:36:23.836 [main] INFO  App - Area Code: 70116 | Latitude: 29.9686 | Longitude: -90.0646
+2022-03-28 09:36:23.836 [main] DEBUG App - Step 7
+2022-03-28 09:36:23.840 [main] DEBUG App - In prepared7...
+2022-03-28 09:36:24.125 [main] INFO  App - At least one record was found
+2022-03-28 09:36:24.126 [main] INFO  App - Median Age: 35.900001525878906
+2022-03-28 09:36:24.126 [main] INFO  App - Population: 389617
+2022-03-28 09:36:24.130 [main] DEBUG App - End of prepared7
+2022-03-28 09:36:24.130 [main] DEBUG App - Step 8 (Bonus)
+2022-03-28 09:36:24.306 [main] DEBUG App - End of program
+2022-03-28 09:36:49.638 [main] INFO  App - ==== Printing Command Line Arguments ====
+2022-03-28 09:36:49.642 [main] INFO  App - args[0] is: query
+2022-03-28 09:36:49.642 [main] INFO  App - args[1] is: output.json
+2022-03-28 09:36:49.642 [main] INFO  App - args[2] is: clients.csv
+2022-03-28 09:36:49.642 [main] INFO  App - args[3] is: 730
+2022-03-28 09:36:49.642 [main] INFO  App - args[4] is: eur
+2022-03-28 09:36:49.642 [main] DEBUG App - In doQuery...
+2022-03-28 09:36:49.642 [main] DEBUG App - Step 3
+2022-03-28 09:36:49.729 [main] INFO  App - Records Printed: 19
+2022-03-28 09:36:49.742 [main] INFO  App - First Record: number=730, first='James', last='Butt', company='Benton, John B Jr', address='6649 N Blue Gum St', city='New Orleans', county='Orleans', state='LA', postalCode=70116, riskFactor=1.30104582103399, phone1='504-621-8927', phone2='504-845-1427', email='jbutt@gmail.com', web='http://www.bentonjohnbjr.com'
+2022-03-28 09:36:49.742 [main] DEBUG App - Step 4
+2022-03-28 09:36:49.777 [main] INFO  App - [
+  {
+    "number": 730,
+    "first": "James",
+    "last": "Butt",
+    "company": "Benton, John B Jr",
+    "address": "6649 N Blue Gum St",
+    "city": "New Orleans",
+    "county": "Orleans",
+    "state": "LA",
+    "postalCode": 70116,
+    "riskFactor": 1.30104582103399,
+    "phone1": "504-621-8927",
+    "phone2": "504-845-1427",
+    "email": "jbutt@gmail.com",
+    "web": "http://www.bentonjohnbjr.com"
+  },
+  {
+    "number": 220,
+    "first": "Josephine",
+    "last": "Darakjy",
+    "company": "Chanay, Jeffrey A Esq",
+    "address": "4 B Blue Ridge Blvd",
+    "city": "Brighton",
+    "county": "Livingston",
+    "state": "MI",
+    "postalCode": 48116,
+    "riskFactor": 2.1116117160137,
+    "phone1": "810-292-9388",
+    "phone2": "810-374-9840",
+    "email": "josephine_darakjy@darakjy.org",
+    "web": "http://www.chanayjeffreyaesq.com"
+  },
+  {
+    "number": 149,
+    "first": "Art",
+    "last": "Venere",
+    "company": "Chemel, James L Cpa",
+    "address": "8 W Cerritos Ave #54",
+    "city": "Bridgeport",
+    "county": "Gloucester",
+    "state": "NJ",
+    "postalCode": 8014,
+    "riskFactor": 2.3388044903613,
+    "phone1": "856-636-8749",
+    "phone2": "856-264-4130",
+    "email": "art@venere.org",
+    "web": "http://www.chemeljameslcpa.com"
+  },
+  {
+    "number": 98,
+    "first": "Lenna",
+    "last": "Paprocki",
+    "company": "Feltz Printing Service",
+    "address": "639 Main St",
+    "city": "Anchorage",
+    "county": "Anchorage",
+    "state": "AK",
+    "postalCode": 99501,
+    "riskFactor": 0.376662709558313,
+    "phone1": "907-385-4412",
+    "phone2": "907-921-2010",
+    "email": "lpaprocki@hotmail.com",
+    "web": "http://www.feltzprintingservice.com"
+  },
+  {
+    "number": 121,
+    "first": "Donette",
+    "last": "Foller",
+    "company": "Printing Dimensions",
+    "address": "34 Center St",
+    "city": "Hamilton",
+    "county": "Butler",
+    "state": "OH",
+    "postalCode": 45011,
+    "riskFactor": 4.82079960193436,
+    "phone1": "513-570-1893",
+    "phone2": "513-549-4561",
+    "email": "donette.foller@cox.net",
+    "web": "http://www.printingdimensions.com"
+  },
+  {
+    "number": 842,
+    "first": "Simona",
+    "last": "Morasca",
+    "company": "Chapman, Ross E Esq",
+    "address": "3 Mcauley Dr",
+    "city": "Ashland",
+    "county": "Ashland",
+    "state": "OH",
+    "postalCode": 44805,
+    "riskFactor": 4.69311653149876,
+    "phone1": "419-503-2484",
+    "phone2": "419-800-6759",
+    "email": "simona@morasca.com",
+    "web": "http://www.chapmanrosseesq.com"
+  },
+  {
+    "number": 917,
+    "first": "Mitsue",
+    "last": "Tollner",
+    "company": "Morlong Associates",
+    "address": "7 Eads St",
+    "city": "Chicago",
+    "county": "Cook",
+    "state": "IL",
+    "postalCode": 60632,
+    "riskFactor": 4.86015778395839,
+    "phone1": "773-573-6914",
+    "phone2": "773-924-8565",
+    "email": "mitsue_tollner@yahoo.com",
+    "web": "http://www.morlongassociates.com"
+  },
+  {
+    "number": 1002,
+    "first": "Leota",
+    "last": "Dilliard",
+    "company": "Commercial Press",
+    "address": "7 W Jackson Blvd",
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "state": "CA",
+    "postalCode": 95111,
+    "riskFactor": 2.70306608628568,
+    "phone1": "408-752-3500",
+    "phone2": "408-813-1105",
+    "email": "leota@hotmail.com",
+    "web": "http://www.commercialpress.com"
+  },
+  {
+    "number": 488,
+    "first": "Sage",
+    "last": "Wieser",
+    "company": "Truhlar And Truhlar Attys",
+    "address": "5 Boston Ave #88",
+    "city": "Sioux Falls",
+    "county": "Minnehaha",
+    "state": "SD",
+    "postalCode": 57105,
+    "riskFactor": 3.12710115729448,
+    "phone1": "605-414-2147",
+    "phone2": "605-794-4895",
+    "email": "sage_wieser@cox.net",
+    "web": "http://www.truhlarandtruhlarattys.com"
+  },
+  {
+    "number": 568,
+    "first": "Kris",
+    "last": "Marrier",
+    "company": "King, Christopher A Esq",
+    "address": "228 Runamuck Pl #2808",
+    "city": "Baltimore",
+    "county": "Baltimore City",
+    "state": "MD",
+    "postalCode": 21224,
+    "riskFactor": 3.70803069255018,
+    "phone1": "410-655-8723",
+    "phone2": "410-804-4694",
+    "email": "kris@gmail.com",
+    "web": "http://www.kingchristopheraesq.com"
+  },
+  {
+    "number": 917,
+    "first": "Minna",
+    "last": "Amigon",
+    "company": "Dorl, James J Esq",
+    "address": "2371 Jerrold Ave",
+    "city": "Kulpsville",
+    "county": "Montgomery",
+    "state": "PA",
+    "postalCode": 19443,
+    "riskFactor": 0.197801565687088,
+    "phone1": "215-874-1229",
+    "phone2": "215-422-8694",
+    "email": "minna_amigon@yahoo.com",
+    "web": "http://www.dorljamesjesq.com"
+  },
+  {
+    "number": 836,
+    "first": "Abel",
+    "last": "Maclead",
+    "company": "Rangoni Of Florence",
+    "address": "37275 St  Rt 17m M",
+    "city": "Middle Island",
+    "county": "Suffolk",
+    "state": "NY",
+    "postalCode": 11953,
+    "riskFactor": 0.954631942989808,
+    "phone1": "631-335-3414",
+    "phone2": "631-677-3675",
+    "email": "amaclead@gmail.com",
+    "web": "http://www.rangoniofflorence.com"
+  },
+  {
+    "number": 624,
+    "first": "Kiley",
+    "last": "Caldarera",
+    "company": "Feiner Bros",
+    "address": "25 E 75th St #69",
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "state": "CA",
+    "postalCode": 90034,
+    "riskFactor": 0.443325045071515,
+    "phone1": "310-498-5651",
+    "phone2": "310-254-3084",
+    "email": "kiley.caldarera@aol.com",
+    "web": "http://www.feinerbros.com"
+  },
+  {
+    "number": 771,
+    "first": "Graciela",
+    "last": "Ruta",
+    "company": "Buckley Miller \u0026 Wright",
+    "address": "98 Connecticut Ave Nw",
+    "city": "Chagrin Falls",
+    "county": "Geauga",
+    "state": "OH",
+    "postalCode": 44023,
+    "riskFactor": 3.10392848591882,
+    "phone1": "440-780-8425",
+    "phone2": "440-579-7763",
+    "email": "gruta@cox.net",
+    "web": "http://www.buckleymillerwright.com"
+  },
+  {
+    "number": 525,
+    "first": "Cammy",
+    "last": "Albares",
+    "company": "Rousseaux, Michael Esq",
+    "address": "56 E Morehead St",
+    "city": "Laredo",
+    "county": "Webb",
+    "state": "TX",
+    "postalCode": 78045,
+    "riskFactor": 4.54852077857535,
+    "phone1": "956-537-6195",
+    "phone2": "956-841-7216",
+    "email": "calbares@gmail.com",
+    "web": "http://www.rousseauxmichaelesq.com"
+  },
+  {
+    "number": 487,
+    "first": "Mattie",
+    "last": "Poquette",
+    "company": "Century Communications",
+    "address": "73 State Road 434 E",
+    "city": "Phoenix",
+    "county": "Maricopa",
+    "state": "AZ",
+    "postalCode": 85013,
+    "riskFactor": 4.01359512394234,
+    "phone1": "602-277-4385",
+    "phone2": "602-953-6360",
+    "email": "mattie@aol.com",
+    "web": "http://www.centurycommunications.com"
+  },
+  {
+    "number": 1101,
+    "first": "Meaghan",
+    "last": "Garufi",
+    "company": "Bolton, Wilbur Esq",
+    "address": "69734 E Carrillo St",
+    "city": "Mc Minnville",
+    "county": "Warren",
+    "state": "TN",
+    "postalCode": 37110,
+    "riskFactor": 2.33206249023171,
+    "phone1": "931-313-9635",
+    "phone2": "931-235-7959",
+    "email": "meaghan@hotmail.com",
+    "web": "http://www.boltonwilburesq.com"
+  },
+  {
+    "number": 831,
+    "first": "Gladys",
+    "last": "Rim",
+    "company": "T M Byxbee Company Pc",
+    "address": "322 New Horizon Blvd",
+    "city": "Milwaukee",
+    "county": "Milwaukee",
+    "state": "WI",
+    "postalCode": 53207,
+    "riskFactor": 2.15123713302263,
+    "phone1": "414-661-9598",
+    "phone2": "414-377-2880",
+    "email": "gladys.rim@rim.org",
+    "web": "http://www.tmbyxbeecompanypc.com"
+  },
+  {
+    "number": 111,
+    "first": "Yuki",
+    "last": "Whobrey",
+    "company": "Farmers Insurance Group",
+    "address": "1 State Route 27",
+    "city": "Taylor",
+    "county": "Wayne",
+    "state": "MI",
+    "postalCode": 48180,
+    "riskFactor": 0.926998868065159,
+    "phone1": "313-288-7937",
+    "phone2": "313-341-4470",
+    "email": "yuki_whobrey@aol.com",
+    "web": "http://www.farmersinsurancegroup.com"
+  }
+]
+2022-03-28 09:36:49.779 [main] INFO  App - The file has been successfully created! Filename: writeClients.json
+2022-03-28 09:36:49.779 [main] DEBUG App - Step 5
+2022-03-28 09:36:49.780 [main] INFO  App - Specified Client: number=730, first='James', last='Butt', company='Benton, John B Jr', address='6649 N Blue Gum St', city='New Orleans', county='Orleans', state='LA', postalCode=70116, riskFactor=1.30104582103399, phone1='504-621-8927', phone2='504-845-1427', email='jbutt@gmail.com', web='http://www.bentonjohnbjr.com'
+2022-03-28 09:36:49.780 [main] DEBUG App - Step 6
+2022-03-28 09:36:50.271 [main] INFO  App - Area Code: 70116 | Latitude: 29.9686 | Longitude: -90.0646
+2022-03-28 09:36:50.271 [main] DEBUG App - Step 7
+2022-03-28 09:36:50.275 [main] DEBUG App - In prepared7...
+2022-03-28 09:36:50.558 [main] INFO  App - At least one record was found
+2022-03-28 09:36:50.559 [main] INFO  App - Median Age: 35.900001525878906
+2022-03-28 09:36:50.559 [main] INFO  App - Population: 389617
+2022-03-28 09:36:50.568 [main] DEBUG App - End of prepared7
+2022-03-28 09:36:50.568 [main] DEBUG App - Step 8 (Bonus)
+2022-03-28 09:36:50.725 [main] DEBUG App - Step 9
+2022-03-28 09:36:50.726 [main] DEBUG App - End of program
+2022-03-28 09:37:24.114 [main] INFO  App - ==== Printing Command Line Arguments ====
+2022-03-28 09:37:24.118 [main] INFO  App - args[0] is: report
+2022-03-28 09:37:24.118 [main] INFO  App - args[1] is: output.json
+2022-03-28 09:37:24.118 [main] DEBUG App - In doReport...
+2022-03-28 09:37:24.118 [main] DEBUG App - Creating Individual from Json...
+2022-03-28 09:37:24.148 [main] DEBUG App - Creating markdown file...
+2022-03-28 09:37:24.150 [main] DEBUG App - End of program

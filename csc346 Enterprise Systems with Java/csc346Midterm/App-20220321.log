@@ -1,0 +1,32 @@
+2022-03-21 22:47:07.307 [main] INFO  App - 
+==== Printing Command Line Arguments ====
+2022-03-21 22:47:25.335 [main] INFO  App - 
+==== Printing Command Line Arguments ====
+2022-03-21 22:50:30.936 [main] INFO  App - 
+==== Printing Command Line Arguments ====
+2022-03-21 22:50:45.734 [main] INFO  App - 
+==== Printing Command Line Arguments ====
+2022-03-21 22:51:11.156 [main] INFO  App - 
+==== Printing Command Line Arguments ====
+2022-03-21 22:51:11.160 [main] INFO  App - args[0] is: hi
+2022-03-21 22:51:11.160 [main] INFO  App - args[1] is: my
+2022-03-21 22:51:30.260 [main] INFO  App - ==== Printing Command Line Arguments ====
+2022-03-21 22:51:30.263 [main] INFO  App - args[0] is: hi
+2022-03-21 22:51:30.263 [main] INFO  App - args[1] is: my
+2022-03-21 22:52:02.980 [main] INFO  App - ==== Printing Command Line Arguments ====
+2022-03-21 22:52:02.984 [main] INFO  App - args[0] is: hi
+2022-03-21 22:52:02.984 [main] INFO  App - args[1] is: my
+2022-03-21 22:52:19.372 [main] INFO  App - ==== Printing Command Line Arguments ====
+2022-03-21 22:52:19.377 [main] INFO  App - args[0] is: hi
+2022-03-21 22:52:19.377 [main] INFO  App - args[1] is: my
+2022-03-21 22:52:19.377 [main] INFO  App - args[2] is: name
+2022-03-21 22:52:19.377 [main] INFO  App - args[3] is: is
+2022-03-21 22:52:19.377 [main] INFO  App - args[4] is: nick
+2022-03-21 22:52:19.377 [main] INFO  App - args[5] is: wright
+2022-03-21 22:52:40.264 [main] INFO  App - ==== Printing Command Line Arguments ====
+2022-03-21 22:52:40.267 [main] TRACE App - args[0] is: hi
+2022-03-21 22:52:40.268 [main] TRACE App - args[1] is: my
+2022-03-21 22:52:40.268 [main] TRACE App - args[2] is: name
+2022-03-21 22:52:40.268 [main] TRACE App - args[3] is: is
+2022-03-21 22:52:40.268 [main] TRACE App - args[4] is: nick
+2022-03-21 22:52:40.268 [main] TRACE App - args[5] is: wright

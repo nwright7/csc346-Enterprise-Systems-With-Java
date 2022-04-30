@@ -1,0 +1,406 @@
+2022-02-11 00:00:18.148 [main] DEBUG App - Cells in line: 1
+2022-02-11 00:00:18.152 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:00:18.153 [main] DEBUG App - CSC 184    Intro to Computer Programming Yan         3
+2022-02-11 00:00:18.155 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:00:18.156 [main] DEBUG App - CSC 346    Enterprise Systems with Java Noynaert    3
+2022-02-11 00:00:18.156 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:00:18.157 [main] DEBUG App - MAT 111 E  Introductory Statistics Mutua       4
+2022-02-11 00:00:18.157 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:00:18.158 [main] DEBUG App - ACT 490    IT Career Preparation Pickett     1
+2022-02-11 00:00:18.159 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:00:18.159 [main] DEBUG App - MUS 101    Perspectives in Music Grant       3
+2022-02-11 00:00:18.160 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:00:18.160 [main] DEBUG App - ART 326    Introduction to Game Design Stout       3
+2022-02-11 00:00:18.161 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:00:18.161 [main] DEBUG App - EXS 160    Cheer and Dance Participation Dodd        1
+2022-02-11 00:00:18.162 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:00:18.162 [main] ERROR App - Input could not be parsed, converting to 0. For input string: "l"
+2022-02-11 00:00:18.163 [main] DEBUG App - EXS 158    Intercollegiate Sports I Dodd        0
+2022-02-11 00:00:18.163 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:00:18.164 [main] ERROR App - Input could not be parsed, converting to 0. For input string: "x"
+2022-02-11 00:00:18.164 [main] DEBUG App - MUS 101    Perspectives in Music Raines-Grew  0
+2022-02-11 00:00:18.165 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:00:18.165 [main] DEBUG App - MUS 101    Perspectives in Music Harrelson   3
+2022-02-11 00:00:18.165 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:00:18.166 [main] ERROR App - Input could not be parsed, converting to 0. For input string: ""
+2022-02-11 00:00:18.166 [main] DEBUG App - MAT 111 E  Introductory Statistics Anderson    0
+2022-02-11 00:00:18.166 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:00:18.167 [main] DEBUG App - MAT 111 E  Introductory Statistics McCune      4
+2022-02-11 00:00:18.167 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:00:18.167 [main] DEBUG App - MAT 111 E  Introductory Statistics Halstead    4
+2022-02-11 00:00:51.254 [main] DEBUG App - Cells in line: 1
+2022-02-11 00:00:51.260 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:00:51.262 [main] DEBUG App - CSC 184    Intro to Computer Programming Yan         3
+2022-02-11 00:00:51.264 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:00:51.264 [main] DEBUG App - CSC 346    Enterprise Systems with Java Noynaert    3
+2022-02-11 00:00:51.265 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:00:51.265 [main] DEBUG App - MAT 111 E  Introductory Statistics Mutua       4
+2022-02-11 00:00:51.265 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:00:51.266 [main] DEBUG App - ACT 490    IT Career Preparation Pickett     1
+2022-02-11 00:00:51.266 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:00:51.267 [main] DEBUG App - MUS 101    Perspectives in Music Grant       3
+2022-02-11 00:00:51.267 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:00:51.268 [main] DEBUG App - ART 326    Introduction to Game Design Stout       3
+2022-02-11 00:00:51.268 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:00:51.269 [main] DEBUG App - EXS 160    Cheer and Dance Participation Dodd        1
+2022-02-11 00:00:51.269 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:00:51.269 [main] ERROR App - Input could not be parsed, converting to 0. (For input string: "l")
+2022-02-11 00:00:51.270 [main] DEBUG App - EXS 158    Intercollegiate Sports I Dodd        0
+2022-02-11 00:00:51.270 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:00:51.271 [main] ERROR App - Input could not be parsed, converting to 0. (For input string: "x")
+2022-02-11 00:00:51.271 [main] DEBUG App - MUS 101    Perspectives in Music Raines-Grew  0
+2022-02-11 00:00:51.271 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:00:51.272 [main] DEBUG App - MUS 101    Perspectives in Music Harrelson   3
+2022-02-11 00:00:51.272 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:00:51.272 [main] ERROR App - Input could not be parsed, converting to 0. (For input string: "")
+2022-02-11 00:00:51.273 [main] DEBUG App - MAT 111 E  Introductory Statistics Anderson    0
+2022-02-11 00:00:51.273 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:00:51.274 [main] DEBUG App - MAT 111 E  Introductory Statistics McCune      4
+2022-02-11 00:00:51.274 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:00:51.274 [main] DEBUG App - MAT 111 E  Introductory Statistics Halstead    4
+2022-02-11 00:01:16.885 [main] DEBUG App - Cells in line: 1
+2022-02-11 00:01:16.890 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:01:16.891 [main] DEBUG App - CSC 184    Intro to Computer Programming Yan         3
+2022-02-11 00:01:16.893 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:01:16.894 [main] DEBUG App - CSC 346    Enterprise Systems with Java Noynaert    3
+2022-02-11 00:01:16.894 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:01:16.895 [main] DEBUG App - MAT 111 E  Introductory Statistics Mutua       4
+2022-02-11 00:01:16.895 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:01:16.895 [main] DEBUG App - ACT 490    IT Career Preparation Pickett     1
+2022-02-11 00:01:16.896 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:01:16.896 [main] DEBUG App - MUS 101    Perspectives in Music Grant       3
+2022-02-11 00:01:16.897 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:01:16.897 [main] DEBUG App - ART 326    Introduction to Game Design Stout       3
+2022-02-11 00:01:16.897 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:01:16.898 [main] DEBUG App - EXS 160    Cheer and Dance Participation Dodd        1
+2022-02-11 00:01:16.898 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:01:16.899 [main] ERROR App - Input could not be parsed, converting to 0. (For input string: "l")
+2022-02-11 00:01:16.899 [main] DEBUG App - EXS 158    Intercollegiate Sports I Dodd        0
+2022-02-11 00:01:16.899 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:01:16.900 [main] ERROR App - Input could not be parsed, converting to 0. (For input string: "x")
+2022-02-11 00:01:16.900 [main] DEBUG App - MUS 101    Perspectives in Music Raines-Grew  0
+2022-02-11 00:01:16.900 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:01:16.901 [main] DEBUG App - MUS 101    Perspectives in Music Harrelson   3
+2022-02-11 00:01:16.901 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:01:16.901 [main] ERROR App - Input could not be parsed, converting to 0. (For input string: "")
+2022-02-11 00:01:16.902 [main] DEBUG App - MAT 111 E  Introductory Statistics Anderson    0
+2022-02-11 00:01:16.902 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:01:16.902 [main] DEBUG App - MAT 111 E  Introductory Statistics McCune      4
+2022-02-11 00:01:16.903 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:01:16.903 [main] DEBUG App - MAT 111 E  Introductory Statistics Halstead    4
+2022-02-11 00:01:49.399 [main] DEBUG App - Cells in line: 1
+2022-02-11 00:01:49.404 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:01:49.405 [main] DEBUG App - CSC 184    Intro to Computer Programming Yan         3
+2022-02-11 00:01:49.407 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:01:49.408 [main] DEBUG App - CSC 346    Enterprise Systems with Java Noynaert    3
+2022-02-11 00:01:49.408 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:01:49.409 [main] DEBUG App - MAT 111 E  Introductory Statistics Mutua       4
+2022-02-11 00:01:49.409 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:01:49.409 [main] DEBUG App - ACT 490    IT Career Preparation Pickett     1
+2022-02-11 00:01:49.410 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:01:49.411 [main] DEBUG App - MUS 101    Perspectives in Music Grant       3
+2022-02-11 00:01:49.411 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:01:49.412 [main] DEBUG App - ART 326    Introduction to Game Design Stout       3
+2022-02-11 00:01:49.412 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:01:49.413 [main] DEBUG App - EXS 160    Cheer and Dance Participation Dodd        1
+2022-02-11 00:01:49.414 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:01:49.414 [main] ERROR App - Input could not be parsed, converting to 0. (For input string: "l")
+2022-02-11 00:01:49.415 [main] DEBUG App - EXS 158    Intercollegiate Sports I Dodd        0
+2022-02-11 00:01:49.415 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:01:49.416 [main] ERROR App - Input could not be parsed, converting to 0. (For input string: "x")
+2022-02-11 00:01:49.416 [main] DEBUG App - MUS 101    Perspectives in Music Raines-Grew  0
+2022-02-11 00:01:49.417 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:01:49.417 [main] DEBUG App - MUS 101    Perspectives in Music Harrelson   3
+2022-02-11 00:01:49.418 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:01:49.418 [main] ERROR App - Input could not be parsed, converting to 0. (For input string: "")
+2022-02-11 00:01:49.419 [main] DEBUG App - MAT 111 E  Introductory Statistics Anderson    0
+2022-02-11 00:01:49.419 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:01:49.420 [main] DEBUG App - MAT 111 E  Introductory Statistics McCune      4
+2022-02-11 00:01:49.420 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:01:49.420 [main] DEBUG App - MAT 111 E  Introductory Statistics Halstead    4
+2022-02-11 00:03:52.456 [main] TRACE App - calling readURL
+2022-02-11 00:03:52.727 [main] DEBUG App - Cells in line: 1
+2022-02-11 00:03:52.728 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:03:52.729 [main] DEBUG App - CSC 184    Intro to Computer Programming Yan         3
+2022-02-11 00:03:52.731 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:03:52.732 [main] DEBUG App - CSC 346    Enterprise Systems with Java Noynaert    3
+2022-02-11 00:03:52.734 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:03:52.735 [main] DEBUG App - MAT 111 E  Introductory Statistics Mutua       4
+2022-02-11 00:03:52.735 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:03:52.736 [main] DEBUG App - ACT 490    IT Career Preparation Pickett     1
+2022-02-11 00:03:52.737 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:03:52.738 [main] DEBUG App - MUS 101    Perspectives in Music Grant       3
+2022-02-11 00:03:52.739 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:03:52.740 [main] DEBUG App - ART 326    Introduction to Game Design Stout       3
+2022-02-11 00:03:52.741 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:03:52.742 [main] DEBUG App - EXS 160    Cheer and Dance Participation Dodd        1
+2022-02-11 00:03:52.743 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:03:52.743 [main] ERROR App - Input could not be parsed, converting to 0. (For input string: "l")
+2022-02-11 00:03:52.744 [main] DEBUG App - EXS 158    Intercollegiate Sports I Dodd        0
+2022-02-11 00:03:52.745 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:03:52.746 [main] ERROR App - Input could not be parsed, converting to 0. (For input string: "x")
+2022-02-11 00:03:52.747 [main] DEBUG App - MUS 101    Perspectives in Music Raines-Grew  0
+2022-02-11 00:03:52.747 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:03:52.748 [main] DEBUG App - MUS 101    Perspectives in Music Harrelson   3
+2022-02-11 00:03:52.749 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:03:52.750 [main] ERROR App - Input could not be parsed, converting to 0. (For input string: "")
+2022-02-11 00:03:52.750 [main] DEBUG App - MAT 111 E  Introductory Statistics Anderson    0
+2022-02-11 00:03:52.751 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:03:52.752 [main] DEBUG App - MAT 111 E  Introductory Statistics McCune      4
+2022-02-11 00:03:52.753 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:03:52.754 [main] DEBUG App - MAT 111 E  Introductory Statistics Halstead    4
+2022-02-11 00:03:52.754 [main] TRACE App - calling printCourses
+2022-02-11 00:05:58.959 [main] TRACE App - calling readURL
+2022-02-11 00:06:00.276 [main] DEBUG App - Cells in line: 1
+2022-02-11 00:06:00.277 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:06:00.278 [main] DEBUG App - CSC 184    Intro to Computer Programming Yan         3
+2022-02-11 00:06:00.281 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:06:00.282 [main] DEBUG App - CSC 346    Enterprise Systems with Java Noynaert    3
+2022-02-11 00:06:00.282 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:06:00.283 [main] DEBUG App - MAT 111 E  Introductory Statistics Mutua       4
+2022-02-11 00:06:00.283 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:06:00.284 [main] DEBUG App - ACT 490    IT Career Preparation Pickett     1
+2022-02-11 00:06:00.284 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:06:00.285 [main] DEBUG App - MUS 101    Perspectives in Music Grant       3
+2022-02-11 00:06:00.285 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:06:00.286 [main] DEBUG App - ART 326    Introduction to Game Design Stout       3
+2022-02-11 00:06:00.286 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:06:00.286 [main] DEBUG App - EXS 160    Cheer and Dance Participation Dodd        1
+2022-02-11 00:06:00.287 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:06:00.287 [main] DEBUG App - EXS 158    Intercollegiate Sports I Dodd        0
+2022-02-11 00:06:00.288 [main] DEBUG App - |EXS 158   | |Intercollegiate Sports I      | |Dodd        | |0 |
+2022-02-11 00:06:00.290 [main] INFO  App - [|ACT 490   | |IT Career Preparation         | |Pickett     | |1 |, |ART 326   | |Introduction to Game Design   | |Stout       | |3 |, |CSC 184   | |Intro to Computer Programming | |Yan         | |3 |, |CSC 346   | |Enterprise Systems with Java  | |Noynaert    | |3 |, |EXS 160   | |Cheer and Dance Participation | |Dodd        | |1 |, |MAT 111 E | |Introductory Statistics       | |Mutua       | |4 |, |MUS 101   | |Perspectives in Music         | |Grant       | |3 |, |EXS 158   | |Intercollegiate Sports I      | |Dodd        | |0 |]
+2022-02-11 00:06:00.290 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:06:00.291 [main] DEBUG App - MUS 101    Perspectives in Music Raines-Grew  0
+2022-02-11 00:06:00.291 [main] DEBUG App - |MUS 101   | |Perspectives in Music         | |Raines-Grew | |0 |
+2022-02-11 00:06:00.293 [main] INFO  App - [|ACT 490   | |IT Career Preparation         | |Pickett     | |1 |, |ART 326   | |Introduction to Game Design   | |Stout       | |3 |, |CSC 184   | |Intro to Computer Programming | |Yan         | |3 |, |CSC 346   | |Enterprise Systems with Java  | |Noynaert    | |3 |, |EXS 158   | |Intercollegiate Sports I      | |Dodd        | |0 |, |EXS 160   | |Cheer and Dance Participation | |Dodd        | |1 |, |MAT 111 E | |Introductory Statistics       | |Mutua       | |4 |, |MUS 101   | |Perspectives in Music         | |Grant       | |3 |, |MUS 101   | |Perspectives in Music         | |Raines-Grew | |0 |]
+2022-02-11 00:06:00.294 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:06:00.294 [main] DEBUG App - MUS 101    Perspectives in Music Harrelson   3
+2022-02-11 00:06:00.295 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:06:00.295 [main] DEBUG App - MAT 111 E  Introductory Statistics Anderson    0
+2022-02-11 00:06:00.295 [main] DEBUG App - |MAT 111 E | |Introductory Statistics       | |Anderson    | |0 |
+2022-02-11 00:06:00.297 [main] INFO  App - [|ACT 490   | |IT Career Preparation         | |Pickett     | |1 |, |ART 326   | |Introduction to Game Design   | |Stout       | |3 |, |CSC 184   | |Intro to Computer Programming | |Yan         | |3 |, |CSC 346   | |Enterprise Systems with Java  | |Noynaert    | |3 |, |EXS 158   | |Intercollegiate Sports I      | |Dodd        | |0 |, |EXS 160   | |Cheer and Dance Participation | |Dodd        | |1 |, |MAT 111 E | |Introductory Statistics       | |Mutua       | |4 |, |MUS 101   | |Perspectives in Music         | |Grant       | |3 |, |MUS 101   | |Perspectives in Music         | |Harrelson   | |3 |, |MUS 101   | |Perspectives in Music         | |Raines-Grew | |0 |, |MAT 111 E | |Introductory Statistics       | |Anderson    | |0 |]
+2022-02-11 00:06:00.298 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:06:00.298 [main] DEBUG App - MAT 111 E  Introductory Statistics McCune      4
+2022-02-11 00:06:00.298 [main] DEBUG App - Cells in line: 4
+2022-02-11 00:06:00.298 [main] DEBUG App - MAT 111 E  Introductory Statistics Halstead    4
+2022-02-11 00:06:00.299 [main] TRACE App - calling printCourses
+2022-02-11 00:06:48.778 [main] TRACE App - calling readURL
+2022-02-11 00:06:49.044 [main] DEBUG App - |EXS 158   | |Intercollegiate Sports I      | |Dodd        | |0 |
+2022-02-11 00:06:49.045 [main] INFO  App - [|ACT 490   | |IT Career Preparation         | |Pickett     | |1 |, |ART 326   | |Introduction to Game Design   | |Stout       | |3 |, |CSC 184   | |Intro to Computer Programming | |Yan         | |3 |, |CSC 346   | |Enterprise Systems with Java  | |Noynaert    | |3 |, |EXS 160   | |Cheer and Dance Participation | |Dodd        | |1 |, |MAT 111 E | |Introductory Statistics       | |Mutua       | |4 |, |MUS 101   | |Perspectives in Music         | |Grant       | |3 |, |EXS 158   | |Intercollegiate Sports I      | |Dodd        | |0 |]
+2022-02-11 00:06:49.046 [main] DEBUG App - |MUS 101   | |Perspectives in Music         | |Raines-Grew | |0 |
+2022-02-11 00:06:49.048 [main] INFO  App - [|ACT 490   | |IT Career Preparation         | |Pickett     | |1 |, |ART 326   | |Introduction to Game Design   | |Stout       | |3 |, |CSC 184   | |Intro to Computer Programming | |Yan         | |3 |, |CSC 346   | |Enterprise Systems with Java  | |Noynaert    | |3 |, |EXS 158   | |Intercollegiate Sports I      | |Dodd        | |0 |, |EXS 160   | |Cheer and Dance Participation | |Dodd        | |1 |, |MAT 111 E | |Introductory Statistics       | |Mutua       | |4 |, |MUS 101   | |Perspectives in Music         | |Grant       | |3 |, |MUS 101   | |Perspectives in Music         | |Raines-Grew | |0 |]
+2022-02-11 00:06:49.049 [main] DEBUG App - |MAT 111 E | |Introductory Statistics       | |Anderson    | |0 |
+2022-02-11 00:06:49.050 [main] INFO  App - [|ACT 490   | |IT Career Preparation         | |Pickett     | |1 |, |ART 326   | |Introduction to Game Design   | |Stout       | |3 |, |CSC 184   | |Intro to Computer Programming | |Yan         | |3 |, |CSC 346   | |Enterprise Systems with Java  | |Noynaert    | |3 |, |EXS 158   | |Intercollegiate Sports I      | |Dodd        | |0 |, |EXS 160   | |Cheer and Dance Participation | |Dodd        | |1 |, |MAT 111 E | |Introductory Statistics       | |Mutua       | |4 |, |MUS 101   | |Perspectives in Music         | |Grant       | |3 |, |MUS 101   | |Perspectives in Music         | |Harrelson   | |3 |, |MUS 101   | |Perspectives in Music         | |Raines-Grew | |0 |, |MAT 111 E | |Introductory Statistics       | |Anderson    | |0 |]
+2022-02-11 00:06:49.051 [main] TRACE App - calling printCourses
+2022-02-11 00:07:06.431 [main] TRACE App - calling readURL
+2022-02-11 00:07:06.731 [main] DEBUG App - |EXS 158   | |Intercollegiate Sports I      | |Dodd        | |0 |
+2022-02-11 00:07:06.732 [main] INFO  App - [|ACT 490   | |IT Career Preparation         | |Pickett     | |1 |, |ART 326   | |Introduction to Game Design   | |Stout       | |3 |, |CSC 184   | |Intro to Computer Programming | |Yan         | |3 |, |CSC 346   | |Enterprise Systems with Java  | |Noynaert    | |3 |, |EXS 160   | |Cheer and Dance Participation | |Dodd        | |1 |, |MAT 111 E | |Introductory Statistics       | |Mutua       | |4 |, |MUS 101   | |Perspectives in Music         | |Grant       | |3 |, |EXS 158   | |Intercollegiate Sports I      | |Dodd        | |0 |]
+2022-02-11 00:07:06.733 [main] DEBUG App - |MUS 101   | |Perspectives in Music         | |Raines-Grew | |0 |
+2022-02-11 00:07:06.735 [main] INFO  App - [|ACT 490   | |IT Career Preparation         | |Pickett     | |1 |, |ART 326   | |Introduction to Game Design   | |Stout       | |3 |, |CSC 184   | |Intro to Computer Programming | |Yan         | |3 |, |CSC 346   | |Enterprise Systems with Java  | |Noynaert    | |3 |, |EXS 158   | |Intercollegiate Sports I      | |Dodd        | |0 |, |EXS 160   | |Cheer and Dance Participation | |Dodd        | |1 |, |MAT 111 E | |Introductory Statistics       | |Mutua       | |4 |, |MUS 101   | |Perspectives in Music         | |Grant       | |3 |, |MUS 101   | |Perspectives in Music         | |Raines-Grew | |0 |]
+2022-02-11 00:07:06.736 [main] DEBUG App - |MAT 111 E | |Introductory Statistics       | |Anderson    | |0 |
+2022-02-11 00:07:06.739 [main] INFO  App - [|ACT 490   | |IT Career Preparation         | |Pickett     | |1 |, |ART 326   | |Introduction to Game Design   | |Stout       | |3 |, |CSC 184   | |Intro to Computer Programming | |Yan         | |3 |, |CSC 346   | |Enterprise Systems with Java  | |Noynaert    | |3 |, |EXS 158   | |Intercollegiate Sports I      | |Dodd        | |0 |, |EXS 160   | |Cheer and Dance Participation | |Dodd        | |1 |, |MAT 111 E | |Introductory Statistics       | |Mutua       | |4 |, |MUS 101   | |Perspectives in Music         | |Grant       | |3 |, |MUS 101   | |Perspectives in Music         | |Harrelson   | |3 |, |MUS 101   | |Perspectives in Music         | |Raines-Grew | |0 |, |MAT 111 E | |Introductory Statistics       | |Anderson    | |0 |]
+2022-02-11 00:07:06.739 [main] TRACE App - calling printCourses
+2022-02-11 00:08:38.770 [main] TRACE App - calling readURL
+2022-02-11 00:08:39.038 [main] DEBUG App - |EXS 158   | |Intercollegiate Sports I      | |Dodd        | |0 |
+2022-02-11 00:08:39.038 [main] INFO  App - 8
+2022-02-11 00:08:39.039 [main] DEBUG App - |MUS 101   | |Perspectives in Music         | |Raines-Grew | |0 |
+2022-02-11 00:08:39.040 [main] INFO  App - 9
+2022-02-11 00:08:39.040 [main] DEBUG App - |MAT 111 E | |Introductory Statistics       | |Anderson    | |0 |
+2022-02-11 00:08:39.041 [main] INFO  App - 11
+2022-02-11 00:08:39.041 [main] TRACE App - calling printCourses
+2022-02-11 00:12:01.308 [main] TRACE App - calling readURL
+2022-02-11 00:12:01.624 [main] DEBUG App - |EXS 158   | |Intercollegiate Sports I      | |Dodd        | |0 |
+2022-02-11 00:12:01.625 [main] INFO  App - 8
+2022-02-11 00:12:01.626 [main] DEBUG App - |MUS 101   | |Perspectives in Music         | |Raines-Grew | |0 |
+2022-02-11 00:12:01.626 [main] INFO  App - 9
+2022-02-11 00:12:01.627 [main] DEBUG App - |MAT 111 E | |Introductory Statistics       | |Anderson    | |0 |
+2022-02-11 00:12:01.627 [main] INFO  App - 11
+2022-02-11 00:12:01.628 [main] TRACE App - calling printCourses
+2022-02-11 00:13:05.024 [main] TRACE App - calling readURL
+2022-02-11 00:13:05.312 [main] DEBUG App - |EXS 158   | |Intercollegiate Sports I      | |Dodd        | |0 |
+2022-02-11 00:13:05.312 [main] INFO  App - 8
+2022-02-11 00:13:05.313 [main] DEBUG App - |MUS 101   | |Perspectives in Music         | |Raines-Grew | |0 |
+2022-02-11 00:13:05.313 [main] INFO  App - 9
+2022-02-11 00:13:05.314 [main] DEBUG App - |MAT 111 E | |Introductory Statistics       | |Anderson    | |0 |
+2022-02-11 00:13:05.314 [main] INFO  App - 11
+2022-02-11 00:13:05.314 [main] TRACE App - calling printCourses
+2022-02-11 00:13:53.865 [main] TRACE App - calling readURL
+2022-02-11 00:13:54.191 [main] DEBUG App - |CSC 184   | |Intro to Computer Programming | |Yan         | |3 |
+2022-02-11 00:13:54.192 [main] INFO  App - 1
+2022-02-11 00:13:54.192 [main] DEBUG App - |CSC 346   | |Enterprise Systems with Java  | |Noynaert    | |3 |
+2022-02-11 00:13:54.192 [main] INFO  App - 2
+2022-02-11 00:13:54.193 [main] DEBUG App - |MAT 111 E | |Introductory Statistics       | |Mutua       | |4 |
+2022-02-11 00:13:54.193 [main] INFO  App - 3
+2022-02-11 00:13:54.194 [main] DEBUG App - |ACT 490   | |IT Career Preparation         | |Pickett     | |1 |
+2022-02-11 00:13:54.194 [main] INFO  App - 4
+2022-02-11 00:13:54.194 [main] DEBUG App - |MUS 101   | |Perspectives in Music         | |Grant       | |3 |
+2022-02-11 00:13:54.195 [main] INFO  App - 5
+2022-02-11 00:13:54.195 [main] DEBUG App - |ART 326   | |Introduction to Game Design   | |Stout       | |3 |
+2022-02-11 00:13:54.196 [main] INFO  App - 6
+2022-02-11 00:13:54.196 [main] DEBUG App - |EXS 160   | |Cheer and Dance Participation | |Dodd        | |1 |
+2022-02-11 00:13:54.197 [main] INFO  App - 7
+2022-02-11 00:13:54.198 [main] DEBUG App - |EXS 158   | |Intercollegiate Sports I      | |Dodd        | |0 |
+2022-02-11 00:13:54.198 [main] INFO  App - 8
+2022-02-11 00:13:54.198 [main] DEBUG App - |MUS 101   | |Perspectives in Music         | |Raines-Grew | |0 |
+2022-02-11 00:13:54.199 [main] INFO  App - 9
+2022-02-11 00:13:54.199 [main] DEBUG App - |MUS 101   | |Perspectives in Music         | |Harrelson   | |3 |
+2022-02-11 00:13:54.200 [main] INFO  App - 10
+2022-02-11 00:13:54.200 [main] DEBUG App - |MAT 111 E | |Introductory Statistics       | |Anderson    | |0 |
+2022-02-11 00:13:54.201 [main] INFO  App - 11
+2022-02-11 00:13:54.201 [main] DEBUG App - |MAT 111 E | |Introductory Statistics       | |McCune      | |4 |
+2022-02-11 00:13:54.201 [main] INFO  App - 12
+2022-02-11 00:13:54.202 [main] DEBUG App - |MAT 111 E | |Introductory Statistics       | |Halstead    | |4 |
+2022-02-11 00:13:54.202 [main] INFO  App - 13
+2022-02-11 00:13:54.203 [main] TRACE App - calling printCourses
+2022-02-11 00:14:23.485 [main] TRACE App - calling readURL
+2022-02-11 00:14:23.759 [main] DEBUG App - |CSC 184   | |Intro to Computer Programming | |Yan         | |3 |
+2022-02-11 00:14:23.761 [main] INFO  App - course ArrayList size = 1
+2022-02-11 00:14:23.762 [main] DEBUG App - |CSC 346   | |Enterprise Systems with Java  | |Noynaert    | |3 |
+2022-02-11 00:14:23.762 [main] INFO  App - course ArrayList size = 2
+2022-02-11 00:14:23.763 [main] DEBUG App - |MAT 111 E | |Introductory Statistics       | |Mutua       | |4 |
+2022-02-11 00:14:23.763 [main] INFO  App - course ArrayList size = 3
+2022-02-11 00:14:23.763 [main] DEBUG App - |ACT 490   | |IT Career Preparation         | |Pickett     | |1 |
+2022-02-11 00:14:23.764 [main] INFO  App - course ArrayList size = 4
+2022-02-11 00:14:23.765 [main] DEBUG App - |MUS 101   | |Perspectives in Music         | |Grant       | |3 |
+2022-02-11 00:14:23.765 [main] INFO  App - course ArrayList size = 5
+2022-02-11 00:14:23.766 [main] DEBUG App - |ART 326   | |Introduction to Game Design   | |Stout       | |3 |
+2022-02-11 00:14:23.767 [main] INFO  App - course ArrayList size = 6
+2022-02-11 00:14:23.767 [main] DEBUG App - |EXS 160   | |Cheer and Dance Participation | |Dodd        | |1 |
+2022-02-11 00:14:23.768 [main] INFO  App - course ArrayList size = 7
+2022-02-11 00:14:23.769 [main] DEBUG App - |EXS 158   | |Intercollegiate Sports I      | |Dodd        | |0 |
+2022-02-11 00:14:23.769 [main] INFO  App - 8
+2022-02-11 00:14:23.770 [main] DEBUG App - |MUS 101   | |Perspectives in Music         | |Raines-Grew | |0 |
+2022-02-11 00:14:23.770 [main] INFO  App - 9
+2022-02-11 00:14:23.771 [main] DEBUG App - |MUS 101   | |Perspectives in Music         | |Harrelson   | |3 |
+2022-02-11 00:14:23.772 [main] INFO  App - course ArrayList size = 10
+2022-02-11 00:14:23.773 [main] DEBUG App - |MAT 111 E | |Introductory Statistics       | |Anderson    | |0 |
+2022-02-11 00:14:23.773 [main] INFO  App - 11
+2022-02-11 00:14:23.774 [main] DEBUG App - |MAT 111 E | |Introductory Statistics       | |McCune      | |4 |
+2022-02-11 00:14:23.774 [main] INFO  App - course ArrayList size = 12
+2022-02-11 00:14:23.776 [main] DEBUG App - |MAT 111 E | |Introductory Statistics       | |Halstead    | |4 |
+2022-02-11 00:14:23.776 [main] INFO  App - course ArrayList size = 13
+2022-02-11 00:14:23.776 [main] TRACE App - calling printCourses
+2022-02-11 00:14:45.639 [main] TRACE App - calling readURL
+2022-02-11 00:14:45.934 [main] DEBUG App - |CSC 184   | |Intro to Computer Programming | |Yan         | |3 |
+2022-02-11 00:14:45.935 [main] INFO  App - Course ArrayList size = 1
+2022-02-11 00:14:45.936 [main] DEBUG App - |CSC 346   | |Enterprise Systems with Java  | |Noynaert    | |3 |
+2022-02-11 00:14:45.936 [main] INFO  App - Course ArrayList size = 2
+2022-02-11 00:14:45.936 [main] DEBUG App - |MAT 111 E | |Introductory Statistics       | |Mutua       | |4 |
+2022-02-11 00:14:45.937 [main] INFO  App - Course ArrayList size = 3
+2022-02-11 00:14:45.937 [main] DEBUG App - |ACT 490   | |IT Career Preparation         | |Pickett     | |1 |
+2022-02-11 00:14:45.938 [main] INFO  App - Course ArrayList size = 4
+2022-02-11 00:14:45.938 [main] DEBUG App - |MUS 101   | |Perspectives in Music         | |Grant       | |3 |
+2022-02-11 00:14:45.938 [main] INFO  App - Course ArrayList size = 5
+2022-02-11 00:14:45.939 [main] DEBUG App - |ART 326   | |Introduction to Game Design   | |Stout       | |3 |
+2022-02-11 00:14:45.939 [main] INFO  App - Course ArrayList size = 6
+2022-02-11 00:14:45.940 [main] DEBUG App - |EXS 160   | |Cheer and Dance Participation | |Dodd        | |1 |
+2022-02-11 00:14:45.940 [main] INFO  App - Course ArrayList size = 7
+2022-02-11 00:14:45.941 [main] DEBUG App - |EXS 158   | |Intercollegiate Sports I      | |Dodd        | |0 |
+2022-02-11 00:14:45.941 [main] INFO  App - 8
+2022-02-11 00:14:45.942 [main] DEBUG App - |MUS 101   | |Perspectives in Music         | |Raines-Grew | |0 |
+2022-02-11 00:14:45.942 [main] INFO  App - 9
+2022-02-11 00:14:45.943 [main] DEBUG App - |MUS 101   | |Perspectives in Music         | |Harrelson   | |3 |
+2022-02-11 00:14:45.943 [main] INFO  App - Course ArrayList size = 10
+2022-02-11 00:14:45.944 [main] DEBUG App - |MAT 111 E | |Introductory Statistics       | |Anderson    | |0 |
+2022-02-11 00:14:45.944 [main] INFO  App - 11
+2022-02-11 00:14:45.944 [main] DEBUG App - |MAT 111 E | |Introductory Statistics       | |McCune      | |4 |
+2022-02-11 00:14:45.945 [main] INFO  App - Course ArrayList size = 12
+2022-02-11 00:14:45.945 [main] DEBUG App - |MAT 111 E | |Introductory Statistics       | |Halstead    | |4 |
+2022-02-11 00:14:45.945 [main] INFO  App - Course ArrayList size = 13
+2022-02-11 00:14:45.946 [main] TRACE App - calling printCourses
+2022-02-11 00:18:01.670 [main] TRACE App - calling readURL
+2022-02-11 00:18:01.674 [main] TRACE App - in readURL
+2022-02-11 00:18:01.972 [main] INFO  App - Successfully connected to url!
+2022-02-11 00:18:01.980 [main] DEBUG App - |CSC 184   | |Intro to Computer Programming | |Yan         | |3 |
+2022-02-11 00:18:01.982 [main] INFO  App - Course ArrayList size = 1
+2022-02-11 00:18:01.982 [main] DEBUG App - |CSC 346   | |Enterprise Systems with Java  | |Noynaert    | |3 |
+2022-02-11 00:18:01.982 [main] INFO  App - Course ArrayList size = 2
+2022-02-11 00:18:01.983 [main] DEBUG App - |MAT 111 E | |Introductory Statistics       | |Mutua       | |4 |
+2022-02-11 00:18:01.984 [main] INFO  App - Course ArrayList size = 3
+2022-02-11 00:18:01.985 [main] DEBUG App - |ACT 490   | |IT Career Preparation         | |Pickett     | |1 |
+2022-02-11 00:18:01.985 [main] INFO  App - Course ArrayList size = 4
+2022-02-11 00:18:01.986 [main] DEBUG App - |MUS 101   | |Perspectives in Music         | |Grant       | |3 |
+2022-02-11 00:18:01.986 [main] INFO  App - Course ArrayList size = 5
+2022-02-11 00:18:01.987 [main] DEBUG App - |ART 326   | |Introduction to Game Design   | |Stout       | |3 |
+2022-02-11 00:18:01.988 [main] INFO  App - Course ArrayList size = 6
+2022-02-11 00:18:01.988 [main] DEBUG App - |EXS 160   | |Cheer and Dance Participation | |Dodd        | |1 |
+2022-02-11 00:18:01.989 [main] INFO  App - Course ArrayList size = 7
+2022-02-11 00:18:01.990 [main] DEBUG App - |EXS 158   | |Intercollegiate Sports I      | |Dodd        | |0 |
+2022-02-11 00:18:01.990 [main] INFO  App - 8
+2022-02-11 00:18:01.991 [main] DEBUG App - |MUS 101   | |Perspectives in Music         | |Raines-Grew | |0 |
+2022-02-11 00:18:01.991 [main] INFO  App - 9
+2022-02-11 00:18:01.992 [main] DEBUG App - |MUS 101   | |Perspectives in Music         | |Harrelson   | |3 |
+2022-02-11 00:18:01.993 [main] INFO  App - Course ArrayList size = 10
+2022-02-11 00:18:01.994 [main] DEBUG App - |MAT 111 E | |Introductory Statistics       | |Anderson    | |0 |
+2022-02-11 00:18:01.994 [main] INFO  App - 11
+2022-02-11 00:18:01.995 [main] DEBUG App - |MAT 111 E | |Introductory Statistics       | |McCune      | |4 |
+2022-02-11 00:18:01.995 [main] INFO  App - Course ArrayList size = 12
+2022-02-11 00:18:01.996 [main] DEBUG App - |MAT 111 E | |Introductory Statistics       | |Halstead    | |4 |
+2022-02-11 00:18:01.996 [main] INFO  App - Course ArrayList size = 13
+2022-02-11 00:18:01.997 [main] TRACE App - calling printCourses
+2022-02-11 00:18:01.997 [main] TRACE App - in printCourses
+2022-02-11 00:23:56.588 [main] TRACE App - calling readURL
+2022-02-11 00:23:56.594 [main] TRACE App - in readURL
+2022-02-11 00:23:56.974 [main] INFO  App - Successfully connected to url!
+2022-02-11 00:23:56.982 [main] DEBUG App - |CSC 184   | |Intro to Computer Programming | |Yan         | |3 |
+2022-02-11 00:23:56.983 [main] INFO  App - Course ArrayList size = 1
+2022-02-11 00:23:56.984 [main] DEBUG App - |CSC 346   | |Enterprise Systems with Java  | |Noynaert    | |3 |
+2022-02-11 00:23:56.984 [main] INFO  App - Course ArrayList size = 2
+2022-02-11 00:23:56.985 [main] DEBUG App - |MAT 111 E | |Introductory Statistics       | |Mutua       | |4 |
+2022-02-11 00:23:56.985 [main] INFO  App - Course ArrayList size = 3
+2022-02-11 00:23:56.986 [main] DEBUG App - |ACT 490   | |IT Career Preparation         | |Pickett     | |1 |
+2022-02-11 00:23:56.987 [main] INFO  App - Course ArrayList size = 4
+2022-02-11 00:23:56.988 [main] DEBUG App - |MUS 101   | |Perspectives in Music         | |Grant       | |3 |
+2022-02-11 00:23:56.988 [main] INFO  App - Course ArrayList size = 5
+2022-02-11 00:23:56.989 [main] DEBUG App - |ART 326   | |Introduction to Game Design   | |Stout       | |3 |
+2022-02-11 00:23:56.990 [main] INFO  App - Course ArrayList size = 6
+2022-02-11 00:23:56.991 [main] DEBUG App - |EXS 160   | |Cheer and Dance Participation | |Dodd        | |1 |
+2022-02-11 00:23:56.991 [main] INFO  App - Course ArrayList size = 7
+2022-02-11 00:23:56.992 [main] DEBUG App - |EXS 158   | |Intercollegiate Sports I      | |Dodd        | |0 |
+2022-02-11 00:23:56.993 [main] INFO  App - 8
+2022-02-11 00:23:56.995 [main] DEBUG App - |MUS 101   | |Perspectives in Music         | |Raines-Grew | |0 |
+2022-02-11 00:23:56.995 [main] INFO  App - 9
+2022-02-11 00:23:56.996 [main] DEBUG App - |MUS 101   | |Perspectives in Music         | |Harrelson   | |3 |
+2022-02-11 00:23:56.996 [main] INFO  App - Course ArrayList size = 10
+2022-02-11 00:23:56.997 [main] DEBUG App - |MAT 111 E | |Introductory Statistics       | |Anderson    | |0 |
+2022-02-11 00:23:56.998 [main] INFO  App - 11
+2022-02-11 00:23:56.998 [main] DEBUG App - |MAT 111 E | |Introductory Statistics       | |McCune      | |4 |
+2022-02-11 00:23:56.999 [main] INFO  App - Course ArrayList size = 12
+2022-02-11 00:23:57.000 [main] DEBUG App - |MAT 111 E | |Introductory Statistics       | |Halstead    | |4 |
+2022-02-11 00:23:57.000 [main] INFO  App - Course ArrayList size = 13
+2022-02-11 00:23:57.000 [main] TRACE App - calling printCourses
+2022-02-11 00:23:57.001 [main] TRACE App - in printCourses
+2022-02-11 00:24:28.799 [main] TRACE App - calling readURL
+2022-02-11 00:24:28.802 [main] TRACE App - in readURL
+2022-02-11 00:24:29.079 [main] INFO  App - Successfully connected to url!
+2022-02-11 00:24:29.086 [main] DEBUG App - |CSC 184   | |Intro to Computer Programming | |Yan         | |3 |
+2022-02-11 00:24:29.086 [main] INFO  App - Course ArrayList size = 1
+2022-02-11 00:24:29.087 [main] DEBUG App - |CSC 346   | |Enterprise Systems with Java  | |Noynaert    | |3 |
+2022-02-11 00:24:29.087 [main] INFO  App - Course ArrayList size = 2
+2022-02-11 00:24:29.088 [main] DEBUG App - |MAT 111 E | |Introductory Statistics       | |Mutua       | |4 |
+2022-02-11 00:24:29.088 [main] INFO  App - Course ArrayList size = 3
+2022-02-11 00:24:29.089 [main] DEBUG App - |ACT 490   | |IT Career Preparation         | |Pickett     | |1 |
+2022-02-11 00:24:29.089 [main] INFO  App - Course ArrayList size = 4
+2022-02-11 00:24:29.090 [main] DEBUG App - |MUS 101   | |Perspectives in Music         | |Grant       | |3 |
+2022-02-11 00:24:29.090 [main] INFO  App - Course ArrayList size = 5
+2022-02-11 00:24:29.091 [main] DEBUG App - |ART 326   | |Introduction to Game Design   | |Stout       | |3 |
+2022-02-11 00:24:29.091 [main] INFO  App - Course ArrayList size = 6
+2022-02-11 00:24:29.092 [main] DEBUG App - |EXS 160   | |Cheer and Dance Participation | |Dodd        | |1 |
+2022-02-11 00:24:29.092 [main] INFO  App - Course ArrayList size = 7
+2022-02-11 00:24:29.093 [main] DEBUG App - |EXS 158   | |Intercollegiate Sports I      | |Dodd        | |0 |
+2022-02-11 00:24:29.093 [main] INFO  App - 8
+2022-02-11 00:24:29.094 [main] DEBUG App - |MUS 101   | |Perspectives in Music         | |Raines-Grew | |0 |
+2022-02-11 00:24:29.094 [main] INFO  App - 9
+2022-02-11 00:24:29.095 [main] DEBUG App - |MUS 101   | |Perspectives in Music         | |Harrelson   | |3 |
+2022-02-11 00:24:29.095 [main] INFO  App - Course ArrayList size = 10
+2022-02-11 00:24:29.095 [main] DEBUG App - |MAT 111 E | |Introductory Statistics       | |Anderson    | |0 |
+2022-02-11 00:24:29.096 [main] INFO  App - 11
+2022-02-11 00:24:29.096 [main] DEBUG App - |MAT 111 E | |Introductory Statistics       | |McCune      | |4 |
+2022-02-11 00:24:29.096 [main] INFO  App - Course ArrayList size = 12
+2022-02-11 00:24:29.097 [main] DEBUG App - |MAT 111 E | |Introductory Statistics       | |Halstead    | |4 |
+2022-02-11 00:24:29.097 [main] INFO  App - Course ArrayList size = 13
+2022-02-11 00:24:29.097 [main] TRACE App - calling printCourses
+2022-02-11 00:24:29.097 [main] TRACE App - in printCourses
+
+
